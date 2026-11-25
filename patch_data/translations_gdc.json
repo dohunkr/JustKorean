@@ -4082,30 +4082,6 @@
       "orig": "touch",
       "ko": "터치"
     },
-    "6": {
-      "orig": "contact",
-      "ko": "컨택트"
-    },
-    "8": {
-      "orig": "set",
-      "ko": "세트"
-    },
-    "10": {
-      "orig": "dive",
-      "ko": "다이브"
-    },
-    "12": {
-      "orig": "jump",
-      "ko": "점프"
-    },
-    "14": {
-      "orig": "strafe",
-      "ko": "스트레이프"
-    },
-    "16": {
-      "orig": "sprint",
-      "ko": "스프린트"
-    },
     "22": {
       "orig": "call ball",
       "ko": "공 요청"
@@ -4113,10 +4089,6 @@
     "23": {
       "orig": "spawn ball",
       "ko": "공 소환"
-    },
-    "24": {
-      "orig": "serve",
-      "ko": "서브"
     },
     "27": {
       "orig": "despawn ball",
@@ -4141,10 +4113,6 @@
     "45": {
       "orig": "aim assist",
       "ko": "조준 보정"
-    },
-    "67": {
-      "orig": "block",
-      "ko": "블로킹"
     },
     "69": {
       "orig": "toss",
@@ -8181,20 +8149,6 @@
     "27": {
       "orig": "cpu %d",
       "ko": "CPU %d"
-    }
-  },
-  "game/core/input_prompts.gdc": {
-    "3": {
-      "orig": "PlayStation Series",
-      "ko": "PlayStation 시리즈"
-    },
-    "4": {
-      "orig": "Xbox Series",
-      "ko": "Xbox 시리즈"
-    },
-    "197": {
-      "orig": "Keyboard & Mouse",
-      "ko": "키보드 & 마우스"
     }
   },
   "game/core/rules.gdc": {
