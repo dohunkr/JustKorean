@@ -1,0 +1,8 @@
+*.bak
+*.tmp
+dist/
+build/
+*.spec
+__pycache__/
+.pytest_cache/
+scratch/

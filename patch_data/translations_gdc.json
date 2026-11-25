@@ -1,0 +1,7340 @@
+{
+  "game/character/look_missing.gdc": {
+    "14": {
+      "orig": "you're missing the following accessories",
+      "ko": "보유하지 않은 액세서리가 있어요"
+    },
+    "21": {
+      "orig": "you have",
+      "ko": "보유 중"
+    },
+    "29": {
+      "orig": "buy all",
+      "ko": "모두 구매"
+    },
+    "51": {
+      "orig": "you need %s more",
+      "ko": "%s 더 필요해요"
+    }
+  },
+  "game/core/input_binds.gdc": {
+    "6": {
+      "orig": "move up",
+      "ko": "위로 이동"
+    },
+    "10": {
+      "orig": "move down",
+      "ko": "아래로 이동"
+    },
+    "12": {
+      "orig": "move left",
+      "ko": "왼쪽으로 이동"
+    },
+    "14": {
+      "orig": "move right",
+      "ko": "오른쪽으로 이동"
+    },
+    "17": {
+      "orig": "hit / receive",
+      "ko": "스파이크 / 리시브"
+    },
+    "23": {
+      "orig": "spawn ball",
+      "ko": "공 생성"
+    },
+    "26": {
+      "orig": "despawn ball",
+      "ko": "공 제거"
+    },
+    "30": {
+      "orig": "aim assist / recenter",
+      "ko": "조준 보정 / 중앙 정렬"
+    },
+    "32": {
+      "orig": "cycle camera",
+      "ko": "카메라 전환"
+    },
+    "35": {
+      "orig": "camera: dynamic",
+      "ko": "카메라: 다이내믹"
+    },
+    "38": {
+      "orig": "camera: broadcast",
+      "ko": "카메라: 중계"
+    },
+    "40": {
+      "orig": "camera: static",
+      "ko": "카메라: 고정"
+    },
+    "42": {
+      "orig": "camera: action",
+      "ko": "카메라: 액션"
+    },
+    "46": {
+      "orig": "action cam: shoulder",
+      "ko": "액션 캠: 숄더뷰"
+    },
+    "52": {
+      "orig": "free mouse",
+      "ko": "자유 마우스"
+    },
+    "54": {
+      "orig": "i got it!",
+      "ko": "내가 받을게!"
+    },
+    "56": {
+      "orig": "nice!",
+      "ko": "나이스!"
+    },
+    "58": {
+      "orig": "sorry!",
+      "ko": "미안!"
+    },
+    "60": {
+      "orig": "don't mind!",
+      "ko": "괜찮아!"
+    },
+    "62": {
+      "orig": "thanks!",
+      "ko": "고마워!"
+    },
+    "64": {
+      "orig": "quick!",
+      "ko": "속공!"
+    },
+    "66": {
+      "orig": "high!",
+      "ko": "높게!"
+    },
+    "68": {
+      "orig": "high five!",
+      "ko": "하이파이브!"
+    },
+    "89": {
+      "orig": "mouse %d",
+      "ko": "마우스 %d"
+    },
+    "90": {
+      "orig": "button %d",
+      "ko": "버튼 %d"
+    },
+    "95": {
+      "orig": "axis %d",
+      "ko": "축 %d"
+    },
+    "98": {
+      "orig": "A / cross",
+      "ko": "A / ×"
+    },
+    "99": {
+      "orig": "B / circle",
+      "ko": "B / ○"
+    },
+    "100": {
+      "orig": "X / square",
+      "ko": "X / □"
+    },
+    "101": {
+      "orig": "Y / triangle",
+      "ko": "Y / △"
+    },
+    "108": {
+      "orig": "dpad up",
+      "ko": "방향패드 위"
+    },
+    "109": {
+      "orig": "dpad down",
+      "ko": "방향패드 아래"
+    },
+    "110": {
+      "orig": "dpad left",
+      "ko": "방향패드 왼쪽"
+    },
+    "111": {
+      "orig": "dpad right",
+      "ko": "방향패드 오른쪽"
+    },
+    "112": {
+      "orig": "L-stick x",
+      "ko": "L-스틱 X"
+    },
+    "113": {
+      "orig": "L-stick y",
+      "ko": "L-스틱 Y"
+    },
+    "114": {
+      "orig": "R-stick x",
+      "ko": "R-스틱 X"
+    },
+    "115": {
+      "orig": "R-stick y",
+      "ko": "R-스틱 Y"
+    }
+  },
+  "game/core/launch_gate.gdc": {
+    "46": {
+      "orig": "steam needed",
+      "ko": "Steam 필요"
+    },
+    "47": {
+      "orig": "please launch the game through steam's client",
+      "ko": "Steam 클라이언트를 통해 게임을 실행해 주세요"
+    },
+    "48": {
+      "orig": "playtest over",
+      "ko": "플레이테스트 종료"
+    },
+    "49": {
+      "orig": "this steam account no longer has playtest access. thanks for playing!",
+      "ko": "이 Steam 계정은 더 이상 플레이테스트 권한이 없습니다. 플레이해 주셔서 감사합니다!"
+    },
+    "50": {
+      "orig": "not on this account",
+      "ko": "보유하지 않은 계정"
+    },
+    "51": {
+      "orig": "the steam account that's signed in doesn't own the game",
+      "ko": "현재 로그인된 Steam 계정이 이 게임을 보유하고 있지 않습니다"
+    },
+    "52": {
+      "orig": "thanks for playing!",
+      "ko": "플레이해 주셔서 감사합니다!"
+    },
+    "53": {
+      "orig": "can't start",
+      "ko": "시작할 수 없음"
+    },
+    "68": {
+      "orig": "open store page",
+      "ko": "상점 페이지 열기"
+    }
+  },
+  "game/core/match_modifier_copy.gdc": {
+    "1": {
+      "orig": "show point replays",
+      "ko": "득점 리플레이 표시"
+    },
+    "3": {
+      "orig": "players bump into each other on the ground, on dives and in the air",
+      "ko": "지상, 다이빙, 공중에서 선수끼리 서로 부딪힙니다"
+    },
+    "5": {
+      "orig": "as a rally goes on, the chance for a ball to slip out of a players hands, and the chance for a player to slip on the floor, increase",
+      "ko": "랠리가 길어질수록 손에서 공이 미끄러지거나 바닥에서 미끄러질 확률이 높아집니다"
+    },
+    "7": {
+      "orig": "how long the server has to serve before it's a fault",
+      "ko": "서브 반칙이 되기 전까지 서버에게 주어지는 제한 시간입니다"
+    },
+    "9": {
+      "orig": "displays where the ball is going to land and the serve toss indicators",
+      "ko": "공의 낙하 지점과 서브 토스 가이드를 표시합니다"
+    },
+    "11": {
+      "orig": "you can not switch to another team once you've been on one",
+      "ko": "한 번 팀에 배정되면 다른 팀으로 바꿀 수 없습니다"
+    },
+    "13": {
+      "orig": "after every point the serve goes to the next player",
+      "ko": "매 득점마다 다음 선수에게 서브권이 넘어갑니다"
+    },
+    "15": {
+      "orig": "the walk out and team intro before the first serve",
+      "ko": "첫 서브 전 선수 입장 및 팀 소개 연출을 표시합니다"
+    },
+    "17": {
+      "orig": "if the score is at a deuce 4 points after the original amount of points needed, the next team to score wins",
+      "ko": "목표 점수에서 4점이 더 지난 듀스 상황이라면, 다음 득점 팀이 승리합니다"
+    },
+    "19": {
+      "orig": "choose where or how cpus get sorted",
+      "ko": "CPU를 어디에, 어떻게 배치할지 선택합니다"
+    }
+  },
+  "game/cutscene/credits_data.gdc": {
+    "5": {
+      "orig": "creator",
+      "ko": "제작"
+    },
+    "13": {
+      "orig": "composer",
+      "ko": "작곡"
+    },
+    "18": {
+      "orig": "Volleyball is a sport where you're always looking up!",
+      "ko": "배구는 항상 위를 바라보는 스포츠다!"
+    },
+    "19": {
+      "orig": "for making me fall in love with the sport of volleyball. if it wasn't for them, this game would never exist.",
+      "ko": "배구라는 스포츠와 사랑에 빠지게 해준 것에 대해. 그분이 아니었다면 이 게임은 존재하지 않았을 것입니다."
+    },
+    "21": {
+      "orig": "frequent alpha netcode testing",
+      "ko": "초기 알파 넷코드 반복 테스트"
+    },
+    "27": {
+      "orig": "certain hat and hair cosmetics",
+      "ko": "일부 모자 및 헤어 치장 아이템"
+    },
+    "28": {
+      "orig": "certain environment assets",
+      "ko": "일부 배경 에셋"
+    },
+    "29": {
+      "orig": "various 3d assets, 2d assets, sfx and ui assets in the form of cc0 were taken from the internet and used throughout the project.",
+      "ko": "프로젝트 전반에 걸쳐 인터넷의 다양한 CC0 3D, 2D, 효과음 및 UI 에셋이 사용되었습니다."
+    },
+    "30": {
+      "orig": "made with godot engine",
+      "ko": "Godot Engine으로 제작"
+    },
+    "31": {
+      "orig": "thank you for playing!",
+      "ko": "플레이해 주셔서 감사합니다!"
+    },
+    "48": {
+      "orig": "a temkosoft game",
+      "ko": "temkosoft 제작"
+    },
+    "54": {
+      "orig": "Special thanks",
+      "ko": "특별 감사"
+    },
+    "57": {
+      "orig": "Thank you to ",
+      "ko": "감사 인사: "
+    },
+    "58": {
+      "orig": "Made with",
+      "ko": "제작 엔진:"
+    },
+    "61": {
+      "orig": "Thanks for playing!",
+      "ko": "플레이해 주셔서 감사합니다!"
+    }
+  },
+  "game/drills/objectives/block_objective.gdc": {
+    "27": {
+      "orig": "jump and block the spike",
+      "ko": "점프해서 스파이크를 블로킹하세요"
+    },
+    "37": {
+      "orig": "jump and block it at the net",
+      "ko": "네트 앞에서 점프해 블로킹하세요"
+    },
+    "38": {
+      "orig": "good!",
+      "ko": "좋아요!"
+    },
+    "39": {
+      "orig": "get in front of the attacker and jump",
+      "ko": "공격수 앞으로 이동해 점프하세요"
+    }
+  },
+  "game/drills/objectives/block_read_objective.gdc": {
+    "1": {
+      "orig": "watch the set, get in front of the hitter, and block",
+      "ko": "토스를 보고 공격수 앞으로 이동해 블로킹하세요"
+    }
+  },
+  "game/drills/objectives/block_timing_objective.gdc": {
+    "1": {
+      "orig": "jump right after the hitter and stuff it back",
+      "ko": "공격수 직후에 점프해 완벽히 막아내세요"
+    },
+    "2": {
+      "orig": "stuff it",
+      "ko": "완벽 차단"
+    },
+    "4": {
+      "orig": "stuffed, next play",
+      "ko": "차단 성공! 다음 플레이"
+    },
+    "5": {
+      "orig": "late block, jump right after the hitter",
+      "ko": "블로킹이 늦었어요! 공격수 바로 뒤에 점프하세요"
+    }
+  },
+  "game/drills/objectives/curve_objective.gdc": {
+    "6": {
+      "orig": "in the air, hold left to curve it left",
+      "ko": "공중에서 왼쪽 방향키를 누른 채로 왼쪽 커브를 넣으세요"
+    },
+    "7": {
+      "orig": "in the air, hold right to curve it right",
+      "ko": "공중에서 오른쪽 방향키를 누른 채로 오른쪽 커브를 넣으세요"
+    },
+    "8": {
+      "orig": "curve it whichever way you like",
+      "ko": "원하는 방향으로 커브를 넣어보세요"
+    },
+    "10": {
+      "orig": "hold left or right in the air to bend it",
+      "ko": "공중에서 좌우 방향키를 길게 눌러 공을 휘게 하세요"
+    },
+    "11": {
+      "orig": "curve it the other way",
+      "ko": "반대 방향으로 커브를 넣으세요"
+    }
+  },
+  "game/drills/objectives/receive_float_objective.gdc": {
+    "1": {
+      "orig": "watch the float in, plant, and bump it to your teammate",
+      "ko": "플로트 서브를 보고 발을 고정한 뒤 팀원에게 리시브하세요"
+    }
+  },
+  "game/drills/objectives/receive_jump_objective.gdc": {
+    "1": {
+      "orig": "plant your feet and bump it to your teammate",
+      "ko": "자세를 잡고 팀원에게 리시브하세요"
+    }
+  },
+  "game/drills/objectives/receive_mix_objective.gdc": {
+    "1": {
+      "orig": "read the toss, then bump it to your teammate",
+      "ko": "토스를 읽고 팀원에게 리시브하세요"
+    }
+  },
+  "game/drills/objectives/receive_objective.gdc": {
+    "32": {
+      "orig": "bump the ball to your teammate",
+      "ko": "팀원에게 공을 리시브하세요"
+    },
+    "38": {
+      "orig": "nice!",
+      "ko": "나이스!"
+    },
+    "43": {
+      "orig": "get underneath the ball",
+      "ko": "공 아래로 들어가세요"
+    },
+    "44": {
+      "orig": "keep it on your side",
+      "ko": "우리 코트 안에 공을 띄우세요"
+    },
+    "45": {
+      "orig": "get to the ball before it lands",
+      "ko": "공이 떨어지기 전에 따라가세요"
+    },
+    "47": {
+      "orig": "your teammate could not reach that",
+      "ko": "팀원이 닿지 못했어요"
+    }
+  },
+  "game/drills/objectives/serve_float_objective.gdc": {
+    "1": {
+      "orig": "jump, tilt back, and hit it over",
+      "ko": "점프 후 뒤로 기울여 공을 넘기세요"
+    },
+    "2": {
+      "orig": "jump and hit the ball in the air",
+      "ko": "점프해서 공중에서 공을 치세요"
+    },
+    "3": {
+      "orig": "tilt back as you hit to float it",
+      "ko": "칠 때 뒤로 기울여야 플로트 서브가 됩니다"
+    }
+  },
+  "game/drills/objectives/serve_jump_objective.gdc": {
+    "1": {
+      "orig": "toss it high, jump, and spike it over",
+      "ko": "공을 높게 띄우고 점프해 스파이크로 넘기세요"
+    },
+    "2": {
+      "orig": "jump and swing at the top of the toss",
+      "ko": "점프해서 토스 정점에서 스윙하세요"
+    },
+    "3": {
+      "orig": "keep your tilt forward, that was a float",
+      "ko": "앞으로 기울이세요! 방금은 플로트였어요"
+    }
+  },
+  "game/drills/objectives/serve_objective.gdc": {
+    "4": {
+      "orig": "toss the ball up, then hit it over the net",
+      "ko": "공을 위로 띄운 뒤 네트 너머로 치세요"
+    },
+    "6": {
+      "orig": "remain in the serving area!",
+      "ko": "서브 구역 안에 머무르세요!"
+    },
+    "8": {
+      "orig": "over and in",
+      "ko": "서브 인!"
+    },
+    "10": {
+      "orig": "unlucky!",
+      "ko": "아쉽네요!"
+    },
+    "12": {
+      "orig": "hit the ball at the top of the toss",
+      "ko": "토스가 가장 높을 때 공을 치세요"
+    },
+    "13": {
+      "orig": "get it over the net",
+      "ko": "네트 너머로 공을 넘기세요"
+    },
+    "14": {
+      "orig": "out!",
+      "ko": "아웃!"
+    },
+    "15": {
+      "orig": "good!",
+      "ko": "좋아요!"
+    }
+  },
+  "game/drills/objectives/set_quick_objective.gdc": {
+    "2": {
+      "orig": "hold set all the way and quick set your hitter",
+      "ko": "토스를 끝까지 길게 눌러 공격수에게 속공 토스를 올려주세요"
+    },
+    "3": {
+      "orig": "hold the set button fully for a quick",
+      "ko": "속공을 하려면 토스 버튼을 끝까지 누르세요"
+    },
+    "4": {
+      "orig": "aim the quick at your hitter by the net",
+      "ko": "네트 앞 공격수를 향해 속공 토스를 조준하세요"
+    }
+  },
+  "game/drills/objectives/spike_any_objective.gdc": {
+    "9": {
+      "orig": "time each set and spike it over",
+      "ko": "토스 타이밍에 맞춰 스파이크로 넘기세요"
+    }
+  },
+  "game/drills/objectives/spike_quick_objective.gdc": {
+    "6": {
+      "orig": "be in the air as the set comes, then swing right away",
+      "ko": "토스가 올 때 이미 점프해 있다가 바로 스윙하세요"
+    },
+    "9": {
+      "orig": "jump before you touch",
+      "ko": "터치하기 전에 먼저 점프하세요"
+    },
+    "10": {
+      "orig": "too slow for a quick, swing right after the set",
+      "ko": "속공하기엔 너무 늦었어요! 토스 직후 바로 스윙하세요"
+    }
+  },
+  "game/drills/objectives/tutorial_camera_objective.gdc": {
+    "5": {
+      "orig": "change your camera!",
+      "ko": "카메라를 전환해 보세요!"
+    },
+    "7": {
+      "orig": "zoom!",
+      "ko": "확대/축소해 보세요!"
+    }
+  },
+  "game/drills/objectives/tutorial_dive_objective.gdc": {
+    "8": {
+      "orig": "dive for the ball and get it to your teammate",
+      "ko": "공을 향해 다이빙해 팀원에게 연결하세요"
+    },
+    "12": {
+      "orig": "press {dive} on the ground to dive for it!",
+      "ko": "지상에서 {dive}를 눌러 다이빙하세요!"
+    },
+    "13": {
+      "orig": "get under the ball first",
+      "ko": "먼저 공 아래쪽으로 이동하세요"
+    }
+  },
+  "game/drills/objectives/tutorial_jump_objective.gdc": {
+    "17": {
+      "orig": "jump as the set goes up",
+      "ko": "토스가 올라갈 때 점프하세요"
+    },
+    "19": {
+      "orig": "nice!",
+      "ko": "나이스!"
+    },
+    "21": {
+      "orig": "too early! let the set rise, then jump",
+      "ko": "너무 빨라요! 토스가 올라간 뒤에 점프하세요"
+    },
+    "22": {
+      "orig": "too late! jump as the set starts to drop",
+      "ko": "너무 늦었어요! 토스가 떨어지기 시작할 때 점프하세요"
+    },
+    "24": {
+      "orig": "jump while the ball is in the air",
+      "ko": "공이 공중에 있을 때 점프하세요"
+    }
+  },
+  "game/drills/objectives/tutorial_set_objective.gdc": {
+    "1": {
+      "orig": "press {set} to set the ball up to the net",
+      "ko": "{set}를 눌러 네트 쪽으로 공을 토스하세요"
+    },
+    "2": {
+      "orig": "set it a little higher",
+      "ko": "조금 더 높게 토스하세요"
+    }
+  },
+  "game/drills/objectives/tutorial_spike_objective.gdc": {
+    "3": {
+      "orig": "approach and spike it over",
+      "ko": "도움닫기 후 스파이크로 넘기세요"
+    },
+    "5": {
+      "orig": "hold {contact} to charge your spike!",
+      "ko": "{contact}를 길게 눌러 스파이크를 차지하세요!"
+    }
+  },
+  "game/drills/tutorial_director.gdc": {
+    "4": {
+      "orig": "let's learn the basics of just volleyball!",
+      "ko": "저스트 발리볼의 기초를 배워봐요!"
+    },
+    "5": {
+      "orig": "this game is cursor based, so every touch goes where you're aiming, whether you're bumping, setting, spiking, or blocking",
+      "ko": "이 게임은 커서 조준 방식이라 리시브, 토스, 스파이크, 블로킹 모두 조준한 방향으로 날아가요"
+    },
+    "6": {
+      "orig": "your basic controls are {contact} to bump, {set} to set, {dive} to dive, and {block} to block",
+      "ko": "기본 조작은 {contact} 리시브, {set} 토스, {dive} 다이빙, {block} 블로킹이에요"
+    },
+    "7": {
+      "orig": "jumping is {jump}, you need to jump in order to spike and block",
+      "ko": "점프는 {jump}예요. 스파이크와 블로킹을 하려면 점프가 필요해요"
+    },
+    "8": {
+      "orig": "the main goal of volleyball is to send the ball over the net and land it on the opponent's floor, while stopping them from doing the same to you",
+      "ko": "배구의 목표는 네트 너머 상대 코트에 공을 떨어뜨리고, 상대의 공격을 막아내는 거예요"
+    },
+    "9": {
+      "orig": "movement",
+      "ko": "이동"
+    },
+    "14": {
+      "orig": "move  {move}   sprint  {sprint}",
+      "ko": "이동  {move}   전력 질주  {sprint}"
+    },
+    "16": {
+      "orig": "move",
+      "ko": "이동"
+    },
+    "17": {
+      "orig": "sprint",
+      "ko": "전력 질주"
+    },
+    "19": {
+      "orig": "sprinting uses stamina",
+      "ko": "전력 질주는 스태미나를 소모해요"
+    },
+    "20": {
+      "orig": "you can sprint with {sprint}! on keyboard, you can also double-tap a direction to start sprinting",
+      "ko": "{sprint}로 전력 질주를 할 수 있어요! 키보드에서는 방향키를 두 번 빠르게 눌러도 달릴 수 있어요"
+    },
+    "21": {
+      "orig": "sprinting drains your stamina bar, so it's important to keep an eye on it!",
+      "ko": "전력 질주를 하면 스태미나 게이지가 줄어드니 잘 확인해야 해요!"
+    },
+    "22": {
+      "orig": "make your way to each marker!",
+      "ko": "각 마커까지 이동해 보세요!"
+    },
+    "23": {
+      "orig": "camera",
+      "ko": "카메라"
+    },
+    "25": {
+      "orig": "camera  {camera_toggle}   zoom  {camera_zoom}",
+      "ko": "카메라  {camera_toggle}   줌  {camera_zoom}"
+    },
+    "27": {
+      "orig": "change camera",
+      "ko": "카메라 전환"
+    },
+    "29": {
+      "orig": "zoom",
+      "ko": "줌"
+    },
+    "30": {
+      "orig": "you can press {camera_toggle} to change your camera mode, and {camera_zoom} to switch zoom distance! alternatively, if you're on mouse you can simply scroll in and out",
+      "ko": "{camera_toggle}로 카메라 모드를 바꾸고, {camera_zoom}로 확대/축소할 수 있어요! 마우스를 쓴다면 휠 스크롤로도 조절할 수 있어요"
+    },
+    "31": {
+      "orig": "strafing",
+      "ko": "스트레이프"
+    },
+    "32": {
+      "orig": "strafe  {strafe}   hold",
+      "ko": "스트레이프  {strafe}   길게 누르기"
+    },
+    "33": {
+      "orig": "strafe",
+      "ko": "스트레이프"
+    },
+    "34": {
+      "orig": "hold strafe",
+      "ko": "스트레이프 유지"
+    },
+    "36": {
+      "orig": "aim",
+      "ko": "조준"
+    },
+    "38": {
+      "orig": "try keeping your cursor on the ground, inside the ring around your teammate, while strafing around!",
+      "ko": "스트레이프로 움직이면서 커서를 팀원 주변 원 안의 바닥에 맞춰 보세요!"
+    },
+    "39": {
+      "orig": "by holding down {strafe}, your character will always face towards your cursor! strafing is also good for canceling momentum",
+      "ko": "{strafe}를 누르고 있으면 캐릭터가 항상 커서 방향을 바라봐요! 관성을 멈출 때도 유용하답니다"
+    },
+    "40": {
+      "orig": "jumping",
+      "ko": "점프"
+    },
+    "43": {
+      "orig": "jump  {jump}   hold to charge",
+      "ko": "점프  {jump}   길게 눌러 차지"
+    },
+    "44": {
+      "orig": "jump",
+      "ko": "점프"
+    },
+    "45": {
+      "orig": "starting on each marker, jump through the hoop!",
+      "ko": "각 마커 위에서 출발해 후프를 통과하세요!"
+    },
+    "46": {
+      "orig": "by pressing {jump}, you can jump! you can charge it to jump even higher",
+      "ko": "{jump}를 눌러 점프할 수 있어요! 길게 모으면 더 높이 뛸 수 있답니다"
+    },
+    "47": {
+      "orig": "practice some jumps by going through these hoops!",
+      "ko": "이 후프들을 통과하며 점프를 연습해 보세요!"
+    },
+    "48": {
+      "orig": "bumping",
+      "ko": "리시브"
+    },
+    "52": {
+      "orig": "bump  {contact}",
+      "ko": "리시브  {contact}"
+    },
+    "53": {
+      "orig": "aim at your teammate",
+      "ko": "팀원에게 조준"
+    },
+    "55": {
+      "orig": "bump",
+      "ko": "리시브"
+    },
+    "56": {
+      "orig": "try getting some bumps to your teammate!",
+      "ko": "팀원에게 공을 리시브하세요!"
+    },
+    "57": {
+      "orig": "bumping is usually the first touch, and all bumps go towards where your cursor is!",
+      "ko": "리시브는 보통 첫 번째 터치이며, 모든 리시브는 커서가 있는 방향으로 날아가요!"
+    },
+    "58": {
+      "orig": "there are three ways to bump the ball:",
+      "ko": "공을 리시브하는 방법은 세 가지가 있어요:"
+    },
+    "59": {
+      "orig": "once you're in range, press {contact} and your character will queue the bump for you",
+      "ko": "범위 안에 들어왔을 때 {contact}를 누르면 캐릭터가 알아서 리시브를 예약해요"
+    },
+    "60": {
+      "orig": "or, you can hold {contact} as you stand in the proper position, which is recommended when playing on higher ping online",
+      "ko": "또는 알맞은 위치에 서서 {contact}를 누르고 있을 수도 있어요. 온라인에서 핑이 높을 때 추천하는 방법이에요"
+    },
+    "61": {
+      "orig": "lastly, you can simply time it and press {contact} once the ball is in range",
+      "ko": "마지막으로 공이 범위에 들어오는 순간 타이밍에 맞춰 {contact}를 누를 수도 있어요"
+    },
+    "62": {
+      "orig": "diving",
+      "ko": "다이빙"
+    },
+    "64": {
+      "orig": "dive  {dive}   on the ground",
+      "ko": "다이빙  {dive}   지상에서"
+    },
+    "65": {
+      "orig": "dive",
+      "ko": "다이빙"
+    },
+    "66": {
+      "orig": "dive for the ball and get it to your teammate!",
+      "ko": "공을 향해 다이빙해서 팀원에게 연결하세요!"
+    },
+    "67": {
+      "orig": "there'll be times you won't be able to reach the ball by running, so you'll have to press {dive} to dive instead!",
+      "ko": "달려가서는 도저히 닿지 못할 때가 있어요. 그럴 땐 {dive}를 눌러 다이빙해야 해요!"
+    },
+    "68": {
+      "orig": "you'll dive towards where the ball lands, but your cursor still aims where you bump it",
+      "ko": "공이 떨어지는 지점으로 다이빙하지만, 공이 튀는 방향은 여전히 커서로 조준해요"
+    },
+    "69": {
+      "orig": "diving uses stamina too! if your bar is low, your dives get weaker and shorter",
+      "ko": "다이빙도 스태미나를 써요! 게이지가 부족하면 다이빙이 약해지고 거리도 짧아져요"
+    },
+    "70": {
+      "orig": "setting",
+      "ko": "토스"
+    },
+    "74": {
+      "orig": "set  {set}",
+      "ko": "토스  {set}"
+    },
+    "75": {
+      "orig": "aim at your spiker",
+      "ko": "스파이커에게 조준"
+    },
+    "76": {
+      "orig": "set",
+      "ko": "토스"
+    },
+    "77": {
+      "orig": "set the ball up to your teammate!",
+      "ko": "팀원에게 공을 토스해 주세요!"
+    },
+    "78": {
+      "orig": "pressing {set} will set the ball, letting you set up spikes for your attacks with better precision",
+      "ko": "{set}를 누르면 공을 토스해 스파이크 공격을 훨씬 정밀하게 연결할 수 있어요"
+    },
+    "79": {
+      "orig": "the set goes exactly where you aim, so put your cursor right where you want the ball to land",
+      "ko": "토스는 조준한 곳으로 정확히 날아가니, 공이 떨어지길 원하는 곳에 커서를 두세요"
+    },
+    "80": {
+      "orig": "spiking",
+      "ko": "스파이크"
+    },
+    "83": {
+      "orig": "spike  {contact} in the air   hold to charge",
+      "ko": "스파이크  공중에서 {contact}   길게 눌러 차지"
+    },
+    "84": {
+      "orig": "spike",
+      "ko": "스파이크"
+    },
+    "85": {
+      "orig": "practice hitting spikes across the net!",
+      "ko": "네트 너머로 스파이크를 때리는 연습을 해보세요!"
+    },
+    "86": {
+      "orig": "while airborne, you can hold down {contact} to charge a spike! how long you charge it, and the height of your contact point, will vary the type of spike you get",
+      "ko": "공중에서 {contact}를 길게 눌러 스파이크를 차지할 수 있어요! 차지 시간과 타점 높이에 따라 스파이크의 종류가 달라져요"
+    },
+    "87": {
+      "orig": "your teammate will set for you, so aim your cursor where you want the ball to land",
+      "ko": "팀원이 토스를 올려줄 테니, 공을 꽂고 싶은 곳에 커서를 조준하세요"
+    },
+    "88": {
+      "orig": "rally",
+      "ko": "랠리"
+    },
+    "90": {
+      "orig": "bump  {contact}     then jump {jump} and spike {contact}",
+      "ko": "리시브  {contact}     그다음 점프 {jump} 후 스파이크 {contact}"
+    },
+    "91": {
+      "orig": "let's practice it all together!",
+      "ko": "이제 배운 걸 한꺼번에 연습해 봐요!"
+    },
+    "92": {
+      "orig": "now you can understand the essence of just volleyball, rallies! a bump, into a set, into a spike!",
+      "ko": "이제 저스트 발리볼의 핵심인 랠리를 이해할 수 있어요! 리시브에서 토스, 그리고 스파이크까지!"
+    },
+    "93": {
+      "orig": "by building up these three touches, a combo will build, resulting in more powerful spikes!",
+      "ko": "이 세 번의 터치를 이어가면 콤보가 쌓여 훨씬 강력한 스파이크를 날릴 수 있어요!"
+    },
+    "94": {
+      "orig": "blocking",
+      "ko": "블로킹"
+    },
+    "97": {
+      "orig": "block  {block} in the air",
+      "ko": "블로킹  공중에서 {block}"
+    },
+    "98": {
+      "orig": "block",
+      "ko": "블로킹"
+    },
+    "99": {
+      "orig": "block in the air",
+      "ko": "공중에서 블로킹"
+    },
+    "100": {
+      "orig": "aim the angle",
+      "ko": "각도 조준"
+    },
+    "101": {
+      "orig": "watch the hitter and block their spike!",
+      "ko": "공격수를 보고 스파이크를 블로킹하세요!"
+    },
+    "102": {
+      "orig": "now for some more defense, by pressing {block} you can block, which is your way of stopping attackers",
+      "ko": "이번엔 수비를 더 배워볼까요? {block}를 눌러 상대 공격을 막는 블로킹을 할 수 있어요"
+    },
+    "103": {
+      "orig": "watch the attacker, you don't want to time your block too early, or too late",
+      "ko": "공격수를 잘 보세요. 블로킹 타이밍이 너무 빠르거나 늦으면 안 돼요"
+    },
+    "104": {
+      "orig": "in most cases, you want to jump right after they do, and then throw your hands up!",
+      "ko": "대부분의 경우 상대가 점프한 직후에 따라 뛰고 손을 올리면 좋아요!"
+    },
+    "105": {
+      "orig": "you can't aim your block precisely, your cursor aims the angle of your block instead. a block is strongest right as your hands go up, and your accuracy fades away the longer you hold them up",
+      "ko": "블로킹은 정밀 조준 대신 커서로 튕겨 나갈 각도를 정해요. 손을 올린 직후에 가장 강력하고, 오래 들고 있을수록 정확도가 떨어져요"
+    },
+    "106": {
+      "orig": "a well timed block sends the ball straight down, towards the direction of your cursor. the ring around the cursor will fade out, indicating poor timing, and a late block sends the ball in the direction of the spike",
+      "ko": "타이밍이 완벽하면 공을 커서 방향으로 곧장 내리꽂아요. 커서 주변 원이 흐려지면 타이밍이 나쁘다는 뜻이고, 너무 늦으면 스파이크 방향대로 공이 튀어 나가요"
+    },
+    "107": {
+      "orig": "serving",
+      "ko": "서브"
+    },
+    "110": {
+      "orig": "serve  {contact}   hold to charge the toss",
+      "ko": "서브  {contact}   길게 눌러 토스 차지"
+    },
+    "111": {
+      "orig": "toss, hit",
+      "ko": "토스 후 타격"
+    },
+    "112": {
+      "orig": "every rally starts with a serve, and the glowing box is your serving area! you want to toss and hit it inside the green area",
+      "ko": "모든 랠리는 서브로 시작하며, 빛나는 상자가 서브 구역이에요! 초록 구역 안에서 공을 띄워 쳐야 해요"
+    },
+    "113": {
+      "orig": "hold {contact} to charge your serve toss, and adjust your cursor to aim the trajectory",
+      "ko": "{contact}를 길게 눌러 서브 토스를 차지하고, 커서로 궤적을 조준하세요"
+    },
+    "114": {
+      "orig": "afterwards you can do a basic bump, a jump attack, there's plenty of options! just make sure you're aiming across to the other side of the court",
+      "ko": "그다음 기본 리시브나 점프 서브 등 다양한 방식으로 넘길 수 있어요! 반드시 상대 코트를 조준해야 해요"
+    },
+    "115": {
+      "orig": "those are the basics! there's a lot more to learn, like curves, jump floats, and quick sets. you can read all about them in how to play!",
+      "ko": "기초는 여기까지예요! 커브, 점프 플로트, 속공 등 더 많은 기술은 '게임 방법'에서 자세히 볼 수 있어요!"
+    },
+    "116": {
+      "orig": "now let's put it all together in a real match!",
+      "ko": "이제 실전 경기에서 배운 걸 모두 써먹어 봐요!"
+    },
+    "128": {
+      "orig": "on the ground",
+      "ko": "지상에서"
+    },
+    "129": {
+      "orig": "spike (charge)",
+      "ko": "스파이크 (차지)"
+    },
+    "130": {
+      "orig": "in the air",
+      "ko": "공중에서"
+    },
+    "142": {
+      "orig": "start",
+      "ko": "시작"
+    },
+    "143": {
+      "orig": "next",
+      "ko": "다음"
+    },
+    "148": {
+      "orig": "press",
+      "ko": "누르기"
+    },
+    "150": {
+      "orig": "then spike",
+      "ko": "그다음 스파이크"
+    },
+    "151": {
+      "orig": "toss",
+      "ko": "토스"
+    },
+    "152": {
+      "orig": "hold to charge",
+      "ko": "길게 눌러 차지"
+    },
+    "153": {
+      "orig": "or scroll",
+      "ko": "또는 스크롤"
+    },
+    "154": {
+      "orig": "change mode",
+      "ko": "모드 전환"
+    },
+    "165": {
+      "orig": "step inside the glowing box to serve",
+      "ko": "빛나는 구역 안으로 들어가 서브하세요"
+    },
+    "166": {
+      "orig": "toss the ball up, then send it over!",
+      "ko": "공을 위로 띄우고 넘기세요!"
+    }
+  },
+  "game/shop/shop.gdc": {
+    "9": {
+      "orig": "showing: captain uniform",
+      "ko": "표시 중: 주장 유니폼"
+    },
+    "10": {
+      "orig": "showing: gym",
+      "ko": "표시 중: 체육관"
+    },
+    "12": {
+      "orig": "head",
+      "ko": "머리"
+    },
+    "15": {
+      "orig": "face",
+      "ko": "얼굴"
+    },
+    "17": {
+      "orig": "extras",
+      "ko": "기타"
+    },
+    "18": {
+      "orig": "titles",
+      "ko": "칭호"
+    },
+    "36": {
+      "orig": "sort: default",
+      "ko": "정렬: 기본"
+    },
+    "37": {
+      "orig": "price: low",
+      "ko": "가격: 낮은 순"
+    },
+    "38": {
+      "orig": "price: high",
+      "ko": "가격: 높은 순"
+    },
+    "39": {
+      "orig": "a to z",
+      "ko": "이름: 오름차순"
+    },
+    "40": {
+      "orig": "z to a",
+      "ko": "이름: 내림차순"
+    },
+    "41": {
+      "orig": "not owned",
+      "ko": "미보유"
+    },
+    "42": {
+      "orig": "achievements",
+      "ko": "업적"
+    },
+    "47": {
+      "orig": "balls",
+      "ko": "공"
+    },
+    "50": {
+      "orig": "effects",
+      "ko": "효과"
+    }
+  },
+  "game/ui/awards_page.gdc": {
+    "4": {
+      "orig": "daily",
+      "ko": "일일"
+    },
+    "6": {
+      "orig": "weekly",
+      "ko": "주간"
+    },
+    "7": {
+      "orig": "this profile",
+      "ko": "현재 프로필"
+    },
+    "8": {
+      "orig": "global",
+      "ko": "전체"
+    },
+    "23": {
+      "orig": "achievements",
+      "ko": "업적"
+    },
+    "37": {
+      "orig": "claim all",
+      "ko": "모두 받기"
+    },
+    "50": {
+      "orig": "search",
+      "ko": "검색"
+    },
+    "68": {
+      "orig": "nothing matches that",
+      "ko": "일치하는 항목이 없어요"
+    },
+    "107": {
+      "orig": "claim",
+      "ko": "받기"
+    },
+    "120": {
+      "orig": "daily claim",
+      "ko": "일일 출석 보상"
+    },
+    "121": {
+      "orig": "daily claim (max streak)",
+      "ko": "일일 출석 보상 (최대 연속)"
+    },
+    "122": {
+      "orig": "daily claim (x%d)",
+      "ko": "일일 출석 보상 (x%d)"
+    },
+    "142": {
+      "orig": "resets in %s",
+      "ko": "%s 후 초기화"
+    },
+    "143": {
+      "orig": "steam offline",
+      "ko": "Steam 오프라인"
+    },
+    "157": {
+      "orig": "jump to new (%d)",
+      "ko": "새 항목으로 (%d)"
+    }
+  },
+  "game/ui/career_page.gdc": {
+    "6": {
+      "orig": "matches",
+      "ko": "경기"
+    },
+    "8": {
+      "orig": "wins",
+      "ko": "승리"
+    },
+    "10": {
+      "orig": "no match history",
+      "ko": "경기 기록이 없어요"
+    },
+    "12": {
+      "orig": "play a match and it'll show up here",
+      "ko": "경기를 플레이하면 여기에 기록이 표시돼요"
+    },
+    "17": {
+      "orig": "losses",
+      "ko": "패배"
+    },
+    "18": {
+      "orig": "win rate",
+      "ko": "승률"
+    },
+    "21": {
+      "orig": "recent",
+      "ko": "최근 경기"
+    },
+    "22": {
+      "orig": "previous %d matches saved here",
+      "ko": "최근 %d경기가 여기에 저장돼요"
+    },
+    "23": {
+      "orig": "favorites",
+      "ko": "즐겨찾기"
+    },
+    "24": {
+      "orig": "favorites (%d)",
+      "ko": "즐겨찾기 (%d)"
+    },
+    "25": {
+      "orig": "matches you favorited stay here",
+      "ko": "즐겨찾기한 경기가 여기에 보관돼요"
+    },
+    "33": {
+      "orig": "oldest first",
+      "ko": "오래된 순"
+    },
+    "34": {
+      "orig": "newest first",
+      "ko": "최신 순"
+    },
+    "44": {
+      "orig": "no matches favorited",
+      "ko": "즐겨찾기한 경기가 없어요"
+    },
+    "45": {
+      "orig": "no recent matches",
+      "ko": "최근 경기가 없어요"
+    },
+    "74": {
+      "orig": "online",
+      "ko": "온라인"
+    },
+    "75": {
+      "orig": "local",
+      "ko": "로컬"
+    },
+    "76": {
+      "orig": "left early",
+      "ko": "중도 퇴장"
+    },
+    "121": {
+      "orig": "jan",
+      "ko": "1월"
+    },
+    "122": {
+      "orig": "feb",
+      "ko": "2월"
+    },
+    "123": {
+      "orig": "mar",
+      "ko": "3월"
+    },
+    "124": {
+      "orig": "apr",
+      "ko": "4월"
+    },
+    "125": {
+      "orig": "may",
+      "ko": "5월"
+    },
+    "126": {
+      "orig": "jun",
+      "ko": "6월"
+    },
+    "127": {
+      "orig": "jul",
+      "ko": "7월"
+    },
+    "128": {
+      "orig": "aug",
+      "ko": "8월"
+    },
+    "129": {
+      "orig": "sep",
+      "ko": "9월"
+    },
+    "130": {
+      "orig": "oct",
+      "ko": "10월"
+    },
+    "131": {
+      "orig": "nov",
+      "ko": "11월"
+    },
+    "132": {
+      "orig": "dec",
+      "ko": "12월"
+    },
+    "145": {
+      "orig": "favorite match",
+      "ko": "경기 즐겨찾기"
+    },
+    "146": {
+      "orig": "favorited match",
+      "ko": "즐겨찾기됨"
+    },
+    "149": {
+      "orig": "cancel",
+      "ko": "취소"
+    },
+    "151": {
+      "orig": "close",
+      "ko": "닫기"
+    },
+    "153": {
+      "orig": "remove",
+      "ko": "제거"
+    },
+    "156": {
+      "orig": "save",
+      "ko": "저장"
+    },
+    "157": {
+      "orig": "favorites are full (%d). remove one first",
+      "ko": "즐겨찾기가 가득 찼어요 (%d). 먼저 하나를 제거해 주세요"
+    },
+    "176": {
+      "orig": "sets   ",
+      "ko": "세트   "
+    },
+    "182": {
+      "orig": "click a player for more options",
+      "ko": "선수를 클릭하면 추가 옵션이 표시돼요"
+    },
+    "187": {
+      "orig": "favorited",
+      "ko": "즐겨찾기됨"
+    },
+    "188": {
+      "orig": "favorite",
+      "ko": "즐겨찾기"
+    },
+    "190": {
+      "orig": "watch replay",
+      "ko": "리플레이 보기"
+    },
+    "191": {
+      "orig": "no replay saved",
+      "ko": "저장된 리플레이 없음"
+    },
+    "194": {
+      "orig": "mvp",
+      "ko": "MVP"
+    }
+  },
+  "game/ui/couch_dropin.gdc": {
+    "16": {
+      "orig": "controllers",
+      "ko": "컨트롤러"
+    },
+    "30": {
+      "orig": "done",
+      "ko": "완료"
+    },
+    "38": {
+      "orig": "no cpu left to take over: new players play next match",
+      "ko": "대신할 CPU가 없어요: 새 플레이어는 다음 경기부터 참여해요"
+    }
+  },
+  "game/ui/feedback_panel.gdc": {
+    "1": {
+      "orig": "gameplay",
+      "ko": "게임플레이"
+    },
+    "3": {
+      "orig": "settings",
+      "ko": "설정"
+    },
+    "4": {
+      "orig": "cpu",
+      "ko": "CPU"
+    },
+    "5": {
+      "orig": "audio",
+      "ko": "오디오"
+    },
+    "6": {
+      "orig": "online",
+      "ko": "온라인"
+    },
+    "7": {
+      "orig": "other",
+      "ko": "기타"
+    },
+    "8": {
+      "orig": "minor",
+      "ko": "사소함"
+    },
+    "9": {
+      "orig": "moderate",
+      "ko": "보통"
+    },
+    "10": {
+      "orig": "urgent",
+      "ko": "긴급"
+    },
+    "25": {
+      "orig": "bug",
+      "ko": "버그"
+    },
+    "38": {
+      "orig": "feedback & bug reports",
+      "ko": "피드백 및 버그 제보"
+    },
+    "41": {
+      "orig": "feedback",
+      "ko": "피드백"
+    },
+    "45": {
+      "orig": "how bad",
+      "ko": "심각도"
+    },
+    "47": {
+      "orig": "describe the bug or feedback in detail",
+      "ko": "버그나 피드백 내용을 자세히 적어주세요"
+    },
+    "53": {
+      "orig": "attachments",
+      "ko": "첨부 파일"
+    },
+    "54": {
+      "orig": "attach a file",
+      "ko": "파일 첨부"
+    },
+    "59": {
+      "orig": "up to 5 screenshots or clips, 10mb each",
+      "ko": "스크린샷 또는 영상 최대 5개, 개당 10MB"
+    },
+    "60": {
+      "orig": "close",
+      "ko": "닫기"
+    },
+    "63": {
+      "orig": "send",
+      "ko": "보내기"
+    },
+    "65": {
+      "orig": "*.png,*.jpg,*.jpeg,*.gif,*.webp ; images",
+      "ko": "*.png,*.jpg,*.jpeg,*.gif,*.webp ; 이미지"
+    },
+    "66": {
+      "orig": "*.mp4,*.mov,*.webm,*.gif ; clips",
+      "ko": "*.mp4,*.mov,*.webm,*.gif ; 영상"
+    },
+    "71": {
+      "orig": "you can attach up to 5 files",
+      "ko": "파일은 최대 5개까지 첨부할 수 있어요"
+    },
+    "73": {
+      "orig": "couldnt read %s",
+      "ko": "%s 파일을 읽을 수 없어요"
+    },
+    "75": {
+      "orig": "that puts the attachments over 30mb total",
+      "ko": "첨부 파일 총 용량이 30MB를 초과해요"
+    },
+    "97": {
+      "orig": "wait %ds",
+      "ko": "%d초 대기"
+    },
+    "99": {
+      "orig": "write something first",
+      "ko": "먼저 내용을 입력해 주세요"
+    },
+    "100": {
+      "orig": "pick how bad the bug is first",
+      "ko": "먼저 버그 심각도를 선택해 주세요"
+    },
+    "101": {
+      "orig": "reports aren't set up in this build",
+      "ko": "이 빌드에서는 제보 기능이 비활성화되어 있어요"
+    },
+    "102": {
+      "orig": "sending %d of %d files",
+      "ko": "파일 전송 중 (%d/%d)"
+    },
+    "109": {
+      "orig": "sending",
+      "ko": "전송 중"
+    },
+    "116": {
+      "orig": "sent, thank you!",
+      "ko": "전송 완료! 감사합니다!"
+    },
+    "119": {
+      "orig": "bug reports are down for maintenance right now, please try again later!",
+      "ko": "현재 버그 제보 서버 점검 중이에요. 나중에 다시 시도해 주세요!"
+    },
+    "121": {
+      "orig": "you've sent a lot of reports, please try again in a bit",
+      "ko": "제보를 너무 많이 보냈어요. 잠시 후 다시 시도해 주세요"
+    },
+    "123": {
+      "orig": "one of the files is too big, try a smaller one",
+      "ko": "파일 중 하나가 너무 커요. 더 작은 파일로 시도해 주세요"
+    },
+    "124": {
+      "orig": "couldn't reach the server, check your connection",
+      "ko": "서버에 연결할 수 없어요. 네트워크 연결을 확인해 주세요"
+    },
+    "125": {
+      "orig": "couldn't send that right now, please try again later! (%d)",
+      "ko": "지금은 전송할 수 없어요. 나중에 다시 시도해 주세요! (%d)"
+    }
+  },
+  "game/ui/lobby/lobby_panel.gdc": {
+    "5": {
+      "orig": "lobby",
+      "ko": "로비"
+    },
+    "17": {
+      "orig": "copy",
+      "ko": "복사"
+    },
+    "33": {
+      "orig": "back",
+      "ko": "뒤로"
+    },
+    "37": {
+      "orig": "spectate",
+      "ko": "관전"
+    },
+    "39": {
+      "orig": "shuffle",
+      "ko": "팀 섞기"
+    },
+    "40": {
+      "orig": "invite",
+      "ko": "초대"
+    },
+    "45": {
+      "orig": "start match",
+      "ko": "경기 시작"
+    },
+    "54": {
+      "orig": "lobby code: %s",
+      "ko": "로비 코드: %s"
+    },
+    "56": {
+      "orig": "password: %s",
+      "ko": "비밀번호: %s"
+    },
+    "58": {
+      "orig": "copied!",
+      "ko": "복사됨!"
+    },
+    "92": {
+      "orig": "spectators",
+      "ko": "관전자"
+    },
+    "93": {
+      "orig": "spectating: ",
+      "ko": "관전 중: "
+    },
+    "95": {
+      "orig": " and %d more",
+      "ko": " 외 %d명"
+    }
+  },
+  "game/ui/lobby/rules_strip.gdc": {
+    "0": {
+      "orig": "1 set",
+      "ko": "1세트"
+    },
+    "1": {
+      "orig": "best of 3",
+      "ko": "3판 2선승"
+    },
+    "2": {
+      "orig": "best of 5",
+      "ko": "5판 3선승"
+    },
+    "3": {
+      "orig": "slow",
+      "ko": "느림"
+    },
+    "5": {
+      "orig": "fast",
+      "ko": "빠름"
+    },
+    "28": {
+      "orig": "team size",
+      "ko": "팀 인원"
+    },
+    "43": {
+      "orig": "cpu: ",
+      "ko": "CPU: "
+    },
+    "44": {
+      "orig": "sweat: ",
+      "ko": "땀: "
+    },
+    "45": {
+      "orig": "deuces",
+      "ko": "듀스"
+    },
+    "46": {
+      "orig": "modifiers",
+      "ko": "세부 규칙"
+    },
+    "56": {
+      "orig": "reset",
+      "ko": "초기화"
+    },
+    "84": {
+      "orig": "cpu: %s",
+      "ko": "CPU: %s"
+    },
+    "85": {
+      "orig": "sweat: %s",
+      "ko": "땀: %s"
+    },
+    "87": {
+      "orig": "modifiers (%d)",
+      "ko": "세부 규칙 (%d)"
+    }
+  },
+  "game/ui/match_rewards.gdc": {
+    "27": {
+      "orig": "+0 xp",
+      "ko": "+0 XP"
+    },
+    "33": {
+      "orig": "level up!",
+      "ko": "레벨 업!"
+    },
+    "61": {
+      "orig": "max level",
+      "ko": "최대 레벨"
+    },
+    "63": {
+      "orig": "+%s xp",
+      "ko": "+%s XP"
+    },
+    "71": {
+      "orig": "max level!",
+      "ko": "최대 레벨 달성!"
+    }
+  },
+  "game/ui/menu.gdc": {
+    "20": {
+      "orig": "off",
+      "ko": "끔"
+    },
+    "22": {
+      "orig": "fast",
+      "ko": "빠름"
+    },
+    "23": {
+      "orig": "chaos",
+      "ko": "카오스"
+    },
+    "35": {
+      "orig": "cpu: easy",
+      "ko": "CPU: 쉬움"
+    },
+    "36": {
+      "orig": "cpu: normal",
+      "ko": "CPU: 보통"
+    },
+    "37": {
+      "orig": "cpu: hard",
+      "ko": "CPU: 어려움"
+    },
+    "61": {
+      "orig": "public",
+      "ko": "공개"
+    },
+    "62": {
+      "orig": "password",
+      "ko": "비밀번호"
+    },
+    "63": {
+      "orig": "friends",
+      "ko": "친구만"
+    },
+    "65": {
+      "orig": "closest",
+      "ko": "가장 가까움"
+    },
+    "66": {
+      "orig": "nearby",
+      "ko": "주변"
+    },
+    "67": {
+      "orig": "far",
+      "ko": "멀리"
+    },
+    "68": {
+      "orig": "worldwide",
+      "ko": "전 세계"
+    },
+    "94": {
+      "orig": "movement",
+      "ko": "이동"
+    },
+    "129": {
+      "orig": "guest %d",
+      "ko": "게스트 %d"
+    },
+    "173": {
+      "orig": "disband",
+      "ko": "파티 해산"
+    },
+    "273": {
+      "orig": "chill with the spam in chat please",
+      "ko": "채팅 도배는 자제해 주세요"
+    },
+    "278": {
+      "orig": "being toxic in chat and griefing teammates",
+      "ko": "채팅 내 비매너 행위 및 아군 방해"
+    },
+    "281": {
+      "orig": "an action was taken on a player you reported",
+      "ko": "신고한 플레이어에 대한 조치가 이루어졌습니다"
+    },
+    "284": {
+      "orig": "3 actions were taken on players you reported",
+      "ko": "신고한 플레이어들에 대해 3건의 조치가 이루어졌습니다"
+    },
+    "291": {
+      "orig": "vote to kick griefer99 started -- type /vote yes or /vote no",
+      "ko": "griefer99 추방 투표가 시작되었습니다 -- /vote yes 또는 /vote no를 입력하세요"
+    },
+    "292": {
+      "orig": "vote cast",
+      "ko": "투표 완료"
+    },
+    "390": {
+      "orig": "friend %d",
+      "ko": "친구 %d"
+    },
+    "533": {
+      "orig": "party is full",
+      "ko": "파티가 가득 찼어요"
+    },
+    "534": {
+      "orig": "no room for another player",
+      "ko": "더 이상 플레이어를 추가할 공간이 없어요"
+    },
+    "536": {
+      "orig": "guest profiles cannot be edited",
+      "ko": "게스트 프로필은 편집할 수 없어요"
+    },
+    "538": {
+      "orig": "shop",
+      "ko": "상점"
+    },
+    "548": {
+      "orig": "esc: back to the menu     c: camera",
+      "ko": "ESC: 메뉴로 돌아가기     C: 카메라"
+    },
+    "569": {
+      "orig": "play",
+      "ko": "플레이"
+    },
+    "571": {
+      "orig": "locker",
+      "ko": "보관함"
+    },
+    "575": {
+      "orig": "awards",
+      "ko": "업적"
+    },
+    "581": {
+      "orig": "exit",
+      "ko": "종료"
+    },
+    "582": {
+      "orig": "quit",
+      "ko": "나가기"
+    },
+    "583": {
+      "orig": "quit the game?",
+      "ko": "게임을 종료할까요?"
+    },
+    "584": {
+      "orig": "stay",
+      "ko": "머무르기"
+    },
+    "591": {
+      "orig": "wishlist",
+      "ko": "찜하기"
+    },
+    "595": {
+      "orig": "wishlist just volleyball on steam",
+      "ko": "Steam에서 저스트 발리볼 찜하기"
+    },
+    "596": {
+      "orig": "matchmaking...",
+      "ko": "매치메이킹 중..."
+    },
+    "599": {
+      "orig": "cancel",
+      "ko": "취소"
+    },
+    "603": {
+      "orig": "report a bug",
+      "ko": "버그 제보"
+    },
+    "604": {
+      "orig": "outfit: %s",
+      "ko": "복장: %s"
+    },
+    "606": {
+      "orig": "ball: %s",
+      "ko": "공: %s"
+    },
+    "610": {
+      "orig": "beta build\ncontent nonfinal",
+      "ko": "베타 빌드\n최종 버전이 아닙니다"
+    },
+    "624": {
+      "orig": "lv %d",
+      "ko": "Lv %d"
+    },
+    "625": {
+      "orig": "max level",
+      "ko": "최대 레벨"
+    },
+    "648": {
+      "orig": "controller config",
+      "ko": "컨트롤러 설정"
+    },
+    "649": {
+      "orig": "controllers",
+      "ko": "컨트롤러"
+    },
+    "650": {
+      "orig": "system settings",
+      "ko": "시스템 설정"
+    },
+    "651": {
+      "orig": "configure audio, video, display",
+      "ko": "오디오, 비디오, 화면 설정"
+    },
+    "653": {
+      "orig": "feedback & bug reports",
+      "ko": "피드백 및 버그 제보"
+    },
+    "683": {
+      "orig": "back",
+      "ko": "뒤로"
+    },
+    "687": {
+      "orig": "recently deleted",
+      "ko": "최근 삭제된 항목"
+    },
+    "690": {
+      "orig": "quick match",
+      "ko": "빠른 대전"
+    },
+    "692": {
+      "orig": "custom match",
+      "ko": "사용자 지정 대전"
+    },
+    "694": {
+      "orig": "how to play",
+      "ko": "게임 방법"
+    },
+    "695": {
+      "orig": "server browser",
+      "ko": "서버 브라우저"
+    },
+    "697": {
+      "orig": "custom lobby",
+      "ko": "사용자 지정 로비"
+    },
+    "698": {
+      "orig": "join lan",
+      "ko": "LAN 참가"
+    },
+    "700": {
+      "orig": "profile settings",
+      "ko": "프로필 설정"
+    },
+    "715": {
+      "orig": "standard",
+      "ko": "스탠다드"
+    },
+    "717": {
+      "orig": "host lan",
+      "ko": "LAN 호스트"
+    },
+    "743": {
+      "orig": "local match",
+      "ko": "로컬 대전"
+    },
+    "758": {
+      "orig": "controller configurations",
+      "ko": "컨트롤러 구성"
+    },
+    "760": {
+      "orig": "configure controller and profile setup",
+      "ko": "컨트롤러 및 프로필 구성 설정"
+    },
+    "781": {
+      "orig": "beta build - content nonfinal",
+      "ko": "베타 빌드 - 최종 버전이 아닙니다"
+    },
+    "782": {
+      "orig": "disconnect all",
+      "ko": "모두 연결 해제"
+    },
+    "783": {
+      "orig": "close",
+      "ko": "닫기"
+    },
+    "784": {
+      "orig": "done",
+      "ko": "완료"
+    },
+    "789": {
+      "orig": "local party",
+      "ko": "로컬 파티"
+    },
+    "805": {
+      "orig": "keyboard & mouse",
+      "ko": "키보드 및 마우스"
+    },
+    "806": {
+      "orig": "controller %d",
+      "ko": "컨트롤러 %d"
+    },
+    "807": {
+      "orig": "controller",
+      "ko": "컨트롤러"
+    },
+    "808": {
+      "orig": "tutorial",
+      "ko": "튜토리얼"
+    },
+    "809": {
+      "orig": "learn the basics of the game",
+      "ko": "게임의 기초를 배워보세요"
+    },
+    "821": {
+      "orig": "drill complete",
+      "ko": "훈련 완료"
+    },
+    "822": {
+      "orig": "retry",
+      "ko": "다시 시도"
+    },
+    "823": {
+      "orig": "drills",
+      "ko": "훈련"
+    },
+    "824": {
+      "orig": "finish",
+      "ko": "마치기"
+    },
+    "839": {
+      "orig": "esc: leave drill     c: camera",
+      "ko": "ESC: 훈련 나가기     C: 카메라"
+    },
+    "841": {
+      "orig": "play a rally!",
+      "ko": "랠리를 플레이해 보세요!"
+    },
+    "842": {
+      "orig": "welcome to just volleyball!",
+      "ko": "저스트 발리볼에 오신 걸 환영해요!"
+    },
+    "843": {
+      "orig": "if it's your first time playing, it's heavily recommended that you learn properly first!",
+      "ko": "처음이시라면 기본기부터 제대로 배우시는 걸 강력히 추천해요!"
+    },
+    "844": {
+      "orig": "learn the basics",
+      "ko": "기초 배우기"
+    },
+    "845": {
+      "orig": "don't need to!",
+      "ko": "괜찮아요!"
+    },
+    "847": {
+      "orig": "disconnect local players to play %s",
+      "ko": "%s 모드를 플레이하려면 로컬 플레이어 연결을 해제하세요"
+    },
+    "877": {
+      "orig": "the tutorial",
+      "ko": "튜토리얼"
+    },
+    "949": {
+      "orig": "lv. %d",
+      "ko": "Lv. %d"
+    },
+    "951": {
+      "orig": "no title",
+      "ko": "칭호 없음"
+    },
+    "954": {
+      "orig": "edit title",
+      "ko": "칭호 편집"
+    },
+    "957": {
+      "orig": "losses",
+      "ko": "패배"
+    },
+    "958": {
+      "orig": "winrate",
+      "ko": "승률"
+    },
+    "961": {
+      "orig": "spikes",
+      "ko": "스파이크"
+    },
+    "962": {
+      "orig": "blocks",
+      "ko": "블로킹"
+    },
+    "963": {
+      "orig": "receives",
+      "ko": "리시브"
+    },
+    "964": {
+      "orig": "assists",
+      "ko": "어시스트"
+    },
+    "965": {
+      "orig": "playtime",
+      "ko": "플레이 시간"
+    },
+    "968": {
+      "orig": "jumps",
+      "ko": "점프"
+    },
+    "969": {
+      "orig": "bam jumps",
+      "ko": "밤 점프"
+    },
+    "971": {
+      "orig": "dive receives",
+      "ko": "다이빙 리시브"
+    },
+    "973": {
+      "orig": "aces",
+      "ko": "서브 에이스"
+    },
+    "974": {
+      "orig": "quick chats",
+      "ko": "빠른 채팅"
+    },
+    "976": {
+      "orig": "collisions",
+      "ko": "충돌"
+    },
+    "977": {
+      "orig": "net crashes",
+      "ko": "네트 충돌"
+    },
+    "979": {
+      "orig": "recently deleted (%d)",
+      "ko": "최근 삭제된 항목 (%d)"
+    },
+    "980": {
+      "orig": "new",
+      "ko": "새로 만들기"
+    },
+    "981": {
+      "orig": "Profile %d",
+      "ko": "프로필 %d"
+    },
+    "984": {
+      "orig": "rename",
+      "ko": "이름 변경"
+    },
+    "985": {
+      "orig": "delete",
+      "ko": "삭제"
+    },
+    "986": {
+      "orig": "delete %s?",
+      "ko": "%s 프로필을 삭제할까요?"
+    },
+    "987": {
+      "orig": "this profile will be moved into recently deleted and is recoverable",
+      "ko": "이 프로필은 최근 삭제된 항목으로 이동되며 복구할 수 있습니다"
+    },
+    "1006": {
+      "orig": "no profiles",
+      "ko": "프로필 없음"
+    },
+    "1007": {
+      "orig": "restore",
+      "ko": "복원"
+    },
+    "1008": {
+      "orig": "remove %s for good?",
+      "ko": "%s 프로필을 영구 삭제할까요?"
+    },
+    "1009": {
+      "orig": "this action cannot be undone",
+      "ko": "이 작업은 되돌릴 수 없습니다"
+    },
+    "1010": {
+      "orig": "delete all",
+      "ko": "모두 삭제"
+    },
+    "1011": {
+      "orig": "remove every deleted profile for good?",
+      "ko": "삭제된 모든 프로필을 영구적으로 제거할까요?"
+    },
+    "1014": {
+      "orig": "filter modes",
+      "ko": "모드 필터"
+    },
+    "1019": {
+      "orig": "any mode",
+      "ko": "모든 모드"
+    },
+    "1020": {
+      "orig": "fresh matches only",
+      "ko": "새 경기만 찾기"
+    },
+    "1021": {
+      "orig": "find match",
+      "ko": "경기 찾기"
+    },
+    "1023": {
+      "orig": "match found!",
+      "ko": "경기를 찾았어요!"
+    },
+    "1024": {
+      "orig": "finding a match",
+      "ko": "경기 찾는 중"
+    },
+    "1025": {
+      "orig": "searching",
+      "ko": "검색 중"
+    },
+    "1026": {
+      "orig": "only the party leader can queue",
+      "ko": "파티장만 매치메이킹을 시작할 수 있어요"
+    },
+    "1027": {
+      "orig": "your group of %d needs a bigger mode",
+      "ko": "%d인 파티는 더 큰 인원 모드가 필요해요"
+    },
+    "1031": {
+      "orig": "matchmaking penalty: you can resume queue in %s",
+      "ko": "매치메이킹 페널티: %s 후에 다시 대기열에 참여할 수 있어요"
+    },
+    "1032": {
+      "orig": "party member cannot matchmake at this time due to a penalty",
+      "ko": "페널티로 인해 현재 매치메이킹할 수 없는 파티원이 있어요"
+    },
+    "1034": {
+      "orig": "penalty applied, you may queue again in %s",
+      "ko": "페널티가 적용되었습니다. %s 후에 다시 참여할 수 있어요"
+    },
+    "1035": {
+      "orig": "penalty applied",
+      "ko": "페널티 적용됨"
+    },
+    "1039": {
+      "orig": "couldn't get back into the match",
+      "ko": "경기에 다시 접속하지 못했어요"
+    },
+    "1040": {
+      "orig": "couldn't get back into the match: %s",
+      "ko": "경기에 다시 접속하지 못했어요: %s"
+    },
+    "1047": {
+      "orig": "couldn't open the steam overlay to invite",
+      "ko": "초대를 위해 Steam 오버레이를 열 수 없어요"
+    },
+    "1055": {
+      "orig": "no friends online",
+      "ko": "온라인 친구 없음"
+    },
+    "1061": {
+      "orig": "join",
+      "ko": "참가"
+    },
+    "1062": {
+      "orig": "leader",
+      "ko": "파티장"
+    },
+    "1063": {
+      "orig": "in party",
+      "ko": "파티 중"
+    },
+    "1064": {
+      "orig": "invited",
+      "ko": "초대됨"
+    },
+    "1065": {
+      "orig": "friend",
+      "ko": "친구"
+    },
+    "1068": {
+      "orig": "busy",
+      "ko": "다른 용무 중"
+    },
+    "1069": {
+      "orig": "in another game",
+      "ko": "다른 게임 플레이 중"
+    },
+    "1071": {
+      "orig": "in just volleyball",
+      "ko": "저스트 발리볼 플레이 중"
+    },
+    "1072": {
+      "orig": "leader invites",
+      "ko": "파티장만 초대"
+    },
+    "1076": {
+      "orig": "in the menu",
+      "ko": "메뉴에 있음"
+    },
+    "1077": {
+      "orig": "in freeplay",
+      "ko": "자유 연습 중"
+    },
+    "1078": {
+      "orig": "in a party of 3",
+      "ko": "3인 파티 중"
+    },
+    "1079": {
+      "orig": "looking for a match",
+      "ko": "경기 찾는 중"
+    },
+    "1083": {
+      "orig": "looking for a match with friends",
+      "ko": "친구와 경기 찾는 중"
+    },
+    "1084": {
+      "orig": "warming up with a party",
+      "ko": "파티원과 몸 푸는 중"
+    },
+    "1085": {
+      "orig": "in a party of %d",
+      "ko": "%d인 파티 중"
+    },
+    "1086": {
+      "orig": "in a custom lobby",
+      "ko": "사용자 지정 로비에 있음"
+    },
+    "1091": {
+      "orig": "teams",
+      "ko": "팀"
+    },
+    "1092": {
+      "orig": "1 set",
+      "ko": "1세트"
+    },
+    "1093": {
+      "orig": "best of 3",
+      "ko": "3판 2선승"
+    },
+    "1094": {
+      "orig": "best of 5",
+      "ko": "5판 3선승"
+    },
+    "1095": {
+      "orig": "win by two",
+      "ko": "2점 차 승리"
+    },
+    "1096": {
+      "orig": "sweat builds up",
+      "ko": "땀 누적"
+    },
+    "1097": {
+      "orig": "sweat rate",
+      "ko": "땀 발생률"
+    },
+    "1098": {
+      "orig": "start match",
+      "ko": "경기 시작"
+    },
+    "1107": {
+      "orig": "titles",
+      "ko": "칭호"
+    },
+    "1110": {
+      "orig": "reset all",
+      "ko": "모두 초기화"
+    },
+    "1119": {
+      "orig": "only the party leader can start a match",
+      "ko": "파티장만 경기를 시작할 수 있어요"
+    },
+    "1120": {
+      "orig": "steam authenticated",
+      "ko": "Steam 인증됨"
+    },
+    "1121": {
+      "orig": "steam not authenticated",
+      "ko": "Steam 미인증"
+    },
+    "1124": {
+      "orig": "invite a friend",
+      "ko": "친구 초대"
+    },
+    "1131": {
+      "orig": "  (leader)",
+      "ko": "  (파티장)"
+    },
+    "1133": {
+      "orig": "in a lobby together",
+      "ko": "함께 로비에 있음"
+    },
+    "1134": {
+      "orig": "regrouping",
+      "ko": "재합류 중"
+    },
+    "1135": {
+      "orig": "matchmaking together",
+      "ko": "함께 매치메이킹 중"
+    },
+    "1136": {
+      "orig": "create party",
+      "ko": "파티 만들기"
+    },
+    "1140": {
+      "orig": "go online",
+      "ko": "온라인 전환"
+    },
+    "1141": {
+      "orig": "leave",
+      "ko": "나가기"
+    },
+    "1146": {
+      "orig": "kick",
+      "ko": "추방"
+    },
+    "1157": {
+      "orig": "press %s to take the ball in hand",
+      "ko": "%s를 눌러 공을 손에 쥐세요"
+    },
+    "1158": {
+      "orig": "press %s to spawn your ball",
+      "ko": "%s를 눌러 공을 생성하세요"
+    },
+    "1181": {
+      "orig": "party back together",
+      "ko": "파티가 다시 모였어요"
+    },
+    "1186": {
+      "orig": "regrouping your party...",
+      "ko": "파티 재합류 중..."
+    },
+    "1188": {
+      "orig": "couldn't rejoin your party",
+      "ko": "파티에 다시 합류하지 못했어요"
+    },
+    "1191": {
+      "orig": "couldn't start a party (error %d)",
+      "ko": "파티를 만들 수 없어요 (오류 %d)"
+    },
+    "1192": {
+      "orig": "lan party",
+      "ko": "LAN 파티"
+    },
+    "1193": {
+      "orig": "new party",
+      "ko": "새 파티"
+    },
+    "1194": {
+      "orig": "joined %s's party",
+      "ko": "%s님의 파티에 참가했어요"
+    },
+    "1195": {
+      "orig": "joined the party",
+      "ko": "파티에 참가했어요"
+    },
+    "1196": {
+      "orig": "party is open: anyone in it can invite",
+      "ko": "파티 공개: 누구나 초대할 수 있어요"
+    },
+    "1197": {
+      "orig": "party is private: only you can invite",
+      "ko": "파티 비공개: 나만 초대할 수 있어요"
+    },
+    "1198": {
+      "orig": "not in party yet",
+      "ko": "아직 파티에 속해 있지 않아요"
+    },
+    "1199": {
+      "orig": "your party is still opening, try again in a second",
+      "ko": "파티를 여는 중이에요. 잠시 후 다시 시도해 주세요"
+    },
+    "1200": {
+      "orig": "friend joins: local > join lan > %s",
+      "ko": "친구 참가 경로: 로컬 > LAN 참가 > %s"
+    },
+    "1201": {
+      "orig": "couldn't invite them",
+      "ko": "초대할 수 없어요"
+    },
+    "1202": {
+      "orig": "the leader's lan ip",
+      "ko": "파티장의 LAN IP"
+    },
+    "1203": {
+      "orig": "invite sent",
+      "ko": "초대를 보냈어요"
+    },
+    "1207": {
+      "orig": "your lan ip",
+      "ko": "내 LAN IP"
+    },
+    "1208": {
+      "orig": "heads up",
+      "ko": "알림"
+    },
+    "1212": {
+      "orig": "search by name or code...",
+      "ko": "이름 또는 코드로 검색..."
+    },
+    "1213": {
+      "orig": "any tag",
+      "ko": "모든 태그"
+    },
+    "1214": {
+      "orig": "tags",
+      "ko": "태그"
+    },
+    "1215": {
+      "orig": "server tags",
+      "ko": "서버 태그"
+    },
+    "1217": {
+      "orig": "create server",
+      "ko": "서버 만들기"
+    },
+    "1218": {
+      "orig": "refresh",
+      "ko": "새로고침"
+    },
+    "1221": {
+      "orig": "join by lobby code",
+      "ko": "로비 코드로 참가"
+    },
+    "1222": {
+      "orig": "join cancelled",
+      "ko": "참가가 취소되었어요"
+    },
+    "1226": {
+      "orig": "filters",
+      "ko": "필터"
+    },
+    "1227": {
+      "orig": "reset",
+      "ko": "초기화"
+    },
+    "1228": {
+      "orig": "region",
+      "ko": "지역"
+    },
+    "1229": {
+      "orig": "lowest ping",
+      "ko": "핑 낮은 순"
+    },
+    "1230": {
+      "orig": "most players",
+      "ko": "인원 많은 순"
+    },
+    "1231": {
+      "orig": "fewest players",
+      "ko": "인원 적은 순"
+    },
+    "1232": {
+      "orig": "sort by",
+      "ko": "정렬 기준"
+    },
+    "1233": {
+      "orig": "show full matches",
+      "ko": "가득 찬 방 표시"
+    },
+    "1234": {
+      "orig": "friends only",
+      "ko": "친구만 표시"
+    },
+    "1235": {
+      "orig": "hide old versions",
+      "ko": "구버전 숨기기"
+    },
+    "1236": {
+      "orig": "any rules",
+      "ko": "모든 규칙"
+    },
+    "1237": {
+      "orig": "auto refresh",
+      "ko": "자동 새로고침"
+    },
+    "1240": {
+      "orig": "private",
+      "ko": "비공개"
+    },
+    "1241": {
+      "orig": "who can join",
+      "ko": "참가 허용 대상"
+    },
+    "1243": {
+      "orig": "max players",
+      "ko": "최대 인원"
+    },
+    "1244": {
+      "orig": "password (optional)",
+      "ko": "비밀번호 (선택 사항)"
+    },
+    "1245": {
+      "orig": "host on steam",
+      "ko": "Steam으로 호스트"
+    },
+    "1246": {
+      "orig": "open lobby with party",
+      "ko": "파티와 함께 로비 열기"
+    },
+    "1247": {
+      "orig": "server tags (up to %d)",
+      "ko": "서버 태그 (최대 %d개)"
+    },
+    "1250": {
+      "orig": "join a lan host by address",
+      "ko": "주소로 LAN 호스트에 참가"
+    },
+    "1254": {
+      "orig": "only your steam friends can see it and join",
+      "ko": "Steam 친구에게만 보이며 참가할 수 있어요"
+    },
+    "1255": {
+      "orig": "shows in the server browser with a lock. your password, your lobby code or your invite gets people in",
+      "ko": "서버 브라우저에 잠금 표시와 함께 나타나요. 비밀번호, 로비 코드 또는 초대로만 참가할 수 있어요"
+    },
+    "1256": {
+      "orig": "hidden from the server browser. only people you invite or give your lobby code to can join. add a password to list it with a lock",
+      "ko": "서버 브라우저에 표시되지 않아요. 초대를 받거나 로비 코드를 아는 사람만 참가할 수 있어요. 비밀번호를 설정하면 잠금 상태로 목록에 표시돼요"
+    },
+    "1257": {
+      "orig": "anyone can find it in the server browser and join",
+      "ko": "누구나 서버 브라우저에서 찾아 참가할 수 있어요"
+    },
+    "1258": {
+      "orig": "couldn't open the port, are you already hosting?",
+      "ko": "포트를 열 수 없어요. 이미 호스팅 중인가요?"
+    },
+    "1259": {
+      "orig": "steam hosting unavailable",
+      "ko": "Steam 호스팅을 사용할 수 없어요"
+    },
+    "1260": {
+      "orig": "connecting to %s...",
+      "ko": "%s에 연결 중..."
+    },
+    "1261": {
+      "orig": "bad address",
+      "ko": "잘못된 주소예요"
+    },
+    "1262": {
+      "orig": "couldn't join %s -- wrong ip, host left, or firewall",
+      "ko": "%s에 참가할 수 없어요 -- 잘못된 IP, 호스트 퇴장 또는 방화벽 문제일 수 있어요"
+    },
+    "1263": {
+      "orig": "your party is in the lobby",
+      "ko": "파티가 로비에 있어요"
+    },
+    "1264": {
+      "orig": "taking the party to the lobby...",
+      "ko": "파티를 로비로 이동 중..."
+    },
+    "1265": {
+      "orig": "restart",
+      "ko": "다시 시작"
+    },
+    "1270": {
+      "orig": "searching...",
+      "ko": "검색 중..."
+    },
+    "1272": {
+      "orig": "reg's court",
+      "ko": "레그의 코트"
+    },
+    "1273": {
+      "orig": "spike city",
+      "ko": "스파이크 시티"
+    },
+    "1274": {
+      "orig": "beach bums",
+      "ko": "비치 범즈"
+    },
+    "1275": {
+      "orig": "net ninjas",
+      "ko": "네트 닌자"
+    },
+    "1276": {
+      "orig": "sunday league",
+      "ko": "선데이 리그"
+    },
+    "1277": {
+      "orig": "the pit",
+      "ko": "더 핏"
+    },
+    "1278": {
+      "orig": "grass stains",
+      "ko": "잔디 물든 코트"
+    },
+    "1279": {
+      "orig": "block party",
+      "ko": "블록 파티"
+    },
+    "1280": {
+      "orig": "dig deep",
+      "ko": "디그 딥"
+    },
+    "1281": {
+      "orig": "ace holes",
+      "ko": "에이스 홀즈"
+    },
+    "1282": {
+      "orig": "bump set spike",
+      "ko": "리시브 토스 스파이크"
+    },
+    "1283": {
+      "orig": "sand castle",
+      "ko": "모래성 코트"
+    },
+    "1284": {
+      "orig": "the net returns",
+      "ko": "돌아온 네트"
+    },
+    "1285": {
+      "orig": "volley llamas",
+      "ko": "발리 라마"
+    },
+    "1286": {
+      "orig": "court jesters",
+      "ko": "코트의 광대"
+    },
+    "1287": {
+      "orig": "pancake club",
+      "ko": "팬케이크 클럽"
+    },
+    "1288": {
+      "orig": "rally cats",
+      "ko": "랠리 캣츠"
+    },
+    "1289": {
+      "orig": "setters gonna set",
+      "ko": "세터는 토스할 뿐"
+    },
+    "1290": {
+      "orig": "kill zone",
+      "ko": "킬 존"
+    },
+    "1291": {
+      "orig": "over the net",
+      "ko": "네트 너머로"
+    },
+    "1365": {
+      "orig": "no win by two",
+      "ko": "2점 차 승리 없음"
+    },
+    "1366": {
+      "orig": "default rules",
+      "ko": "기본 규칙"
+    },
+    "1367": {
+      "orig": "custom scoring",
+      "ko": "사용자 지정 점수"
+    },
+    "1370": {
+      "orig": "this room",
+      "ko": "현재 방"
+    },
+    "1371": {
+      "orig": "active modifiers",
+      "ko": "적용된 세부 규칙"
+    },
+    "1372": {
+      "orig": "the standard game",
+      "ko": "기본 경기 규칙"
+    },
+    "1373": {
+      "orig": "tags: ",
+      "ko": "태그: "
+    },
+    "1374": {
+      "orig": "rules: ",
+      "ko": "규칙: "
+    },
+    "1375": {
+      "orig": "rules: the standard game",
+      "ko": "규칙: 기본 경기 규칙"
+    },
+    "1381": {
+      "orig": "no courts matching \"%s\"",
+      "ko": "\"%s\"와(과) 일치하는 코트가 없어요"
+    },
+    "1382": {
+      "orig": "no lobbies available",
+      "ko": "참가 가능한 로비가 없어요"
+    },
+    "1383": {
+      "orig": "in game     %s",
+      "ko": "게임 중     %s"
+    },
+    "1384": {
+      "orig": "in lobby     %s",
+      "ko": "로비 대기 중     %s"
+    },
+    "1385": {
+      "orig": "     join to watch",
+      "ko": "     관전 참가"
+    },
+    "1386": {
+      "orig": "old version",
+      "ko": "구버전"
+    },
+    "1388": {
+      "orig": "full",
+      "ko": "만원"
+    },
+    "1389": {
+      "orig": "match full",
+      "ko": "경기 인원 가득 참"
+    },
+    "1393": {
+      "orig": "only the party leader can move the party",
+      "ko": "파티장만 파티를 이동할 수 있어요"
+    },
+    "1395": {
+      "orig": "joining lobby...",
+      "ko": "로비에 참가 중..."
+    },
+    "1396": {
+      "orig": "no lobby with code \"%s\"",
+      "ko": "\"%s\" 코드의 로비가 없어요"
+    },
+    "1397": {
+      "orig": "not enough room there for your party of %d",
+      "ko": "%d인 파티가 들어가기에 자리가 부족해요"
+    },
+    "1398": {
+      "orig": "taking the party to %s...",
+      "ko": "파티를 %s(으)로 이동 중..."
+    },
+    "1399": {
+      "orig": "joining %s...",
+      "ko": "%s에 참가 중..."
+    },
+    "1400": {
+      "orig": "code",
+      "ko": "코드"
+    },
+    "1401": {
+      "orig": "password?",
+      "ko": "비밀번호?"
+    },
+    "1402": {
+      "orig": "couldn't connect to %s",
+      "ko": "%s에 연결할 수 없어요"
+    },
+    "1406": {
+      "orig": "that side is full, join %s to play",
+      "ko": "해당 팀이 가득 찼어요. %s 팀에 참가해 플레이하세요"
+    },
+    "1407": {
+      "orig": "join home or away to play",
+      "ko": "플레이하려면 홈 또는 어웨이 팀에 참가하세요"
+    },
+    "1410": {
+      "orig": "shuffle",
+      "ko": "팀 섞기"
+    },
+    "1411": {
+      "orig": "spectators",
+      "ko": "관전자"
+    },
+    "1413": {
+      "orig": "waiting for the host to start...",
+      "ko": "호스트가 시작하길 기다리는 중..."
+    },
+    "1415": {
+      "orig": "home's empty seats get cpus, away's stay open",
+      "ko": "홈 팀의 빈자리는 CPU로 채워지고, 어웨이 팀은 비워둡니다"
+    },
+    "1416": {
+      "orig": "away's empty seats get cpus, home's stay open",
+      "ko": "어웨이 팀의 빈자리는 CPU로 채워지고, 홈 팀은 비워둡니다"
+    },
+    "1417": {
+      "orig": "empty seats stay open",
+      "ko": "빈자리를 비워둡니다"
+    },
+    "1418": {
+      "orig": "click an open seat to add a cpu",
+      "ko": "빈자리를 클릭해 CPU를 추가하세요"
+    },
+    "1419": {
+      "orig": "empty seats are filled with cpus",
+      "ko": "빈자리는 CPU로 채워집니다"
+    },
+    "1422": {
+      "orig": "vacant",
+      "ko": "빈자리"
+    },
+    "1435": {
+      "orig": "nice serve!",
+      "ko": "나이스 서브!"
+    },
+    "1436": {
+      "orig": "anyone up for a quick game after this one? i have like twenty minutes",
+      "ko": "이번 판 끝나고 한 판 더 하실 분? 20분 정도 시간 있어요"
+    },
+    "1443": {
+      "orig": "hold lmb to charge the toss, release to throw, tap strafe to cancel the charge",
+      "ko": "좌클릭을 길게 눌러 토스를 차지하고, 떼면 공을 던집니다. 스트레이프를 살짝 누르면 차지를 취소합니다"
+    }
+  },
+  "game/character/studio/locker_studio.gdc": {
+    "18": {
+      "orig": "phone screen (9:16) 1080 x 1920",
+      "ko": "모바일 화면 (9:16) 1080 x 1920"
+    },
+    "27": {
+      "orig": "just volleyball studio",
+      "ko": "Just Volleyball 스튜디오"
+    },
+    "82": {
+      "orig": "move: lmb      resize: scroll      snap: ctrl      undo: ctrl+z      preview: p",
+      "ko": "이동: 좌클릭      크기: 스크롤      스냅: Ctrl      실행 취소: Ctrl+Z      미리보기: P"
+    },
+    "83": {
+      "orig": "add something from the add tab",
+      "ko": "추가 탭에서 요소를 추가해 보세요"
+    },
+    "110": {
+      "orig": "nice!",
+      "ko": "나이스!"
+    },
+    "137": {
+      "orig": "top left",
+      "ko": "왼쪽 위"
+    },
+    "138": {
+      "orig": "top right",
+      "ko": "오른쪽 위"
+    },
+    "142": {
+      "orig": "bottom left",
+      "ko": "왼쪽 아래"
+    },
+    "144": {
+      "orig": "bottom right",
+      "ko": "오른쪽 아래"
+    },
+    "148": {
+      "orig": "snap while dragging: hold ctrl",
+      "ko": "드래그 중 스냅: Ctrl 길게 누르기"
+    },
+    "159": {
+      "orig": "click or esc to go back",
+      "ko": "클릭 또는 ESC로 돌아가기"
+    },
+    "195": {
+      "orig": "show guides",
+      "ko": "가이드 표시"
+    },
+    "196": {
+      "orig": "pictures save to %s",
+      "ko": "이미지 저장 위치: %s"
+    },
+    "198": {
+      "orig": "save project",
+      "ko": "프로젝트 저장"
+    },
+    "199": {
+      "orig": "open project",
+      "ko": "프로젝트 열기"
+    },
+    "200": {
+      "orig": "saved as %s",
+      "ko": "%s에 저장됨"
+    },
+    "201": {
+      "orig": "save canvas as a .%s file you can open anytime",
+      "ko": "언제든 다시 열 수 있도록 캔버스를 .%s 파일로 저장"
+    },
+    "203": {
+      "orig": "export pieces",
+      "ko": "조각 내보내기"
+    },
+    "204": {
+      "orig": "export your image into its individual pieces",
+      "ko": "이미지를 개별 요소별로 내보내기"
+    },
+    "214": {
+      "orig": "pattern %d",
+      "ko": "패턴 %d"
+    },
+    "225": {
+      "orig": "pattern color",
+      "ko": "패턴 색상"
+    },
+    "226": {
+      "orig": "match background",
+      "ko": "배경과 맞추기"
+    },
+    "232": {
+      "orig": "slot %d",
+      "ko": "슬롯 %d"
+    },
+    "235": {
+      "orig": "a random player",
+      "ko": "무작위 선수"
+    },
+    "240": {
+      "orig": "you, as you look right now",
+      "ko": "현재 내 모습"
+    },
+    "241": {
+      "orig": "that's as many characters as one picture can hold",
+      "ko": "한 이미지에 넣을 수 있는 최대 캐릭터 수입니다"
+    },
+    "242": {
+      "orig": "hide other profiles",
+      "ko": "다른 프로필 숨기기"
+    },
+    "243": {
+      "orig": "show other profiles",
+      "ko": "다른 프로필 보기"
+    },
+    "244": {
+      "orig": "add text",
+      "ko": "텍스트 추가"
+    },
+    "249": {
+      "orig": "fewer stickers",
+      "ko": "스티커 접기"
+    },
+    "250": {
+      "orig": "more stickers",
+      "ko": "스티커 더 보기"
+    },
+    "251": {
+      "orig": "your pictures",
+      "ko": "내 이미지"
+    },
+    "252": {
+      "orig": "add a picture from your computer",
+      "ko": "컴퓨터에서 이미지 추가"
+    },
+    "254": {
+      "orig": "fewer patterns",
+      "ko": "패턴 접기"
+    },
+    "255": {
+      "orig": "more patterns",
+      "ko": "패턴 더 보기"
+    },
+    "256": {
+      "orig": "clear the canvas?",
+      "ko": "캔버스를 비울까요?"
+    },
+    "257": {
+      "orig": "everything on it will be removed",
+      "ko": "캔버스의 모든 항목이 삭제됩니다"
+    },
+    "263": {
+      "orig": "move layers: drag\nmulti select: shift click",
+      "ko": "레이어 이동: 드래그\n다중 선택: Shift + 클릭"
+    },
+    "264": {
+      "orig": "select all",
+      "ko": "모두 선택"
+    },
+    "271": {
+      "orig": "bring forward",
+      "ko": "앞으로 가져오기"
+    },
+    "273": {
+      "orig": "send back",
+      "ko": "뒤로 보내기"
+    },
+    "275": {
+      "orig": "click something on the canvas",
+      "ko": "캔버스에서 항목을 클릭하세요"
+    },
+    "278": {
+      "orig": "line up",
+      "ko": "정렬"
+    },
+    "282": {
+      "orig": "drag any of them to move them all, scroll or pull the corner to resize them together",
+      "ko": "아무 항목이나 드래그해 함께 이동하고, 스크롤하거나 모서리를 당겨 함께 크기를 조절하세요"
+    },
+    "286": {
+      "orig": "drop shadow",
+      "ko": "그림자"
+    },
+    "295": {
+      "orig": "this look",
+      "ko": "이 외형"
+    },
+    "297": {
+      "orig": "player 1",
+      "ko": "플레이어 1"
+    },
+    "299": {
+      "orig": "player 2",
+      "ko": "플레이어 2"
+    },
+    "301": {
+      "orig": "player 3",
+      "ko": "플레이어 3"
+    },
+    "303": {
+      "orig": "player 4",
+      "ko": "플레이어 4"
+    },
+    "304": {
+      "orig": "who wears it",
+      "ko": "착용 대상"
+    },
+    "305": {
+      "orig": "a player who isn't here shows this look instead.",
+      "ko": "자리에 없는 플레이어는 대신 이 외형으로 표시됩니다."
+    },
+    "306": {
+      "orig": "outfit and pose",
+      "ko": "의상 및 포즈"
+    },
+    "311": {
+      "orig": "other hand",
+      "ko": "반대 손"
+    },
+    "312": {
+      "orig": "type here",
+      "ko": "여기에 입력"
+    },
+    "322": {
+      "orig": "sticker outline",
+      "ko": "스티커 외곽선"
+    },
+    "329": {
+      "orig": "team outline",
+      "ko": "팀 외곽선"
+    },
+    "332": {
+      "orig": "tile size",
+      "ko": "타일 크기"
+    },
+    "349": {
+      "orig": "key prompts follow the player's binds and controller: {key:jump} shows the button they would press",
+      "ko": "키 안내는 플레이어의 키 설정과 컨트롤러를 따릅니다: {key:jump}는 누를 버튼을 표시합니다"
+    },
+    "352": {
+      "orig": "section header",
+      "ko": "섹션 제목"
+    },
+    "354": {
+      "orig": "section id",
+      "ko": "섹션 ID"
+    },
+    "356": {
+      "orig": "search words",
+      "ko": "검색어"
+    },
+    "357": {
+      "orig": "brake, stop",
+      "ko": "브레이크, 정지"
+    },
+    "359": {
+      "orig": "no link",
+      "ko": "연결 없음"
+    },
+    "362": {
+      "orig": "chapter %s  %s",
+      "ko": "챕터 %s  %s"
+    },
+    "367": {
+      "orig": "link to",
+      "ko": "연결 대상"
+    },
+    "369": {
+      "orig": "[b]bold[/b]  [i]italic[/i]  [color=#e5484d]colour[/color]",
+      "ko": "[b]굵게[/b]  [i]기울임[/i]  [color=#e5484d]색상[/color]"
+    },
+    "370": {
+      "orig": "card behind",
+      "ko": "배경 카드"
+    },
+    "379": {
+      "orig": "both ends",
+      "ko": "양쪽 끝"
+    },
+    "380": {
+      "orig": "controls (reads the live binds)",
+      "ko": "조작법 (현재 키 설정 반영)"
+    },
+    "382": {
+      "orig": "one row a line, cells split with |. the first row is the header",
+      "ko": "한 줄에 한 행, 셀은 |로 구분합니다. 첫 번째 행은 헤더입니다"
+    },
+    "390": {
+      "orig": "save folder",
+      "ko": "저장 폴더"
+    },
+    "391": {
+      "orig": "change folder",
+      "ko": "폴더 변경"
+    },
+    "392": {
+      "orig": "use %s",
+      "ko": "%s 사용"
+    },
+    "393": {
+      "orig": "open folder",
+      "ko": "폴더 열기"
+    },
+    "405": {
+      "orig": "*.%s ; just volleyball studio",
+      "ko": "*.%s ; Just Volleyball 스튜디오"
+    },
+    "406": {
+      "orig": "save this picture",
+      "ko": "이 이미지 저장"
+    },
+    "407": {
+      "orig": "open a picture",
+      "ko": "이미지 열기"
+    },
+    "409": {
+      "orig": "saved %s",
+      "ko": "%s 저장됨"
+    },
+    "411": {
+      "orig": "could not save the project",
+      "ko": "프로젝트를 저장할 수 없습니다"
+    },
+    "413": {
+      "orig": "opened %s",
+      "ko": "%s 열림"
+    },
+    "414": {
+      "orig": "that isn't a studio project",
+      "ko": "스튜디오 프로젝트 파일이 아닙니다"
+    },
+    "417": {
+      "orig": "could not export the pieces",
+      "ko": "조각을 내보낼 수 없습니다"
+    },
+    "419": {
+      "orig": "pieces saved to %s",
+      "ko": "조각이 %s에 저장됨"
+    },
+    "420": {
+      "orig": "*.png, *.jpg, *.jpeg, *.webp ; pictures",
+      "ko": "*.png, *.jpg, *.jpeg, *.webp ; 이미지"
+    },
+    "421": {
+      "orig": "add a picture",
+      "ko": "이미지 추가"
+    },
+    "422": {
+      "orig": "could not add that picture",
+      "ko": "해당 이미지를 추가할 수 없습니다"
+    },
+    "423": {
+      "orig": "pick a folder for your pictures",
+      "ko": "이미지를 저장할 폴더 선택"
+    }
+  },
+  "game/core/match_modifiers.gdc": {
+    "19": {
+      "orig": "instant replays",
+      "ko": "즉시 리플레이"
+    },
+    "24": {
+      "orig": "no instant replays",
+      "ko": "즉시 리플레이 끄기"
+    },
+    "26": {
+      "orig": "team collision",
+      "ko": "팀 충돌"
+    },
+    "27": {
+      "orig": "no team collision",
+      "ko": "팀 충돌 없음"
+    },
+    "33": {
+      "orig": "serve timer",
+      "ko": "서브 타이머"
+    },
+    "35": {
+      "orig": "ball indicators",
+      "ko": "공 위치 표시"
+    },
+    "36": {
+      "orig": "no ball indicators",
+      "ko": "공 위치 표시 끄기"
+    },
+    "38": {
+      "orig": "lock teams",
+      "ko": "팀 고정"
+    },
+    "41": {
+      "orig": "teams locked",
+      "ko": "팀 고정됨"
+    },
+    "44": {
+      "orig": "rotate every point",
+      "ko": "득점마다 로테이션"
+    },
+    "46": {
+      "orig": "cpu fill",
+      "ko": "CPU 채우기"
+    },
+    "48": {
+      "orig": "intro sequence",
+      "ko": "인트로 연출"
+    },
+    "49": {
+      "orig": "no intro",
+      "ko": "인트로 생략"
+    },
+    "51": {
+      "orig": "tie break",
+      "ko": "타이브레이크"
+    },
+    "52": {
+      "orig": "no tie break",
+      "ko": "타이브레이크 없음"
+    },
+    "59": {
+      "orig": "no %s",
+      "ko": "%s 없음"
+    }
+  },
+  "game/drills/drill_objective.gdc": {
+    "32": {
+      "orig": "nice!",
+      "ko": "나이스!"
+    }
+  },
+  "game/drills/drill_runner.gdc": {
+    "98": {
+      "orig": "get ready",
+      "ko": "준비하세요"
+    },
+    "100": {
+      "orig": "go",
+      "ko": "시작!"
+    },
+    "101": {
+      "orig": "hold strafe and move into the marker",
+      "ko": "스트레이프를 누른 채 마커 안으로 이동하세요"
+    },
+    "102": {
+      "orig": "start on the pad, then jump through the ring",
+      "ko": "패드 위에서 출발해 링을 통과하며 점프하세요"
+    },
+    "103": {
+      "orig": "move into the marker",
+      "ko": "마커 안으로 이동하세요"
+    },
+    "106": {
+      "orig": "just stay there",
+      "ko": "그대로 멈춰 계세요"
+    },
+    "108": {
+      "orig": "move into the next marker",
+      "ko": "다음 마커로 이동하세요"
+    },
+    "113": {
+      "orig": "stay there",
+      "ko": "그 자리를 유지하세요"
+    },
+    "114": {
+      "orig": "hold strafe",
+      "ko": "스트레이프를 유지하세요"
+    },
+    "115": {
+      "orig": "strafe into the marker",
+      "ko": "스트레이프로 마커 안으로 이동하세요"
+    },
+    "116": {
+      "orig": "jump through the ring",
+      "ko": "링을 통과해 점프하세요"
+    },
+    "117": {
+      "orig": "stand on the pad",
+      "ko": "패드 위에 서세요"
+    },
+    "118": {
+      "orig": "through the ring!",
+      "ko": "링을 통과하세요!"
+    },
+    "121": {
+      "orig": "missed...",
+      "ko": "놓쳤습니다..."
+    },
+    "153": {
+      "orig": "keep your cursor inside the ring (look down at the ground)",
+      "ko": "커서를 링 안에 유지하세요 (바닥을 보세요)"
+    },
+    "154": {
+      "orig": "keep your cursor inside the ring",
+      "ko": "커서를 링 안에 유지하세요"
+    }
+  },
+  "game/drills/objectives/set_any_objective.gdc": {
+    "1": {
+      "orig": "set your hitter any way you like",
+      "ko": "원하는 방식으로 공격수에게 세트하세요"
+    },
+    "5": {
+      "orig": "set it higher",
+      "ko": "더 높게 세트하세요"
+    },
+    "6": {
+      "orig": "set it closer to the net",
+      "ko": "네트에 더 가깝게 세트하세요"
+    }
+  },
+  "game/drills/objectives/set_objective.gdc": {
+    "26": {
+      "orig": "set the ball to your teammate",
+      "ko": "팀원에게 공을 세트하세요"
+    },
+    "29": {
+      "orig": "set it higher",
+      "ko": "더 높게 세트하세요"
+    },
+    "30": {
+      "orig": "set it closer to the net",
+      "ko": "네트에 더 가깝게 세트하세요"
+    },
+    "32": {
+      "orig": "set it, don't bump it",
+      "ko": "범프하지 말고 세트하세요"
+    },
+    "33": {
+      "orig": "good!",
+      "ko": "좋아요!"
+    },
+    "36": {
+      "orig": "touch the ball before it lands",
+      "ko": "공이 떨어지기 전에 터치하세요"
+    },
+    "37": {
+      "orig": "nice!",
+      "ko": "나이스!"
+    },
+    "39": {
+      "orig": "too far",
+      "ko": "너무 멉니다"
+    }
+  },
+  "game/drills/objectives/spike_objective.gdc": {
+    "19": {
+      "orig": "run in, jump and spike into the marked zone",
+      "ko": "달려들어 점프한 뒤 표시된 구역으로 스파이크하세요"
+    },
+    "27": {
+      "orig": "over and in",
+      "ko": "네트를 넘겨 인!"
+    },
+    "28": {
+      "orig": "jump before you touch",
+      "ko": "터치하기 전에 먼저 점프하세요"
+    },
+    "29": {
+      "orig": "unlucky!",
+      "ko": "아깝네요!"
+    },
+    "30": {
+      "orig": "spike into the marked zone",
+      "ko": "표시된 구역으로 스파이크하세요"
+    },
+    "32": {
+      "orig": "swing before the ball drops",
+      "ko": "공이 떨어지기 전에 스윙하세요"
+    },
+    "33": {
+      "orig": "put it over the net",
+      "ko": "네트 너머로 넘기세요"
+    },
+    "34": {
+      "orig": "out!",
+      "ko": "아웃!"
+    },
+    "35": {
+      "orig": "nice!",
+      "ko": "나이스!"
+    }
+  },
+  "game/drills/objectives/tutorial_rally_objective.gdc": {
+    "4": {
+      "orig": "bump the serve to your teammate",
+      "ko": "서브를 팀원에게 범프하세요"
+    },
+    "10": {
+      "orig": "jump and spike it over!",
+      "ko": "점프해서 넘겨 스파이크하세요!"
+    },
+    "12": {
+      "orig": "begin your approach!",
+      "ko": "도움닫기를 시작하세요!"
+    },
+    "13": {
+      "orig": "get underneath the ball",
+      "ko": "공 아래로 들어가세요"
+    },
+    "15": {
+      "orig": "over and in",
+      "ko": "네트를 넘겨 인!"
+    },
+    "16": {
+      "orig": "jump before you touch",
+      "ko": "터치하기 전에 먼저 점프하세요"
+    },
+    "18": {
+      "orig": "keep the bump on your side",
+      "ko": "우리 코트 안으로 범프하세요"
+    },
+    "21": {
+      "orig": "get to the serve before it lands",
+      "ko": "서브가 떨어지기 전에 공을 받으세요"
+    },
+    "22": {
+      "orig": "your teammate could not reach that",
+      "ko": "팀원이 닿지 못하는 위치였습니다"
+    },
+    "23": {
+      "orig": "swing before the ball drops",
+      "ko": "공이 떨어지기 전에 스윙하세요"
+    },
+    "25": {
+      "orig": "put it over the net",
+      "ko": "네트 너머로 넘기세요"
+    },
+    "26": {
+      "orig": "out!",
+      "ko": "아웃!"
+    },
+    "27": {
+      "orig": "again!",
+      "ko": "다시!"
+    },
+    "28": {
+      "orig": "keep it in play",
+      "ko": "인플레이를 유지하세요"
+    }
+  },
+  "game/guide/guide_store.gdc": {
+    "25": {
+      "orig": "not in the demo",
+      "ko": "데모에서는 이용할 수 없습니다"
+    },
+    "26": {
+      "orig": "coming soon",
+      "ko": "곧 추가 예정"
+    }
+  },
+  "game/main/practice_mode.gdc": {
+    "43": {
+      "orig": "host only",
+      "ko": "호스트 전용"
+    },
+    "50": {
+      "orig": "infinite stamina on",
+      "ko": "무한 스태미나 켜짐"
+    },
+    "51": {
+      "orig": "infinite stamina off",
+      "ko": "무한 스태미나 꺼짐"
+    },
+    "52": {
+      "orig": "infinite stamina: on",
+      "ko": "무한 스태미나: 켜짐"
+    },
+    "53": {
+      "orig": "infinite stamina: off",
+      "ko": "무한 스태미나: 꺼짐"
+    },
+    "54": {
+      "orig": "ball hints: on",
+      "ko": "공 힌트: 켜짐"
+    },
+    "55": {
+      "orig": "ball hints: off",
+      "ko": "공 힌트: 꺼짐"
+    },
+    "56": {
+      "orig": "collisions: on",
+      "ko": "충돌: 켜짐"
+    },
+    "57": {
+      "orig": "collisions: off",
+      "ko": "충돌: 꺼짐"
+    },
+    "58": {
+      "orig": "shared ball",
+      "ko": "공 공유"
+    },
+    "59": {
+      "orig": "individual balls",
+      "ko": "개별 공"
+    }
+  },
+  "game/net/online_terms.gdc": {
+    "5": {
+      "orig": "please read and scroll to the bottom to continue",
+      "ko": "계속하려면 약관을 읽고 맨 아래까지 스크롤해 주세요"
+    },
+    "6": {
+      "orig": "after carefully reading, please accept or deny",
+      "ko": "주의 깊게 읽으신 후 동의 또는 거부를 선택해 주세요"
+    },
+    "7": {
+      "orig": "[b]just volleyball online agreement[/b]\r\n\r\nby playing online in just volleyball, you agree to the terms below, and confirm that you are at least 13 years of age, in accordance with the steam subscriber agreement. please read everything in detail, then choose whether or not you accept. if you disagree with these terms and are unable to play the game as a result, please contact steam support.\r\n\r\n[b]1. respect your fellow player[/b]\r\nno harassment, hate speech, or personal attacks of any kind, including those based on gender, sexual orientation, disability, appearance, ethnicity, or beliefs. sexually explicit, graphic, or otherwise inappropriate content is also not permitted. treat others with courtesy. use appropriate language, and respect people's boundaries and opinions. do not impersonate temkosoft, our staff, or other players in an attempt to mislead anyone. do not spam, advertise, or attempt to lead anyone off-platform for any reason. this applies everywhere online play reaches, including server and lobby names, the chat system, and anything you personalize, such as created characters and usernames. avatars made to offend, harass, or disrupt other players are a breach of these terms too.\r\n\r\n[b]2. fair play for all[/b]\r\ncheating, exploiting bugs, or doing anything to gain an unfair advantage or ruin the experience for others is strictly prohibited. this includes third-party tools, modifications, or scripts that interfere with normal play. play by the rules so everyone can have fun.\r\n\r\n[b]3. game modifications[/b]\r\nto avoid unexpected interference with online play, modifying the game is strictly prohibited while playing online. this keeps everyone on equal terms so the experience stays fair for all.\r\n\r\n[b]4. online connectivity[/b]\r\nthe quality and stability of online play depend on your internet connection and on the host staying online. sessions may end unexpectedly, freeze, or crash, and uninterrupted service is not guaranteed. a strong, stable connection is recommended, especially when hosting a server.\r\n\r\n[b]5. personal data[/b]\r\nduring online play, basic information such as your steam name, lobby activity, and in-game actions may be visible to other players and used to run multiplayer features and enforce these rules. chat logs are stored and recorded, and may be used to review reports and enforce any suitable punishment for behaviour that breaks these terms. if you have linked your discord account, the same applies to the information it shares.\r\n\r\n[b]6. change is good[/b]\r\nthese terms may be updated or changed at any time. when that happens, a notice will be issued and you will be asked to review this agreement again. continuing to play online after an update means you accept the updated terms.\r\n\r\n[b]7. enforcement & acceptance[/b]\r\nif you are found to be acting against this agreement, whether determined by temkosoft or by a party approved by temkosoft, you may face restrictions on online play. these restrictions may be temporary or permanent depending on the nature and severity of the breach. temkosoft, or any party approved by temkosoft, may also restrict or prohibit your access to online play for any reason deemed necessary, even if that reason is not explicitly stated in these terms. by pressing \"i accept these terms\", you confirm that you have read and agree to everything written above, and you acknowledge that you may lose access to online play as a result of your own actions.\r\n\r\nthank you for helping keep your fellow players safe. welcome to the just volleyball community!",
+      "ko": "[b]Just Volleyball 온라인 이용약관[/b]\r\n\r\nJust Volleyball에서 온라인 플레이를 이용함으로써 귀하는 아래 약관에 동의하며, Steam 이용약관에 따라 만 13세 이상임을 확인합니다. 모든 내용을 자세히 읽은 후 동의 여부를 선택해 주세요. 본 약관에 동의하지 않아 게임을 플레이할 수 없는 경우 Steam 고객지원에 문의하시기 바랍니다.\r\n\r\n[b]1. 다른 플레이어 존중[/b]\r\n성별, 성적 지향, 장애, 외모, 민족 또는 신념을 근거로 한 괴롭힘, 혐오 표현 또는 인신공격 등 모든 형태의 비매너 행위는 금지됩니다. 노골적으로 성적이거나 잔혹하거나 부적절한 콘텐츠 역시 허용되지 않습니다. 다른 플레이어를 예의 있게 대하고, 적절한 언어를 사용하며, 타인의 경계와 의견을 존중하세요. 다른 사람을 속이기 위해 temkosoft, 운영진 또는 다른 플레이어를 사칭하지 마세요. 어떠한 이유로든 스팸, 광고 또는 타인을 외부 플랫폼으로 유도하려는 행위를 하지 마세요. 이 규칙은 서버 및 로비 이름, 채팅 시스템, 그리고 제작한 캐릭터나 사용자 이름 등 온라인 플레이가 닿는 모든 영역에 적용됩니다. 다른 플레이어를 모욕, 괴롭히거나 방해할 목적으로 만든 아바타 또한 본 약관 위반에 해당합니다.\r\n\r\n[b]2. 모두를 위한 공정한 플레이[/b]\r\n치팅, 버그 악용 또는 부당한 이득을 얻거나 다른 플레이어의 경험을 망치는 모든 행위는 엄격히 금지됩니다. 여기에는 정상적인 플레이를 방해하는 제3자 프로그램, 모드 또는 스크립트 사용이 포함됩니다. 모두가 즐길 수 있도록 규칙을 준수해 주세요.\r\n\r\n[b]3. 게임 개조[/b]\r\n온라인 플레이 중 예기치 않은 방해를 방지하기 위해, 온라인 플레이 시 게임 개조는 엄격히 금지됩니다. 이는 모든 플레이어가 동등한 조건에서 공정하게 즐길 수 있도록 하기 위함입니다.\r\n\r\n[b]4. 온라인 연결[/b]\r\n온라인 플레이의 품질과 안정성은 사용자의 인터넷 연결 상태 및 호스트의 온라인 유지 여부에 따라 달라집니다. 세션이 예기치 않게 종료되거나 멈추거나 충돌할 수 있으며, 중단 없는 서비스는 보장되지 않습니다. 특히 서버를 호스팅할 때는 안정적이고 빠른 연결을 권장합니다.\r\n\r\n[b]5. 개인 정보[/b]\r\n온라인 플레이 중 Steam 이름, 로비 활동 및 게임 내 행동과 같은 기본 정보가 다른 플레이어에게 표시될 수 있으며, 멀티플레이어 기능 운영 및 본 규칙 집행을 위해 사용될 수 있습니다. 채팅 로그는 저장 및 기록되며, 신고 검토 및 본 약관 위반 행위에 대한 적절한 제재 조치를 위해 사용될 수 있습니다. Discord 계정을 연동한 경우, 해당 계정을 통해 공유되는 정보에도 동일하게 적용됩니다.\r\n\r\n[b]6. 약관 변경[/b]\r\n본 약관은 언제든지 업데이트되거나 변경될 수 있습니다. 변경 시 공지가 제공되며 본 약관을 다시 검토하도록 요청받게 됩니다. 업데이트 이후에도 온라인 플레이를 계속 이용하면 변경된 약관에 동의한 것으로 간주됩니다.\r\n\r\n[b]7. 제재 및 동의[/b]\r\ntemkosoft 또는 temkosoft가 승인한 주체에 의해 본 약관을 위반한 것으로 판단될 경우, 온라인 플레이 제한 조치를 받을 수 있습니다. 이러한 제한은 위반의 성격과 심각도에 따라 일시적이거나 영구적일 수 있습니다. 또한 temkosoft 또는 temkosoft가 승인한 주체는 본 약관에 명시되지 않은 사유라 하더라도 필요하다고 판단되는 경우 귀하의 온라인 플레이 접근을 제한하거나 금지할 수 있습니다. \"본 약관에 동의합니다\"를 누름으로써 귀하는 위의 모든 내용을 읽고 동의함을 확인하며, 본인의 행위로 인해 온라인 플레이 이용 권한을 상실할 수 있음을 인정합니다.\r\n\r\n함께 플레이하는 모든 이들을 안전하게 지켜 주셔서 감사합니다. Just Volleyball 커뮤니티에 오신 것을 환영합니다!"
+    },
+    "17": {
+      "orig": "update available",
+      "ko": "업데이트 가능"
+    },
+    "18": {
+      "orig": "to continue playing online on the latest version, you must update your game. to force an update, restart steam through the system tray, or verify the integrity of the game files.",
+      "ko": "최신 버전에서 온라인 플레이를 계속하려면 게임을 업데이트해야 합니다. 업데이트를 강제 적용하려면 시스템 트레이에서 Steam을 다시 시작하거나 게임 파일 무결성 검사를 진행해 주세요."
+    },
+    "58": {
+      "orig": "connecting to online service…",
+      "ko": "온라인 서비스에 연결 중…"
+    },
+    "76": {
+      "orig": " (%dd %dh %dm left)",
+      "ko": " (%d일 %d시간 %d분 남음)"
+    },
+    "77": {
+      "orig": " (%dh %dm %ds left)",
+      "ko": " (%d시간 %d분 %d초 남음)"
+    },
+    "78": {
+      "orig": " (%dm %ds left)",
+      "ko": " (%d분 %d초 남음)"
+    },
+    "79": {
+      "orig": " (%ds left)",
+      "ko": " (%d초 남음)"
+    },
+    "80": {
+      "orig": "online play unavailable",
+      "ko": "온라인 플레이 이용 불가"
+    },
+    "81": {
+      "orig": "you have been banned from online play",
+      "ko": "온라인 플레이 이용이 제한되었습니다"
+    },
+    "88": {
+      "orig": "no reason given",
+      "ko": "사유 미기재"
+    },
+    "91": {
+      "orig": "you can't play online right now",
+      "ko": "지금은 온라인 플레이를 할 수 없습니다"
+    },
+    "92": {
+      "orig": "appeal this",
+      "ko": "이의 제기"
+    },
+    "97": {
+      "orig": "this account has received an online warning",
+      "ko": "이 계정은 온라인 경고를 받았습니다"
+    },
+    "98": {
+      "orig": "please keep it friendly out there",
+      "ko": "서로 존중하며 즐겁게 플레이해 주세요"
+    },
+    "99": {
+      "orig": "read it and tap ok to keep playing online",
+      "ko": "내용을 확인한 뒤 확인을 누르면 계속 온라인으로 플레이할 수 있습니다"
+    },
+    "100": {
+      "orig": "ok got it",
+      "ko": "확인"
+    },
+    "104": {
+      "orig": "appeal your chat mute",
+      "ko": "채팅 제한 이의 제기"
+    },
+    "105": {
+      "orig": "appeal your ban",
+      "ko": "이용 제한 이의 제기"
+    },
+    "106": {
+      "orig": "tell us what happened",
+      "ko": "무슨 일이 있었는지 알려주세요"
+    },
+    "120": {
+      "orig": "send appeal",
+      "ko": "이의 제기 제출"
+    },
+    "121": {
+      "orig": "type something first",
+      "ko": "먼저 내용을 입력해 주세요"
+    },
+    "125": {
+      "orig": "appeal sent we will take a look",
+      "ko": "이의 제기가 접수되었습니다. 확인 후 처리하겠습니다"
+    },
+    "127": {
+      "orig": "couldnt send that try again in a bit",
+      "ko": "전송하지 못했습니다. 잠시 후 다시 시도해 주세요"
+    },
+    "128": {
+      "orig": "text chat is off by default",
+      "ko": "텍스트 채팅은 기본적으로 꺼져 있습니다"
+    },
+    "129": {
+      "orig": "other players may send offensive or upsetting messages. you can enable text chat to see messages from other players. you can change this any time in the game settings.",
+      "ko": "다른 플레이어가 불쾌하거나 부적절한 메시지를 보낼 수 있습니다. 다른 플레이어의 메시지를 보려면 텍스트 채팅을 활성화하세요. 이 설정은 게임 설정에서 언제든지 변경할 수 있습니다."
+    },
+    "133": {
+      "orig": "keep chat off (recommended)",
+      "ko": "채팅 끄기 유지 (권장)"
+    },
+    "135": {
+      "orig": "enable text chat",
+      "ko": "텍스트 채팅 켜기"
+    },
+    "137": {
+      "orig": "online play agreement",
+      "ko": "온라인 플레이 이용약관"
+    },
+    "145": {
+      "orig": "i do not accept",
+      "ko": "동의하지 않음"
+    },
+    "146": {
+      "orig": "i accept these terms",
+      "ko": "본 약관에 동의합니다"
+    }
+  },
+  "game/net/quick_play.gdc": {
+    "54": {
+      "orig": "search cancelled",
+      "ko": "매치 검색이 취소되었습니다"
+    },
+    "56": {
+      "orig": "no matches found, try again or host a custom lobby",
+      "ko": "매치를 찾지 못했습니다. 다시 시도하거나 커스텀 로비를 만들어 보세요"
+    },
+    "68": {
+      "orig": "the match didn't start, try again",
+      "ko": "경기를 시작하지 못했습니다. 다시 시도해 주세요"
+    },
+    "69": {
+      "orig": "searching for match%s   %d:%02d",
+      "ko": "매치 검색 중%s   %d:%02d"
+    },
+    "73": {
+      "orig": "match found!",
+      "ko": "매치를 찾았습니다!"
+    },
+    "74": {
+      "orig": "any mode",
+      "ko": "모든 모드"
+    },
+    "162": {
+      "orig": "joining a match in progress...",
+      "ko": "진행 중인 경기에 참가 중..."
+    },
+    "170": {
+      "orig": "couldn't regroup your party, make a new one",
+      "ko": "파티를 다시 모을 수 없습니다. 새 파티를 만들어 주세요"
+    },
+    "172": {
+      "orig": "couldn't get your whole party back, search stopped",
+      "ko": "파티원 전체를 다시 모을 수 없어 검색을 중단했습니다"
+    }
+  },
+  "game/ui/boot/demo_notice.gdc": {
+    "1": {
+      "orig": "you are currently playing a DEMO of a beta version of just volleyball, to ensure a smoother release, please report issues using the form in the main menu, additionally, please make sure to report any players who attempt to ruin your experience online.",
+      "ko": "현재 Just Volleyball 베타 버전의 데모를 플레이하고 계십니다. 더 원활한 정식 출시를 위해 메인 메뉴의 양식을 통해 문제를 제보해 주세요. 또한 온라인에서 플레이 경험을 해치려는 유저가 있다면 꼭 신고해 주세요."
+    }
+  },
+  "game/ui/boot/gpu_notice.gdc": {
+    "22": {
+      "orig": "due to an early crash, the game has launched in safe mode.\nclose any heavy apps, or try one of the command lines below if this issue repeats itself.",
+      "ko": "초기 실행 오류로 인해 게임이 안전 모드로 실행되었습니다.\n무거운 앱을 종료하거나, 문제가 반복되면 아래 시작 명령어 중 하나를 시도해 보세요."
+    },
+    "27": {
+      "orig": "if you're having trouble entering the game, right click the game on steam, go to properties, and try any of the following launch commands.",
+      "ko": "게임 실행에 문제가 있는 경우, Steam에서 게임을 우클릭 > 속성으로 이동해 다음 시작 옵션 중 하나를 입력해 보세요."
+    },
+    "42": {
+      "orig": "[b]your GPU:[/b] %s",
+      "ko": "[b]내 GPU:[/b] %s"
+    },
+    "43": {
+      "orig": "amd gpu",
+      "ko": "AMD GPU"
+    },
+    "45": {
+      "orig": "amd / integrated / intel gpu",
+      "ko": "AMD / 내장 / Intel GPU"
+    },
+    "47": {
+      "orig": "this will cause the game to render incorrectly, but it will run",
+      "ko": "이 옵션은 화면이 정상적으로 렌더링되지 않을 수 있지만 게임 실행은 가능합니다"
+    },
+    "49": {
+      "orig": "alternative solutions",
+      "ko": "다른 해결 방법"
+    },
+    "50": {
+      "orig": "if a launch command doesn't help, try updating (or rolling back) your graphics drivers:\n",
+      "ko": "시작 옵션으로 해결되지 않으면 그래픽 드라이버를 업데이트(또는 롤백)해 보세요:\n"
+    },
+    "51": {
+      "orig": "[color=#%s][url=amd]amd drivers[/url][/color]     ",
+      "ko": "[color=#%s][url=amd]AMD 드라이버[/url][/color]     "
+    },
+    "52": {
+      "orig": "[color=#%s][url=intel]intel drivers[/url][/color]     ",
+      "ko": "[color=#%s][url=intel]Intel 드라이버[/url][/color]     "
+    },
+    "53": {
+      "orig": "[color=#%s][url=nvidia]nvidia drivers[/url][/color]",
+      "ko": "[color=#%s][url=nvidia]NVIDIA 드라이버[/url][/color]"
+    },
+    "60": {
+      "orig": "copy",
+      "ko": "복사"
+    },
+    "64": {
+      "orig": "copied!",
+      "ko": "복사됨!"
+    }
+  },
+  "game/ui/chat_panel.gdc": {
+    "19": {
+      "orig": "all",
+      "ko": "전체"
+    },
+    "34": {
+      "orig": "team",
+      "ko": "팀"
+    },
+    "35": {
+      "orig": "appeal",
+      "ko": "이의 제기"
+    },
+    "37": {
+      "orig": "larger",
+      "ko": "크게"
+    },
+    "41": {
+      "orig": "hide",
+      "ko": "숨기기"
+    },
+    "42": {
+      "orig": "hide chat (%s)",
+      "ko": "채팅 숨기기 (%s)"
+    },
+    "62": {
+      "orig": "shift + enter switch channel | %s to hide",
+      "ko": "Shift + Enter 채널 전환 | %s 숨기기"
+    },
+    "66": {
+      "orig": "press enter to chat",
+      "ko": "Enter를 눌러 채팅"
+    },
+    "80": {
+      "orig": "to your team...",
+      "ko": "팀에게 메시지..."
+    },
+    "93": {
+      "orig": "several people are typing...",
+      "ko": "여러 명이 입력 중..."
+    },
+    "109": {
+      "orig": "no vote is running",
+      "ko": "진행 중인 투표가 없습니다"
+    },
+    "110": {
+      "orig": "you already voted",
+      "ko": "이미 투표했습니다"
+    },
+    "113": {
+      "orig": "vote cast",
+      "ko": "투표 완료"
+    },
+    "115": {
+      "orig": "slow down, %d seconds",
+      "ko": "천천히 보내세요 (%d초)"
+    },
+    "116": {
+      "orig": "you just said that",
+      "ko": "방금 같은 말을 했습니다"
+    },
+    "117": {
+      "orig": "sending too fast, chat paused for %d seconds",
+      "ko": "입력이 너무 빨라 %d초 동안 채팅이 일시 제한됩니다"
+    },
+    "126": {
+      "orig": "[color=#%s][i]a message from %s was filtered[/i][/color]",
+      "ko": "[color=#%s][i]%s님의 메시지가 필터링되었습니다[/i][/color]"
+    },
+    "127": {
+      "orig": "[color=#%s](team)[/color] ",
+      "ko": "[color=#%s](팀)[/color] "
+    },
+    "128": {
+      "orig": "[color=#%s][b][shine len=%d]%s[/shine][/b][/color] [color=#%s][font_size=13][lb]creator[rb][/font_size][/color]: %s",
+      "ko": "[color=#%s][b][shine len=%d]%s[/shine][/b][/color] [color=#%s][font_size=13][lb]제작자[rb][/font_size][/color]: %s"
+    },
+    "130": {
+      "orig": "[color=#%s][b]%s[/b][/color] [color=#%s][font_size=13][shine len=11][lb]supporter[rb][/shine][/font_size][/color]: %s",
+      "ko": "[color=#%s][b]%s[/b][/color] [color=#%s][font_size=13][shine len=11][lb]후원자[rb][/shine][/font_size][/color]: %s"
+    }
+  },
+  "game/ui/control_hints.gdc": {
+    "5": {
+      "orig": "touch",
+      "ko": "터치"
+    },
+    "6": {
+      "orig": "contact",
+      "ko": "컨택트"
+    },
+    "8": {
+      "orig": "set",
+      "ko": "세트"
+    },
+    "10": {
+      "orig": "dive",
+      "ko": "다이브"
+    },
+    "12": {
+      "orig": "jump",
+      "ko": "점프"
+    },
+    "14": {
+      "orig": "strafe",
+      "ko": "스트레이프"
+    },
+    "16": {
+      "orig": "sprint",
+      "ko": "스프린트"
+    },
+    "22": {
+      "orig": "call ball",
+      "ko": "공 요청"
+    },
+    "23": {
+      "orig": "spawn ball",
+      "ko": "공 소환"
+    },
+    "24": {
+      "orig": "serve",
+      "ko": "서브"
+    },
+    "27": {
+      "orig": "despawn ball",
+      "ko": "공 제거"
+    },
+    "32": {
+      "orig": "chat",
+      "ko": "채팅"
+    },
+    "36": {
+      "orig": "unlock mouse",
+      "ko": "마우스 잠금 해제"
+    },
+    "39": {
+      "orig": "camera",
+      "ko": "카메라"
+    },
+    "42": {
+      "orig": "zoom",
+      "ko": "줌"
+    },
+    "45": {
+      "orig": "aim assist",
+      "ko": "조준 보정"
+    },
+    "67": {
+      "orig": "block",
+      "ko": "블로킹"
+    },
+    "69": {
+      "orig": "toss",
+      "ko": "토스"
+    },
+    "70": {
+      "orig": "bump",
+      "ko": "범프"
+    },
+    "71": {
+      "orig": "spike",
+      "ko": "스파이크"
+    },
+    "72": {
+      "orig": "dump",
+      "ko": "덤프"
+    }
+  },
+  "game/ui/credits_page.gdc": {
+    "122": {
+      "orig": "G: gravity on",
+      "ko": "G: 중력 켜짐"
+    },
+    "123": {
+      "orig": "G: gravity off",
+      "ko": "G: 중력 꺼짐"
+    },
+    "160": {
+      "orig": "special thanks",
+      "ko": "특별 감사"
+    },
+    "168": {
+      "orig": "thank you to ",
+      "ko": "도움을 주신 분: "
+    }
+  },
+  "game/ui/how_to_panel.gdc": {
+    "5": {
+      "orig": "not in the demo",
+      "ko": "데모에서는 이용할 수 없습니다"
+    },
+    "6": {
+      "orig": "coming soon",
+      "ko": "곧 추가 예정"
+    },
+    "47": {
+      "orig": "(no heading)",
+      "ko": "(제목 없음)"
+    },
+    "52": {
+      "orig": "edit",
+      "ko": "편집"
+    },
+    "85": {
+      "orig": "a blank line starts a new paragraph.  keys: {kb:jump} = keyboard, {pad:jump} = controller, {key:jump} = whichever they're using.  [b]bold[/b]  [i]italic[/i]",
+      "ko": "빈 줄은 새 문단을 시작합니다.  키: {kb:jump} = 키보드, {pad:jump} = 컨트롤러, {key:jump} = 현재 사용 중인 입력 장치.  [b]굵게[/b]  [i]기울임[/i]"
+    },
+    "90": {
+      "orig": "table: one row a line, cells split by |, the first row is the header",
+      "ko": "표: 한 줄에 한 행, 셀은 |로 구분, 첫 번째 행은 헤더"
+    },
+    "93": {
+      "orig": "picture: ",
+      "ko": "이미지: "
+    },
+    "95": {
+      "orig": "pick picture",
+      "ko": "이미지 선택"
+    },
+    "98": {
+      "orig": "no picture",
+      "ko": "이미지 없음"
+    },
+    "99": {
+      "orig": "save",
+      "ko": "저장"
+    },
+    "101": {
+      "orig": "cancel",
+      "ko": "취소"
+    },
+    "107": {
+      "orig": "heading (leave empty for none)",
+      "ko": "제목 (없으면 비워 두세요)"
+    },
+    "112": {
+      "orig": "pick a picture",
+      "ko": "이미지 선택"
+    },
+    "113": {
+      "orig": "*.png, *.jpg, *.jpeg, *.webp ; pictures",
+      "ko": "*.png, *.jpg, *.jpeg, *.webp ; 이미지"
+    }
+  },
+  "game/ui/hud.gdc": {
+    "1": {
+      "orig": "bump",
+      "ko": "범프"
+    },
+    "2": {
+      "orig": "set",
+      "ko": "세트"
+    },
+    "3": {
+      "orig": "spike",
+      "ko": "스파이크"
+    },
+    "4": {
+      "orig": "dump",
+      "ko": "덤프"
+    },
+    "5": {
+      "orig": "block",
+      "ko": "블로킹"
+    },
+    "34": {
+      "orig": "beta build - content nonfinal",
+      "ko": "베타 빌드 - 최종 버전이 아닙니다"
+    },
+    "68": {
+      "orig": "ace",
+      "ko": "에이스"
+    },
+    "69": {
+      "orig": "out",
+      "ko": "아웃"
+    },
+    "71": {
+      "orig": "fault",
+      "ko": "폴트"
+    },
+    "76": {
+      "orig": "block out",
+      "ko": "블록 아웃"
+    },
+    "77": {
+      "orig": "kill",
+      "ko": "공격 득점"
+    },
+    "78": {
+      "orig": "point",
+      "ko": "득점"
+    },
+    "81": {
+      "orig": "foot fault",
+      "ko": "풋 폴트"
+    },
+    "103": {
+      "orig": "home",
+      "ko": "홈"
+    },
+    "109": {
+      "orig": "away",
+      "ko": "어웨이"
+    },
+    "115": {
+      "orig": "set 1",
+      "ko": "1세트"
+    },
+    "141": {
+      "orig": "to %d",
+      "ko": "%d점"
+    },
+    "200": {
+      "orig": "point!",
+      "ko": "득점!"
+    },
+    "206": {
+      "orig": "you will join at the start of the next rally",
+      "ko": "다음 랠리 시작 시 참가합니다"
+    },
+    "207": {
+      "orig": "to join the match, select a team from the pause menu",
+      "ko": "경기에 참가하려면 일시정지 메뉴에서 팀을 선택하세요"
+    },
+    "210": {
+      "orig": "dive",
+      "ko": "다이브"
+    },
+    "211": {
+      "orig": "cam: ",
+      "ko": "카메라: "
+    },
+    "212": {
+      "orig": "set %d",
+      "ko": "%d세트"
+    },
+    "213": {
+      "orig": "deuce",
+      "ko": "듀스"
+    },
+    "214": {
+      "orig": "tie break",
+      "ko": "타이브레이크"
+    },
+    "215": {
+      "orig": "match point",
+      "ko": "매치 포인트"
+    },
+    "216": {
+      "orig": "set point",
+      "ko": "세트 포인트"
+    },
+    "222": {
+      "orig": "service ace!",
+      "ko": "서브 에이스!"
+    },
+    "224": {
+      "orig": "break point!",
+      "ko": "브레이크 포인트!"
+    },
+    "226": {
+      "orig": "on the line!",
+      "ko": "라인 인!"
+    },
+    "228": {
+      "orig": "game!",
+      "ko": "게임!"
+    },
+    "229": {
+      "orig": "set!",
+      "ko": "세트!"
+    },
+    "230": {
+      "orig": "out!",
+      "ko": "아웃!"
+    },
+    "235": {
+      "orig": "tie breaker!",
+      "ko": "타이브레이커!"
+    },
+    "296": {
+      "orig": "space to skip    %d/%d",
+      "ko": "Space로 건너뛰기    %d/%d"
+    },
+    "297": {
+      "orig": "space to skip",
+      "ko": "Space로 건너뛰기"
+    },
+    "303": {
+      "orig": "lift",
+      "ko": "홀딩"
+    },
+    "305": {
+      "orig": "instant replay",
+      "ko": "즉시 리플레이"
+    },
+    "308": {
+      "orig": "find next match",
+      "ko": "다음 매치 찾기"
+    },
+    "315": {
+      "orig": "back to menu",
+      "ko": "메뉴로 돌아가기"
+    },
+    "316": {
+      "orig": "no rematch",
+      "ko": "재경기 없음"
+    },
+    "319": {
+      "orig": "victory!",
+      "ko": "승리!"
+    },
+    "320": {
+      "orig": "defeat",
+      "ko": "패배"
+    },
+    "331": {
+      "orig": "play again",
+      "ko": "다시 플레이"
+    },
+    "332": {
+      "orig": "leave party",
+      "ko": "파티 나가기"
+    },
+    "333": {
+      "orig": "you can wait here for the host to start another match",
+      "ko": "호스트가 다음 경기를 시작할 때까지 여기서 대기할 수 있습니다"
+    },
+    "344": {
+      "orig": "player",
+      "ko": "선수"
+    },
+    "345": {
+      "orig": "points",
+      "ko": "득점"
+    },
+    "346": {
+      "orig": "blocks",
+      "ko": "블로킹"
+    },
+    "347": {
+      "orig": "receives",
+      "ko": "리시브"
+    },
+    "348": {
+      "orig": "sets",
+      "ko": "세트"
+    },
+    "356": {
+      "orig": "queued as a party",
+      "ko": "파티로 대기열 참가 중"
+    }
+  },
+  "game/ui/lobby/stage_banner.gdc": {
+    "30": {
+      "orig": "see all stages",
+      "ko": "모든 스테이지 보기"
+    },
+    "54": {
+      "orig": "outfits: ",
+      "ko": "의상: "
+    },
+    "60": {
+      "orig": "all stages",
+      "ko": "모든 스테이지"
+    }
+  },
+  "game/ui/lobby/stage_picker.gdc": {
+    "20": {
+      "orig": "done",
+      "ko": "완료"
+    }
+  },
+  "game/ui/lobby/team_card.gdc": {
+    "18": {
+      "orig": "full",
+      "ko": "가득 참"
+    },
+    "19": {
+      "orig": "locked",
+      "ko": "잠김"
+    },
+    "20": {
+      "orig": "ranked",
+      "ko": "랭크"
+    },
+    "21": {
+      "orig": "asked",
+      "ko": "요청됨"
+    },
+    "22": {
+      "orig": "joining",
+      "ko": "참가 중"
+    },
+    "117": {
+      "orig": "your team",
+      "ko": "내 팀"
+    },
+    "118": {
+      "orig": "join",
+      "ko": "참가"
+    },
+    "121": {
+      "orig": "home",
+      "ko": "홈"
+    },
+    "122": {
+      "orig": "away",
+      "ko": "어웨이"
+    },
+    "145": {
+      "orig": "empty",
+      "ko": "비어 있음"
+    },
+    "147": {
+      "orig": "team pinny",
+      "ko": "팀 조끼"
+    },
+    "148": {
+      "orig": "alternate kit",
+      "ko": "어웨이 유니폼"
+    },
+    "149": {
+      "orig": "team kit",
+      "ko": "팀 유니폼"
+    }
+  },
+  "game/ui/migration_cover.gdc": {
+    "13": {
+      "orig": "host has quit, migration in progress...",
+      "ko": "호스트가 나갔습니다. 호스트 이전 중..."
+    },
+    "23": {
+      "orig": "press esc or start to leave to the menu",
+      "ko": "ESC 또는 Start를 눌러 메뉴로 나가기"
+    }
+  },
+  "game/ui/pause_menu.gdc": {
+    "10": {
+      "orig": "join home",
+      "ko": "홈 팀 참가"
+    },
+    "11": {
+      "orig": "home is full",
+      "ko": "홈 팀 만석"
+    },
+    "12": {
+      "orig": "join away",
+      "ko": "어웨이 팀 참가"
+    },
+    "13": {
+      "orig": "away is full",
+      "ko": "어웨이 팀 만석"
+    },
+    "16": {
+      "orig": "skip tutorial",
+      "ko": "튜토리얼 건너뛰기"
+    },
+    "17": {
+      "orig": "jump to the end",
+      "ko": "마지막으로 이동"
+    },
+    "19": {
+      "orig": "how to play",
+      "ko": "플레이 방법"
+    },
+    "20": {
+      "orig": "controls & rules",
+      "ko": "조작법 및 규칙"
+    },
+    "24": {
+      "orig": "leave",
+      "ko": "나가기"
+    },
+    "25": {
+      "orig": "stay",
+      "ko": "남기"
+    },
+    "26": {
+      "orig": "exit the game?",
+      "ko": "게임을 종료할까요?"
+    },
+    "28": {
+      "orig": "exit",
+      "ko": "종료"
+    },
+    "29": {
+      "orig": "cancel",
+      "ko": "취소"
+    },
+    "30": {
+      "orig": "leave the match?",
+      "ko": "경기에서 나갈까요?"
+    },
+    "31": {
+      "orig": "leaving now will result in a matchmaking penalty",
+      "ko": "지금 나가면 매치메이킹 페널티가 적용됩니다"
+    },
+    "58": {
+      "orig": "resume",
+      "ko": "계속하기"
+    },
+    "59": {
+      "orig": "back to the match",
+      "ko": "경기로 돌아가기"
+    },
+    "61": {
+      "orig": "settings",
+      "ko": "설정"
+    },
+    "62": {
+      "orig": "audio, video, display",
+      "ko": "오디오, 비디오, 디스플레이"
+    },
+    "64": {
+      "orig": "teams & players",
+      "ko": "팀 및 플레이어"
+    },
+    "65": {
+      "orig": "view teams & players",
+      "ko": "팀 및 플레이어 보기"
+    },
+    "66": {
+      "orig": "switch teams & manage players",
+      "ko": "팀 변경 및 플레이어 관리"
+    },
+    "68": {
+      "orig": "controllers",
+      "ko": "컨트롤러"
+    },
+    "69": {
+      "orig": "drop in or out",
+      "ko": "참가 또는 나가기"
+    },
+    "70": {
+      "orig": "back to menu",
+      "ko": "메뉴로 돌아가기"
+    },
+    "71": {
+      "orig": "leave the match",
+      "ko": "경기에서 나가기"
+    },
+    "72": {
+      "orig": "back to party",
+      "ko": "파티로 돌아가기"
+    },
+    "73": {
+      "orig": "return to your squad",
+      "ko": "스쿼드로 돌아가기"
+    },
+    "74": {
+      "orig": "back to lobby",
+      "ko": "로비로 돌아가기"
+    },
+    "75": {
+      "orig": "return to the room",
+      "ko": "방으로 돌아가기"
+    },
+    "76": {
+      "orig": "leave the match and the room",
+      "ko": "경기 및 방에서 나가기"
+    },
+    "78": {
+      "orig": "exit game",
+      "ko": "게임 종료"
+    },
+    "79": {
+      "orig": "close the game",
+      "ko": "게임을 닫습니다"
+    },
+    "113": {
+      "orig": "pause",
+      "ko": "일시정지"
+    },
+    "114": {
+      "orig": "unpause",
+      "ko": "일시정지 해제"
+    },
+    "115": {
+      "orig": "copy",
+      "ko": "복사"
+    },
+    "117": {
+      "orig": "password: %s",
+      "ko": "비밀번호: %s"
+    },
+    "127": {
+      "orig": "lobby code:",
+      "ko": "로비 코드:"
+    },
+    "132": {
+      "orig": "copied!",
+      "ko": "복사됨!"
+    }
+  },
+  "game/ui/player_menu.gdc": {
+    "9": {
+      "orig": "remove captain",
+      "ko": "주장 해제"
+    },
+    "11": {
+      "orig": "make captain",
+      "ko": "주장 지정"
+    },
+    "13": {
+      "orig": "kick",
+      "ko": "강퇴"
+    },
+    "14": {
+      "orig": "ban from lobby",
+      "ko": "로비에서 차단"
+    },
+    "16": {
+      "orig": "vote to kick",
+      "ko": "강퇴 투표"
+    },
+    "17": {
+      "orig": "report",
+      "ko": "신고"
+    },
+    "19": {
+      "orig": "unmute",
+      "ko": "음소거 해제"
+    },
+    "20": {
+      "orig": "mute",
+      "ko": "음소거"
+    },
+    "25": {
+      "orig": "unblock",
+      "ko": "차단 해제"
+    },
+    "27": {
+      "orig": "block",
+      "ko": "차단"
+    },
+    "30": {
+      "orig": "add friend",
+      "ko": "친구 추가"
+    },
+    "31": {
+      "orig": "steam profile",
+      "ko": "Steam 프로필"
+    },
+    "34": {
+      "orig": " (left)",
+      "ko": " (퇴장)"
+    },
+    "54": {
+      "orig": "cancel",
+      "ko": "취소"
+    }
+  },
+  "game/ui/report_popup.gdc": {
+    "16": {
+      "orig": "report %s",
+      "ko": "%s 신고"
+    },
+    "18": {
+      "orig": "pick a reason",
+      "ko": "신고 사유를 선택하세요"
+    },
+    "30": {
+      "orig": "what happened? (optional)",
+      "ko": "무슨 일이 있었나요? (선택 사항)"
+    },
+    "32": {
+      "orig": "cancel",
+      "ko": "취소"
+    },
+    "34": {
+      "orig": "send report",
+      "ko": "신고 제출"
+    },
+    "36": {
+      "orig": "pick a reason first",
+      "ko": "먼저 사유를 선택하세요"
+    },
+    "39": {
+      "orig": "reports are offline",
+      "ko": "신고 기능이 현재 오프라인입니다"
+    },
+    "42": {
+      "orig": "report sent",
+      "ko": "신고 접수됨"
+    },
+    "43": {
+      "orig": "your report will be reviewed and processed as soon as possible",
+      "ko": "신고 내용은 가능한 한 빠르게 검토 및 처리됩니다"
+    },
+    "44": {
+      "orig": "done",
+      "ko": "완료"
+    }
+  },
+  "game/ui/settings_panel.gdc": {
+    "2": {
+      "orig": "windowed",
+      "ko": "창 모드"
+    },
+    "3": {
+      "orig": "borderless fullscreen",
+      "ko": "테두리 없는 전체 화면"
+    },
+    "4": {
+      "orig": "fullscreen",
+      "ko": "전체 화면"
+    },
+    "14": {
+      "orig": "off",
+      "ko": "끔"
+    },
+    "18": {
+      "orig": "action",
+      "ko": "액션"
+    },
+    "19": {
+      "orig": "dynamic",
+      "ko": "다이내믹"
+    },
+    "20": {
+      "orig": "broadcast",
+      "ko": "중계"
+    },
+    "21": {
+      "orig": "static",
+      "ko": "고정"
+    },
+    "22": {
+      "orig": "high",
+      "ko": "높음"
+    },
+    "23": {
+      "orig": "medium",
+      "ko": "중간"
+    },
+    "25": {
+      "orig": "vertical when possible",
+      "ko": "가능할 때 세로 분할"
+    },
+    "26": {
+      "orig": "shared when possible",
+      "ko": "가능할 때 화면 공유"
+    },
+    "27": {
+      "orig": "master",
+      "ko": "마스터"
+    },
+    "29": {
+      "orig": "music",
+      "ko": "음악"
+    },
+    "31": {
+      "orig": "ambient",
+      "ko": "환경음"
+    },
+    "34": {
+      "orig": "crowd",
+      "ko": "관중"
+    },
+    "116": {
+      "orig": "audio",
+      "ko": "오디오"
+    },
+    "117": {
+      "orig": "video",
+      "ko": "비디오"
+    },
+    "118": {
+      "orig": "general",
+      "ko": "일반"
+    },
+    "119": {
+      "orig": "gameplay",
+      "ko": "게임플레이"
+    },
+    "120": {
+      "orig": "accessibility",
+      "ko": "접근성"
+    },
+    "121": {
+      "orig": "cameras",
+      "ko": "카메라"
+    },
+    "122": {
+      "orig": "crosshair",
+      "ko": "조준선"
+    },
+    "125": {
+      "orig": "low",
+      "ko": "낮음"
+    },
+    "132": {
+      "orig": "levels",
+      "ko": "음량"
+    },
+    "133": {
+      "orig": "output",
+      "ko": "출력"
+    },
+    "134": {
+      "orig": "system default",
+      "ko": "시스템 기본값"
+    },
+    "135": {
+      "orig": "output device",
+      "ko": "출력 장치"
+    },
+    "136": {
+      "orig": "sources",
+      "ko": "음원"
+    },
+    "137": {
+      "orig": "audience noises",
+      "ko": "관중 소리"
+    },
+    "139": {
+      "orig": "player voices",
+      "ko": "선수 목소리"
+    },
+    "140": {
+      "orig": "quick chat voices",
+      "ko": "빠른 채팅 음성"
+    },
+    "141": {
+      "orig": "the voice lines on the quick chat calls",
+      "ko": "빠른 채팅 호출 시 재생되는 음성 대사"
+    },
+    "142": {
+      "orig": "display",
+      "ko": "디스플레이"
+    },
+    "143": {
+      "orig": "window",
+      "ko": "창 모드"
+    },
+    "144": {
+      "orig": "resolution",
+      "ko": "해상도"
+    },
+    "148": {
+      "orig": "unlimited",
+      "ko": "제한 없음"
+    },
+    "154": {
+      "orig": "frame rate cap",
+      "ko": "프레임 레이트 제한"
+    },
+    "155": {
+      "orig": "frame rate when inactive (client only)",
+      "ko": "비활성 창일 때 프레임 레이트 (클라이언트 전용)"
+    },
+    "157": {
+      "orig": "splitscreen",
+      "ko": "화면 분할"
+    },
+    "158": {
+      "orig": "effects",
+      "ko": "효과"
+    },
+    "159": {
+      "orig": "quality",
+      "ko": "품질"
+    },
+    "160": {
+      "orig": "low (drop shadows)",
+      "ko": "낮음 (단순 그림자)"
+    },
+    "161": {
+      "orig": "floor reflections",
+      "ko": "바닥 반사"
+    },
+    "162": {
+      "orig": "glow",
+      "ko": "글로우"
+    },
+    "163": {
+      "orig": "wiggle bones",
+      "ko": "흔들림 물리 효과"
+    },
+    "164": {
+      "orig": "wiggle bones quality",
+      "ko": "흔들림 물리 품질"
+    },
+    "165": {
+      "orig": "camera occlusion shader",
+      "ko": "카메라 가림 셰이더"
+    },
+    "166": {
+      "orig": "show fps counter",
+      "ko": "FPS 표시"
+    },
+    "167": {
+      "orig": "theme",
+      "ko": "테마"
+    },
+    "168": {
+      "orig": "dark theme",
+      "ko": "다크 테마"
+    },
+    "169": {
+      "orig": "controller",
+      "ko": "컨트롤러"
+    },
+    "170": {
+      "orig": "controller inputs while game is unfocused",
+      "ko": "비활성 상태에서도 컨트롤러 입력 허용"
+    },
+    "171": {
+      "orig": "scoreboard",
+      "ko": "점수판"
+    },
+    "172": {
+      "orig": "fade scoreboard during rallies",
+      "ko": "랠리 중 점수판 흐리게 표시"
+    },
+    "173": {
+      "orig": "chat",
+      "ko": "채팅"
+    },
+    "174": {
+      "orig": "text chat",
+      "ko": "텍스트 채팅"
+    },
+    "176": {
+      "orig": "profanity filter",
+      "ko": "비속어 필터"
+    },
+    "177": {
+      "orig": "recording",
+      "ko": "녹화"
+    },
+    "178": {
+      "orig": "save match replays",
+      "ko": "경기 리플레이 저장"
+    },
+    "179": {
+      "orig": "profile",
+      "ko": "프로필"
+    },
+    "180": {
+      "orig": "go to profile settings",
+      "ko": "프로필 설정으로 이동"
+    },
+    "186": {
+      "orig": "spike meter",
+      "ko": "스파이크 게이지"
+    },
+    "188": {
+      "orig": "set meter",
+      "ko": "세트 게이지"
+    },
+    "189": {
+      "orig": "serve meter",
+      "ko": "서브 게이지"
+    },
+    "191": {
+      "orig": "jump meter",
+      "ko": "점프 게이지"
+    },
+    "193": {
+      "orig": "on character",
+      "ko": "캐릭터 위"
+    },
+    "194": {
+      "orig": "on cursor",
+      "ko": "커서 위"
+    },
+    "196": {
+      "orig": "last-touch outline",
+      "ko": "마지막 터치 외곽선"
+    },
+    "198": {
+      "orig": "reach marker",
+      "ko": "타격 범위 표시"
+    },
+    "199": {
+      "orig": "control hints",
+      "ko": "조작 힌트"
+    },
+    "201": {
+      "orig": "chat bubbles",
+      "ko": "말풍선 채팅"
+    },
+    "202": {
+      "orig": "show your own name",
+      "ko": "내 이름 표시"
+    },
+    "204": {
+      "orig": "hide names during rallies",
+      "ko": "랠리 중 이름 숨기기"
+    },
+    "206": {
+      "orig": "hide titles during rallies",
+      "ko": "랠리 중 칭호 숨기기"
+    },
+    "208": {
+      "orig": "charge meters",
+      "ko": "차지 게이지"
+    },
+    "209": {
+      "orig": "input",
+      "ko": "입력"
+    },
+    "210": {
+      "orig": "mouse sensitivity",
+      "ko": "마우스 감도"
+    },
+    "214": {
+      "orig": "controller sensitivity",
+      "ko": "컨트롤러 감도"
+    },
+    "215": {
+      "orig": "invert x axis",
+      "ko": "X축 반전"
+    },
+    "216": {
+      "orig": "invert y axis",
+      "ko": "Y축 반전"
+    },
+    "217": {
+      "orig": "sprint toggle",
+      "ko": "전력 질주 토글"
+    },
+    "218": {
+      "orig": "double-tap sprint",
+      "ko": "두 번 눌러 전력 질주"
+    },
+    "219": {
+      "orig": "cursor assist",
+      "ko": "커서 보정"
+    },
+    "220": {
+      "orig": "set assist",
+      "ko": "세트 보정"
+    },
+    "221": {
+      "orig": "camera shake",
+      "ko": "카메라 흔들림"
+    },
+    "222": {
+      "orig": "shake intensity",
+      "ko": "흔들림 강도"
+    },
+    "223": {
+      "orig": "controller vibration on your hits and impacts",
+      "ko": "타격 및 충돌 시 컨트롤러 진동"
+    },
+    "224": {
+      "orig": "right shoulder",
+      "ko": "오른쪽 어깨 뒤"
+    },
+    "225": {
+      "orig": "left shoulder",
+      "ko": "왼쪽 어깨 뒤"
+    },
+    "226": {
+      "orig": "center",
+      "ko": "중앙"
+    },
+    "227": {
+      "orig": "camera",
+      "ko": "카메라"
+    },
+    "228": {
+      "orig": "preferred camera",
+      "ko": "선호 카메라"
+    },
+    "229": {
+      "orig": "field of view",
+      "ko": "시야각(FOV)"
+    },
+    "231": {
+      "orig": "dynamic fov",
+      "ko": "다이내믹 FOV"
+    },
+    "232": {
+      "orig": "auto zoom (dynamic camera)",
+      "ko": "자동 줌 (다이내믹 카메라)"
+    },
+    "233": {
+      "orig": "cycle",
+      "ko": "순환"
+    },
+    "234": {
+      "orig": "cycle %s",
+      "ko": "%s 순환"
+    },
+    "236": {
+      "orig": "dynamic camera",
+      "ko": "다이내믹 카메라"
+    },
+    "238": {
+      "orig": "action camera",
+      "ko": "액션 카메라"
+    },
+    "239": {
+      "orig": "view",
+      "ko": "시점"
+    },
+    "240": {
+      "orig": "camera binds",
+      "ko": "카메라 키 설정"
+    },
+    "241": {
+      "orig": "keyboard",
+      "ko": "키보드"
+    },
+    "242": {
+      "orig": "alternative",
+      "ko": "대체"
+    },
+    "261": {
+      "orig": "custom color",
+      "ko": "사용자 지정 색상"
+    },
+    "262": {
+      "orig": "otherwise it matches the side you're aiming at",
+      "ko": "해제 시 조준하는 진영 색상에 맞춰집니다"
+    },
+    "263": {
+      "orig": "fill",
+      "ko": "채우기"
+    },
+    "264": {
+      "orig": "outline",
+      "ko": "외곽선"
+    },
+    "265": {
+      "orig": "ring",
+      "ko": "링"
+    },
+    "266": {
+      "orig": "floor ring",
+      "ko": "바닥 링"
+    },
+    "267": {
+      "orig": "the aiming circle on the floor (off = just the dot)",
+      "ko": "바닥에 표시되는 조준 원 (끄기 = 점만 표시)"
+    },
+    "276": {
+      "orig": "controls",
+      "ko": "조작"
+    },
+    "277": {
+      "orig": "rebind",
+      "ko": "키 변경"
+    },
+    "278": {
+      "orig": "quick chat",
+      "ko": "빠른 채팅"
+    },
+    "279": {
+      "orig": "reset all controls",
+      "ko": "모든 조작 초기화"
+    },
+    "296": {
+      "orig": "unbind",
+      "ko": "할당 해제"
+    },
+    "298": {
+      "orig": "press a %s…",
+      "ko": "%s 입력…"
+    },
+    "301": {
+      "orig": "button",
+      "ko": "버튼"
+    },
+    "311": {
+      "orig": "developer optionsdev tools and readouts",
+      "ko": "개발자 옵션 (개발자 도구 및 수치 표시)"
+    },
+    "314": {
+      "orig": "set arc",
+      "ko": "세트 궤적"
+    },
+    "316": {
+      "orig": "camera readoutposition + mode overlay",
+      "ko": "카메라 정보 (위치 + 모드 오버레이)"
+    },
+    "318": {
+      "orig": "no cooldownsdive and block recover instantly",
+      "ko": "재사용 대기시간 없음 (다이브/블로킹 즉시 회복)"
+    },
+    "320": {
+      "orig": "spike hitstopearned spikes hang for a beat at contact",
+      "ko": "스파이크 히트스톱 (타격 순간 잠깐 멈춤)"
+    },
+    "322": {
+      "orig": "all serve zonespaint every server's zone, not just yours",
+      "ko": "모든 서브 구역 표시 (모든 서버의 구역 표시)"
+    },
+    "324": {
+      "orig": "net logprint the netcode trace",
+      "ko": "네트워크 로그 (넷코드 추적 출력)"
+    },
+    "326": {
+      "orig": "predict contactsclient-side contact prediction",
+      "ko": "컨택트 예측 (클라이언트 측 접촉 예측)"
+    },
+    "328": {
+      "orig": "hitboxes (F10): see your reach while you play",
+      "ko": "히트박스 (F10): 플레이 중 판정 범위 표시"
+    },
+    "330": {
+      "orig": "hitbox",
+      "ko": "히트박스"
+    },
+    "331": {
+      "orig": "the cut",
+      "ko": "기본형"
+    },
+    "332": {
+      "orig": "original",
+      "ko": "오리지널"
+    },
+    "333": {
+      "orig": "reach up",
+      "ko": "상단 범위"
+    },
+    "335": {
+      "orig": "reach up, jumping",
+      "ko": "점프 시 상단 범위"
+    },
+    "337": {
+      "orig": "dive height",
+      "ko": "다이브 높이"
+    },
+    "340": {
+      "orig": "block",
+      "ko": "블로킹"
+    },
+    "341": {
+      "orig": "the hands",
+      "ko": "손 판정"
+    },
+    "342": {
+      "orig": "block hand size",
+      "ko": "블로킹 손 크기"
+    },
+    "345": {
+      "orig": "block hands apart",
+      "ko": "블로킹 양손 간격"
+    },
+    "348": {
+      "orig": "block reach up",
+      "ko": "블로킹 상단 범위"
+    },
+    "349": {
+      "orig": "block reach down",
+      "ko": "블로킹 하단 범위"
+    },
+    "351": {
+      "orig": "simulated latency",
+      "ko": "가상 지연 시간"
+    },
+    "354": {
+      "orig": "give %d coins",
+      "ko": "%d 코인 지급"
+    },
+    "356": {
+      "orig": "award all achievements",
+      "ko": "모든 도전 과제 달성"
+    },
+    "357": {
+      "orig": "finishes every achievement on this profile so you can claim them. never touches steam",
+      "ko": "이 프로필의 모든 도전 과제를 완료 처리해 보상을 받을 수 있게 합니다. Steam에는 반영되지 않습니다"
+    },
+    "359": {
+      "orig": "you have %d coins now",
+      "ko": "현재 보유 코인: %d개"
+    },
+    "365": {
+      "orig": "level",
+      "ko": "레벨"
+    },
+    "366": {
+      "orig": "level %d",
+      "ko": "레벨 %d"
+    },
+    "368": {
+      "orig": "Level%+d",
+      "ko": "레벨%+d"
+    },
+    "372": {
+      "orig": "set",
+      "ko": "설정"
+    },
+    "374": {
+      "orig": "max level",
+      "ko": "최대 레벨"
+    },
+    "376": {
+      "orig": "reset to 1",
+      "ko": "1로 초기화"
+    },
+    "378": {
+      "orig": "they are all finished already",
+      "ko": "이미 모두 완료되었습니다"
+    },
+    "380": {
+      "orig": "stage lab",
+      "ko": "스테이지 랩"
+    },
+    "383": {
+      "orig": "loading lab",
+      "ko": "랩 불러오는 중"
+    },
+    "386": {
+      "orig": "avatar exporter",
+      "ko": "아바타 내보내기 도구"
+    },
+    "389": {
+      "orig": "ball exporter",
+      "ko": "공 내보내기 도구"
+    },
+    "392": {
+      "orig": "fx exporter",
+      "ko": "이펙트 내보내기 도구"
+    },
+    "394": {
+      "orig": "appeal",
+      "ko": "이의 제기"
+    },
+    "396": {
+      "orig": "saves",
+      "ko": "저장 파일"
+    },
+    "397": {
+      "orig": "back up saves",
+      "ko": "저장 파일 백업"
+    },
+    "398": {
+      "orig": "open folder",
+      "ko": "폴더 열기"
+    },
+    "399": {
+      "orig": "puts a copy of your profiles and settings in %s",
+      "ko": "프로필과 설정 사본을 %s에 저장합니다"
+    },
+    "400": {
+      "orig": "backing up...",
+      "ko": "백업 중..."
+    },
+    "401": {
+      "orig": "couldn't back up your saves",
+      "ko": "저장 파일을 백업하지 못했습니다"
+    },
+    "402": {
+      "orig": "backed up! %s is in %s",
+      "ko": "백업 완료! %s이(가) %s에 저장되었습니다"
+    },
+    "403": {
+      "orig": "reset %s",
+      "ko": "%s 초기화"
+    },
+    "413": {
+      "orig": "3d resolution",
+      "ko": "3D 해상도"
+    },
+    "419": {
+      "orig": "   native",
+      "ko": "   원본(네이티브)"
+    }
+  },
+  "game/ui/title.gdc": {
+    "165": {
+      "orig": "press any button",
+      "ko": "아무 버튼이나 누르세요"
+    }
+  },
+  "game/ui/votekick_ui.gdc": {
+    "16": {
+      "orig": "kick %s?",
+      "ko": "%s님을 강퇴할까요?"
+    },
+    "20": {
+      "orig": "[y] yes",
+      "ko": "[y] 예"
+    },
+    "22": {
+      "orig": "[n] no",
+      "ko": "[n] 아니오"
+    },
+    "24": {
+      "orig": "voted",
+      "ko": "투표 완료"
+    },
+    "25": {
+      "orig": "watching",
+      "ko": "관전 중"
+    },
+    "36": {
+      "orig": "not enough votes to kick %s",
+      "ko": "%s님 강퇴 투표의 표가 부족합니다"
+    }
+  },
+  "game/core/achievement_catalog.gdc": {
+    "14": {
+      "orig": "play a match on the beach",
+      "ko": "해변에서 경기 플레이"
+    },
+    "16": {
+      "orig": "play a match on the grass court",
+      "ko": "잔디 코트에서 경기 플레이"
+    },
+    "18": {
+      "orig": "play a match in the clouds",
+      "ko": "구름 위에서 경기 플레이"
+    },
+    "20": {
+      "orig": "play a match in crow gym",
+      "ko": "까마귀 체육관에서 경기 플레이"
+    },
+    "22": {
+      "orig": "play a match in the nationals arena",
+      "ko": "전국대회 경기장에서 경기 플레이"
+    },
+    "24": {
+      "orig": "play a match in the school gym",
+      "ko": "학교 체육관에서 경기 플레이"
+    },
+    "26": {
+      "orig": "play a match in outer space",
+      "ko": "우주에서 경기 플레이"
+    },
+    "28": {
+      "orig": "play a match on the tutorial court",
+      "ko": "튜토리얼 코트에서 경기 플레이"
+    },
+    "45": {
+      "orig": "complete every %s drill",
+      "ko": "%s 훈련 모두 완료"
+    },
+    "78": {
+      "orig": "From the Concrete",
+      "ko": "콘크리트 출신"
+    },
+    "79": {
+      "orig": "open just volleyball for the first time",
+      "ko": "Just Volleyball을 처음으로 실행"
+    },
+    "83": {
+      "orig": "Getting Better",
+      "ko": "성장하는 중"
+    },
+    "84": {
+      "orig": "win your first match",
+      "ko": "첫 경기 승리"
+    },
+    "88": {
+      "orig": "Eat and Grow Stronger",
+      "ko": "먹고 강해져라"
+    },
+    "89": {
+      "orig": "lose your first match",
+      "ko": "첫 경기 패배"
+    },
+    "92": {
+      "orig": "Neck and Neck",
+      "ko": "막상막하"
+    },
+    "93": {
+      "orig": "win a deuce set",
+      "ko": "듀스 세트 승리"
+    },
+    "97": {
+      "orig": "Ultimate Weapon",
+      "ko": "궁극의 무기"
+    },
+    "98": {
+      "orig": "score a quick attack",
+      "ko": "속공으로 득점"
+    },
+    "104": {
+      "orig": "score a point using your foot",
+      "ko": "발을 사용해 득점"
+    },
+    "108": {
+      "orig": "Fly High",
+      "ko": "높이 날아라"
+    },
+    "109": {
+      "orig": "score a point after performing a bam jump",
+      "ko": "밤 점프 후 득점"
+    },
+    "113": {
+      "orig": "Rolling Thunder",
+      "ko": "롤링 썬더"
+    },
+    "114": {
+      "orig": "save a ball while using the side roll",
+      "ko": "사이드 롤로 공 받아내기"
+    },
+    "118": {
+      "orig": "Open!",
+      "ko": "오픈!"
+    },
+    "119": {
+      "orig": "set a high ball, resulting in a point",
+      "ko": "높은 토스를 올려 득점으로 연결"
+    },
+    "122": {
+      "orig": "It's Just Volleyball",
+      "ko": "그저 배구일 뿐"
+    },
+    "123": {
+      "orig": "complete the tutorial",
+      "ko": "튜토리얼 완료"
+    },
+    "126": {
+      "orig": "Actual Giant",
+      "ko": "진짜 거인"
+    },
+    "127": {
+      "orig": "save a character with the highest possible height",
+      "ko": "최대 키로 캐릭터 저장"
+    },
+    "132": {
+      "orig": "Little Giant",
+      "ko": "작은 거인"
+    },
+    "133": {
+      "orig": "save a character with the lowest possible height",
+      "ko": "최소 키로 캐릭터 저장"
+    },
+    "138": {
+      "orig": "save 10 presets",
+      "ko": "프리셋 10개 저장"
+    },
+    "142": {
+      "orig": "Leg Day",
+      "ko": "하체의 날"
+    },
+    "143": {
+      "orig": "jump 1000 times",
+      "ko": "점프 1000회"
+    },
+    "148": {
+      "orig": "The Ace",
+      "ko": "에이스"
+    },
+    "149": {
+      "orig": "gain 100 points from spikes",
+      "ko": "스파이크로 100점 획득"
+    },
+    "152": {
+      "orig": "Pick Yourself Up",
+      "ko": "다시 일어서기"
+    },
+    "153": {
+      "orig": "win a match after losing your previous match",
+      "ko": "패배한 다음 경기에서 승리"
+    },
+    "157": {
+      "orig": "bam jump for the first time",
+      "ko": "처음으로 밤 점프하기"
+    },
+    "160": {
+      "orig": "A Sport Where You're Always Looking Up",
+      "ko": "언제나 위를 보는 스포츠"
+    },
+    "161": {
+      "orig": "view the credits",
+      "ko": "크레딧 보기"
+    },
+    "166": {
+      "orig": "choose 10 as your jersey number",
+      "ko": "등번호로 10번 선택"
+    },
+    "169": {
+      "orig": "Guardian Deity",
+      "ko": "수호신"
+    },
+    "170": {
+      "orig": "receive 100 balls with a dive",
+      "ko": "다이빙 리시브 100회 성공"
+    },
+    "175": {
+      "orig": "King of The Court",
+      "ko": "코트 위의 제왕"
+    },
+    "176": {
+      "orig": "set 100 balls that resulted in a point",
+      "ko": "득점으로 이어진 토스 100회 성공"
+    },
+    "180": {
+      "orig": "spike off the first touch",
+      "ko": "첫 터치로 스파이크"
+    },
+    "184": {
+      "orig": "Leap of Faith",
+      "ko": "믿음의 도약"
+    },
+    "185": {
+      "orig": "score a spike while your team is down on match point",
+      "ko": "상대 매치 포인트 상황에서 스파이크로 득점"
+    },
+    "188": {
+      "orig": "Go Next",
+      "ko": "다음 판으로"
+    },
+    "189": {
+      "orig": "play 200 matches",
+      "ko": "경기 200회 플레이"
+    },
+    "193": {
+      "orig": "use quick chat 1000 times",
+      "ko": "빠른 채팅 1000회 사용"
+    },
+    "197": {
+      "orig": "Ball Boy",
+      "ko": "볼 보이"
+    },
+    "198": {
+      "orig": "receive 1000 balls",
+      "ko": "리시브 1000회 성공"
+    },
+    "202": {
+      "orig": "miss a receive, resulting in the ball deflecting off of you",
+      "ko": "리시브 실수로 공이 몸에 맞고 튕겨 나가기"
+    },
+    "206": {
+      "orig": "Big Body",
+      "ko": "압도적 피지컬"
+    },
+    "207": {
+      "orig": "score a point after breaking someone's block with a spike",
+      "ko": "스파이크로 블로킹을 뚫고 득점"
+    },
+    "211": {
+      "orig": "Strike Past All Obstacles",
+      "ko": "모든 벽을 뚫어라"
+    },
+    "212": {
+      "orig": "score a point after breaking someone's block with a spike 20 times",
+      "ko": "스파이크로 블로킹을 뚫고 20회 득점"
+    },
+    "216": {
+      "orig": "score a point that landed on the line",
+      "ko": "라인 위에 떨어지는 공으로 득점"
+    },
+    "220": {
+      "orig": "Don't Give Up",
+      "ko": "포기하지 마"
+    },
+    "221": {
+      "orig": "earn a break point",
+      "ko": "브레이크 포인트 획득"
+    },
+    "225": {
+      "orig": "Not Alone",
+      "ko": "혼자가 아니야"
+    },
+    "226": {
+      "orig": "score a point after a combo of three",
+      "ko": "3단 콤보 후 득점"
+    },
+    "230": {
+      "orig": "Out of Steam",
+      "ko": "체력 방전"
+    },
+    "231": {
+      "orig": "get burnt out in the middle of a match",
+      "ko": "경기 도중 체력 고갈"
+    },
+    "235": {
+      "orig": "Surpassing Limits",
+      "ko": "한계 돌파"
+    },
+    "236": {
+      "orig": "get two dive receives back to back",
+      "ko": "연속으로 다이빙 리시브 2회 성공"
+    },
+    "239": {
+      "orig": "Nice Serve!",
+      "ko": "나이스 서브!"
+    },
+    "240": {
+      "orig": "score your first ace on a serve",
+      "ko": "첫 서브 에이스 득점"
+    },
+    "245": {
+      "orig": "block an attack by shifting your hands",
+      "ko": "손을 움직여 공격 블로킹"
+    },
+    "251": {
+      "orig": "win 5 matches in a row",
+      "ko": "5연승 달성"
+    },
+    "256": {
+      "orig": "Not My Day",
+      "ko": "운 없는 날"
+    },
+    "257": {
+      "orig": "lose 5 matches in a row",
+      "ko": "5연패 기록"
+    },
+    "262": {
+      "orig": "play a match on every map",
+      "ko": "모든 맵에서 경기 플레이"
+    },
+    "265": {
+      "orig": "The Usual Spot",
+      "ko": "단골 코트"
+    },
+    "266": {
+      "orig": "play 100 matches on the same map",
+      "ko": "같은 맵에서 경기 100회 플레이"
+    },
+    "270": {
+      "orig": "After Hours",
+      "ko": "방과 후 연습"
+    },
+    "271": {
+      "orig": "spend 15 minutes in freeplay",
+      "ko": "자유 연습에서 15분 보내기"
+    },
+    "277": {
+      "orig": "Next Level",
+      "ko": "다음 단계"
+    },
+    "278": {
+      "orig": "reach 500 spikes, 500 receives and 500 blocks",
+      "ko": "스파이크 500회, 리시브 500회, 블로킹 500회 달성"
+    },
+    "288": {
+      "orig": "Glad I Made It Here",
+      "ko": "여기까지 와서 다행이야"
+    },
+    "289": {
+      "orig": "play a match on the nationals stage",
+      "ko": "전국대회 스테이지에서 경기 플레이"
+    },
+    "293": {
+      "orig": "earn 1000 chips for the first time",
+      "ko": "처음으로 1000칩 모으기"
+    },
+    "298": {
+      "orig": "Wrecking Ball",
+      "ko": "레킹 볼"
+    },
+    "299": {
+      "orig": "dive into another player, or get dove into",
+      "ko": "다른 플레이어에게 다이빙하거나 부딪히기"
+    },
+    "303": {
+      "orig": "One at a Time",
+      "ko": "한 번에 한 명씩"
+    },
+    "304": {
+      "orig": "bump into a teammate mid air",
+      "ko": "공중에서 팀원과 부딪히기"
+    },
+    "308": {
+      "orig": "No Wall Too High",
+      "ko": "넘지 못할 벽은 없다"
+    },
+    "309": {
+      "orig": "bam jump 100 times",
+      "ko": "밤 점프 100회"
+    },
+    "312": {
+      "orig": "Pinch Server",
+      "ko": "핀치 서버"
+    },
+    "313": {
+      "orig": "win the point off your jump float serve",
+      "ko": "점프 플로터 서브로 득점"
+    },
+    "318": {
+      "orig": "play for an hour",
+      "ko": "1시간 플레이"
+    },
+    "322": {
+      "orig": "play for 5 hours",
+      "ko": "5시간 플레이"
+    },
+    "326": {
+      "orig": "jump off of someone's head",
+      "ko": "다른 사람 머리를 밟고 점프"
+    },
+    "331": {
+      "orig": "dive into the net",
+      "ko": "네트로 다이빙"
+    },
+    "335": {
+      "orig": "Tempo Switch",
+      "ko": "템포 전환"
+    },
+    "336": {
+      "orig": "assist a point by jump setting",
+      "ko": "점프 토스로 득점 어시스트"
+    },
+    "340": {
+      "orig": "win your first 1v1",
+      "ko": "첫 1v1 승리"
+    },
+    "343": {
+      "orig": "Buddy System",
+      "ko": "단짝"
+    },
+    "344": {
+      "orig": "win your first 2v2",
+      "ko": "첫 2v2 승리"
+    },
+    "347": {
+      "orig": "Triple Threat",
+      "ko": "트리오"
+    },
+    "348": {
+      "orig": "win your first 3v3",
+      "ko": "첫 3v3 승리"
+    },
+    "352": {
+      "orig": "Divide and Conquer",
+      "ko": "각개격파"
+    },
+    "353": {
+      "orig": "win your first 4v4",
+      "ko": "첫 4v4 승리"
+    },
+    "357": {
+      "orig": "win your first 5v5",
+      "ko": "첫 5v5 승리"
+    },
+    "360": {
+      "orig": "Organized Chaos",
+      "ko": "질서 있는 혼돈"
+    },
+    "361": {
+      "orig": "win your first 6v6",
+      "ko": "첫 6v6 승리"
+    },
+    "365": {
+      "orig": "Full Power",
+      "ko": "풀 파워"
+    },
+    "366": {
+      "orig": "score a point with a fully charged spike",
+      "ko": "최대 충전 스파이크로 득점"
+    },
+    "371": {
+      "orig": "get your block broken for the first time",
+      "ko": "처음으로 블로킹 뚫리기"
+    },
+    "376": {
+      "orig": "win both sets in a row in a best of three",
+      "ko": "3판 2선승제에서 2세트 연속 승리"
+    },
+    "380": {
+      "orig": "lose both sets in a row in a best of three",
+      "ko": "3판 2선승제에서 2세트 연속 패배"
+    },
+    "383": {
+      "orig": "A Match with No Rematch",
+      "ko": "한 번뿐인 시합"
+    },
+    "384": {
+      "orig": "finish a quick match on nationals and don't play again",
+      "ko": "전국대회 빠른 경기를 마치고 재경기하지 않기"
+    },
+    "389": {
+      "orig": "score a cross spike",
+      "ko": "크로스 스파이크로 득점"
+    },
+    "394": {
+      "orig": "score a point using the net",
+      "ko": "네트를 이용해 득점"
+    },
+    "398": {
+      "orig": "Long Rally",
+      "ko": "긴 랠리"
+    },
+    "399": {
+      "orig": "play a rally that lasted for more than one minute",
+      "ko": "1분 이상 이어진 랠리 플레이"
+    },
+    "403": {
+      "orig": "Flow State",
+      "ko": "몰입 상태"
+    },
+    "404": {
+      "orig": "play a rally that lasted for more than 2 minutes",
+      "ko": "2분 이상 이어진 랠리 플레이"
+    },
+    "408": {
+      "orig": "Ultimate Defense",
+      "ko": "궁극의 수비"
+    },
+    "409": {
+      "orig": "block 100 attacks",
+      "ko": "공격 100회 블로킹"
+    },
+    "412": {
+      "orig": "Hello World",
+      "ko": "헬로 월드"
+    },
+    "413": {
+      "orig": "play your first online match",
+      "ko": "첫 온라인 경기 플레이"
+    },
+    "416": {
+      "orig": "John Volleyball",
+      "ko": "존 발리볼"
+    },
+    "417": {
+      "orig": "unlock every main achievement",
+      "ko": "모든 기본 도전 과제 해금"
+    },
+    "421": {
+      "orig": "daily claim",
+      "ko": "일일 보상"
+    },
+    "423": {
+      "orig": "play 3 matches",
+      "ko": "경기 3회 플레이"
+    },
+    "425": {
+      "orig": "win 2 matches",
+      "ko": "경기 2회 승리"
+    },
+    "427": {
+      "orig": "win 3 sets",
+      "ko": "3세트 승리"
+    },
+    "429": {
+      "orig": "play 3 online matches",
+      "ko": "온라인 경기 3회 플레이"
+    },
+    "431": {
+      "orig": "play 20 minutes of matches",
+      "ko": "경기 20분 플레이"
+    },
+    "433": {
+      "orig": "score 3 spikes",
+      "ko": "스파이크 3회 득점"
+    },
+    "435": {
+      "orig": "score a fully charged spike",
+      "ko": "최대 충전 스파이크로 득점"
+    },
+    "438": {
+      "orig": "score a spike through a block",
+      "ko": "블로킹을 뚫고 스파이크 득점"
+    },
+    "441": {
+      "orig": "score with a dump",
+      "ko": "덤프로 득점"
+    },
+    "444": {
+      "orig": "score a point off a bam jump",
+      "ko": "밤 점프로 득점"
+    },
+    "447": {
+      "orig": "score a point on the line",
+      "ko": "라인 위로 떨어지는 득점"
+    },
+    "449": {
+      "orig": "score an ace",
+      "ko": "에이스 득점"
+    },
+    "451": {
+      "orig": "score 2 points off your serve",
+      "ko": "서브로 2점 득점"
+    },
+    "454": {
+      "orig": "win a rally you started with a jump float serve",
+      "ko": "점프 플로터 서브로 시작한 랠리 승리"
+    },
+    "456": {
+      "orig": "block 3 attacks",
+      "ko": "공격 3회 블로킹"
+    },
+    "459": {
+      "orig": "score a point with a block",
+      "ko": "블로킹으로 득점"
+    },
+    "461": {
+      "orig": "receive 10 balls",
+      "ko": "리시브 10회 성공"
+    },
+    "463": {
+      "orig": "receive 3 balls with a dive",
+      "ko": "다이빙 리시브 3회 성공"
+    },
+    "465": {
+      "orig": "receive with a dive twice in a row",
+      "ko": "연속 다이빙 리시브 2회 성공"
+    },
+    "467": {
+      "orig": "save a ball with the side roll",
+      "ko": "사이드 롤로 공 받아내기"
+    },
+    "469": {
+      "orig": "earn 3 assists",
+      "ko": "어시스트 3회 기록"
+    },
+    "471": {
+      "orig": "earn an assist with a high set",
+      "ko": "높은 토스로 어시스트 기록"
+    },
+    "473": {
+      "orig": "earn an assist with a jump set",
+      "ko": "점프 토스로 어시스트 기록"
+    },
+    "475": {
+      "orig": "win 2 points off a combo of three",
+      "ko": "3단 콤보로 2점 득점"
+    },
+    "477": {
+      "orig": "end the other team's scoring run of 3",
+      "ko": "상대 팀의 3연속 득점 저지"
+    },
+    "479": {
+      "orig": "win a point while the other team is on match point",
+      "ko": "상대 매치 포인트 상황에서 득점"
+    },
+    "481": {
+      "orig": "score 5 points in one match",
+      "ko": "한 경기에서 5점 득점"
+    },
+    "484": {
+      "orig": "get 5 spikes in one match",
+      "ko": "한 경기에서 스파이크 5회 성공"
+    },
+    "486": {
+      "orig": "get 8 receives in one match",
+      "ko": "한 경기에서 리시브 8회 성공"
+    },
+    "489": {
+      "orig": "achieve mvp in any match",
+      "ko": "아무 경기에서나 MVP 달성"
+    },
+    "500": {
+      "orig": "play a match in the evening",
+      "ko": "저녁 시간대에 경기 플레이"
+    },
+    "503": {
+      "orig": "play a match at night",
+      "ko": "밤 시간대에 경기 플레이"
+    },
+    "506": {
+      "orig": "jump 100 times",
+      "ko": "점프 100회"
+    },
+    "508": {
+      "orig": "bam jump 10 times",
+      "ko": "밤 점프 10회"
+    },
+    "510": {
+      "orig": "use quick chat 10 times",
+      "ko": "빠른 채팅 10회 사용"
+    },
+    "512": {
+      "orig": "spend 10 minutes in freeplay",
+      "ko": "자유 연습에서 10분 보내기"
+    },
+    "514": {
+      "orig": "change your character in the locker",
+      "ko": "라커에서 캐릭터 변경"
+    },
+    "517": {
+      "orig": "save a preset in the locker",
+      "ko": "라커에서 프리셋 저장"
+    },
+    "519": {
+      "orig": "make a picture in the locker studio",
+      "ko": "라커 스튜디오에서 사진 촬영"
+    },
+    "522": {
+      "orig": "copy a look code from a player card",
+      "ko": "플레이어 카드에서 룩 코드 복사"
+    },
+    "525": {
+      "orig": "change your outfit in the menu",
+      "ko": "메뉴에서 의상 변경"
+    },
+    "528": {
+      "orig": "change your ball in the menu",
+      "ko": "메뉴에서 공 변경"
+    },
+    "531": {
+      "orig": "play 15 matches",
+      "ko": "경기 15회 플레이"
+    },
+    "533": {
+      "orig": "win 8 matches",
+      "ko": "경기 8회 승리"
+    },
+    "535": {
+      "orig": "win 15 sets",
+      "ko": "15세트 승리"
+    },
+    "537": {
+      "orig": "play 15 online matches",
+      "ko": "온라인 경기 15회 플레이"
+    },
+    "539": {
+      "orig": "play 2 hours of matches",
+      "ko": "경기 2시간 플레이"
+    },
+    "542": {
+      "orig": "win 3 matches in a row",
+      "ko": "3연승 달성"
+    },
+    "544": {
+      "orig": "win a match right after losing one",
+      "ko": "패배 직후 경기 승리"
+    },
+    "546": {
+      "orig": "win a best of 3 without dropping a set",
+      "ko": "3판 2선승제에서 무실세트 승리"
+    },
+    "548": {
+      "orig": "win 2 deuce sets",
+      "ko": "듀스 세트 2회 승리"
+    },
+    "550": {
+      "orig": "win 3 1v1 matches",
+      "ko": "1v1 경기 3회 승리"
+    },
+    "552": {
+      "orig": "win 3 2v2 matches",
+      "ko": "2v2 경기 3회 승리"
+    },
+    "554": {
+      "orig": "win 3 3v3 matches",
+      "ko": "3v3 경기 3회 승리"
+    },
+    "556": {
+      "orig": "win 3 4v4 matches",
+      "ko": "4v4 경기 3회 승리"
+    },
+    "558": {
+      "orig": "win 3 5v5 matches",
+      "ko": "5v5 경기 3회 승리"
+    },
+    "560": {
+      "orig": "win 3 6v6 matches",
+      "ko": "6v6 경기 3회 승리"
+    },
+    "562": {
+      "orig": "play 5 matches at night",
+      "ko": "밤 시간대에 경기 5회 플레이"
+    },
+    "564": {
+      "orig": "score 100 spikes",
+      "ko": "스파이크 100회 득점"
+    },
+    "566": {
+      "orig": "score 25 fully charged spikes",
+      "ko": "최대 충전 스파이크 25회 득점"
+    },
+    "569": {
+      "orig": "score 50 cross spikes",
+      "ko": "크로스 스파이크 50회 득점"
+    },
+    "571": {
+      "orig": "score 20 spikes through a block",
+      "ko": "블로킹을 뚫고 스파이크 20회 득점"
+    },
+    "573": {
+      "orig": "score 25 quick attacks",
+      "ko": "속공 25회 득점"
+    },
+    "575": {
+      "orig": "score 20 dumps",
+      "ko": "덤프 20회 득점"
+    },
+    "577": {
+      "orig": "score 25 points off a bam jump",
+      "ko": "밤 점프로 25점 득점"
+    },
+    "579": {
+      "orig": "spike off the first touch 25 times",
+      "ko": "첫 터치 스파이크 25회 성공"
+    },
+    "581": {
+      "orig": "score 20 points on the line",
+      "ko": "라인 위 득점 20회"
+    },
+    "583": {
+      "orig": "score 20 aces",
+      "ko": "에이스 20회 기록"
+    },
+    "585": {
+      "orig": "score 50 points off your serve",
+      "ko": "서브로 50점 득점"
+    },
+    "587": {
+      "orig": "win 20 rallies you started with a jump float serve",
+      "ko": "점프 플로터 서브로 시작한 랠리 20회 승리"
+    },
+    "589": {
+      "orig": "block 50 attacks",
+      "ko": "공격 50회 블로킹"
+    },
+    "591": {
+      "orig": "block 20 attacks by shifting your hands",
+      "ko": "손을 움직여 공격 20회 블로킹"
+    },
+    "593": {
+      "orig": "score 20 points with a block",
+      "ko": "블로킹으로 20점 득점"
+    },
+    "595": {
+      "orig": "receive 200 balls",
+      "ko": "리시브 200회 성공"
+    },
+    "597": {
+      "orig": "receive 60 balls with a dive",
+      "ko": "다이빙 리시브 60회 성공"
+    },
+    "599": {
+      "orig": "save 20 balls with the side roll",
+      "ko": "사이드 롤로 공 20회 받아내기"
+    },
+    "601": {
+      "orig": "earn 60 assists",
+      "ko": "어시스트 60회 기록"
+    },
+    "603": {
+      "orig": "earn 30 assists with high sets",
+      "ko": "높은 토스로 어시스트 30회 기록"
+    },
+    "606": {
+      "orig": "earn 30 assists with jump sets",
+      "ko": "점프 토스로 어시스트 30회 기록"
+    },
+    "608": {
+      "orig": "win 40 points off a combo of three",
+      "ko": "3단 콤보로 40점 득점"
+    },
+    "611": {
+      "orig": "end the other team's scoring run 20 times",
+      "ko": "상대 팀의 연속 득점 20회 저지"
+    },
+    "613": {
+      "orig": "win 10 points while the other team is on match point",
+      "ko": "상대 매치 포인트 상황에서 10점 득점"
+    },
+    "615": {
+      "orig": "play a rally that lasts more than a minute",
+      "ko": "1분 이상 이어지는 랠리 플레이"
+    },
+    "617": {
+      "orig": "achieve mvp in 5 matches",
+      "ko": "5경기에서 MVP 달성"
+    },
+    "619": {
+      "orig": "get 10 spikes in one match",
+      "ko": "한 경기에서 스파이크 10회 성공"
+    },
+    "621": {
+      "orig": "get 15 receives in one match",
+      "ko": "한 경기에서 리시브 15회 성공"
+    },
+    "623": {
+      "orig": "bam jump 50 times",
+      "ko": "밤 점프 50회"
+    },
+    "625": {
+      "orig": "use quick chat 100 times",
+      "ko": "빠른 채팅 100회 사용"
+    },
+    "627": {
+      "orig": "spend an hour in freeplay",
+      "ko": "자유 연습에서 1시간 보내기"
+    },
+    "629": {
+      "orig": "have 5 presets saved in the locker",
+      "ko": "라커에 프리셋 5개 저장해 두기"
+    }
+  },
+  "game/guide/guide_tokens.gdc": {
+    "33": {
+      "orig": "left stick",
+      "ko": "왼쪽 스틱"
+    },
+    "34": {
+      "orig": "right stick",
+      "ko": "오른쪽 스틱"
+    },
+    "42": {
+      "orig": "spawn ball (freeplay)",
+      "ko": "공 소환 (자유 연습)"
+    },
+    "48": {
+      "orig": "unbound",
+      "ko": "미지정"
+    }
+  },
+  "game/main/main.gdc": {
+    "69": {
+      "orig": "in a local match",
+      "ko": "로컬 경기 중"
+    },
+    "70": {
+      "orig": "in a quick match",
+      "ko": "빠른 경기 중"
+    },
+    "71": {
+      "orig": "in a custom match",
+      "ko": "사용자 지정 경기 중"
+    },
+    "72": {
+      "orig": "watching a match",
+      "ko": "경기 관전 중"
+    },
+    "91": {
+      "orig": "the session ended before the match loaded",
+      "ko": "경기가 로드되기 전에 세션이 종료되었습니다"
+    },
+    "127": {
+      "orig": "you will join at the start of the next rally",
+      "ko": "다음 랠리 시작 시 참가합니다"
+    },
+    "128": {
+      "orig": "you will join when a seat opens",
+      "ko": "빈 자리가 나면 참가합니다"
+    },
+    "182": {
+      "orig": "the host left the match",
+      "ko": "호스트가 경기를 나갔습니다"
+    },
+    "266": {
+      "orig": "you are watching",
+      "ko": "관전 중입니다"
+    },
+    "267": {
+      "orig": "waiting for players to load",
+      "ko": "플레이어 로딩 대기 중"
+    },
+    "268": {
+      "orig": "rally restarted",
+      "ko": "랠리가 재시작되었습니다"
+    },
+    "289": {
+      "orig": "teams are set in quick match",
+      "ko": "빠른 경기에서는 팀이 고정됩니다"
+    },
+    "290": {
+      "orig": "teams are locked. you're on %s",
+      "ko": "팀이 고정되었습니다. 현재 %s 팀입니다"
+    },
+    "291": {
+      "orig": "teams are locked",
+      "ko": "팀이 고정되었습니다"
+    },
+    "293": {
+      "orig": "you can't switch teams in a ranked match",
+      "ko": "랭크 경기에서는 팀을 변경할 수 없습니다"
+    },
+    "294": {
+      "orig": "spectating at the next serve",
+      "ko": "다음 서브부터 관전합니다"
+    },
+    "295": {
+      "orig": "joining %s at the next serve",
+      "ko": "다음 서브부터 %s에 합류합니다"
+    },
+    "317": {
+      "orig": "the host left, finding a new host...",
+      "ko": "호스트가 나갔습니다. 새 호스트를 찾는 중..."
+    },
+    "321": {
+      "orig": "you're the new host",
+      "ko": "내가 새 호스트가 되었습니다"
+    },
+    "323": {
+      "orig": "the room has a new host",
+      "ko": "방의 호스트가 변경되었습니다"
+    },
+    "324": {
+      "orig": "back to menu",
+      "ko": "메뉴로 돌아가기"
+    },
+    "325": {
+      "orig": "back to lobby",
+      "ko": "로비로 돌아가기"
+    },
+    "348": {
+      "orig": "opponent has disconnected, match ending in %s if they do not reconnect",
+      "ko": "상대방의 연결이 끊겼습니다. %s 내에 재접속하지 않으면 경기가 종료됩니다"
+    },
+    "390": {
+      "orig": "foot fault",
+      "ko": "풋 폴트"
+    },
+    "565": {
+      "orig": "you can leave this match at any time by opening the pause menu!",
+      "ko": "일시정지 메뉴를 열어 언제든지 경기를 나갈 수 있습니다!"
+    },
+    "605": {
+      "orig": "match replay",
+      "ko": "경기 리플레이"
+    },
+    "608": {
+      "orig": " wins!",
+      "ko": " 승리!"
+    },
+    "615": {
+      "orig": "not everyone pressed play again",
+      "ko": "모든 플레이어가 다시 하기를 누르지 않았습니다"
+    },
+    "620": {
+      "orig": "no rematch",
+      "ko": "재경기 없음"
+    },
+    "621": {
+      "orig": "someone left, so no rematch",
+      "ko": "누군가 나가서 재경기를 진행할 수 없습니다"
+    },
+    "622": {
+      "orig": "everyone's in!",
+      "ko": "모두 준비 완료!"
+    },
+    "623": {
+      "orig": "waiting for everyone else... %d",
+      "ko": "다른 플레이어 대기 중... %d"
+    },
+    "624": {
+      "orig": "window closes in %d",
+      "ko": "%d 후 창이 닫힙니다"
+    },
+    "625": {
+      "orig": "waiting for the host...",
+      "ko": "호스트 대기 중..."
+    },
+    "627": {
+      "orig": "that match just ended",
+      "ko": "해당 경기가 방금 종료되었습니다"
+    },
+    "629": {
+      "orig": "that match is about to end, still searching",
+      "ko": "해당 경기가 곧 종료됩니다. 계속 검색 중..."
+    },
+    "656": {
+      "orig": "you're in!",
+      "ko": "참가 완료!"
+    },
+    "692": {
+      "orig": "line fault",
+      "ko": "라인 폴트"
+    },
+    "694": {
+      "orig": "serve foul",
+      "ko": "서브 파울"
+    },
+    "695": {
+      "orig": "outside the antenna",
+      "ko": "안테나 아웃"
+    },
+    "696": {
+      "orig": "illegal attack on serve",
+      "ko": "서브 공격 반칙"
+    },
+    "697": {
+      "orig": "four touches",
+      "ko": "포 터치"
+    },
+    "699": {
+      "orig": "ball out",
+      "ko": "볼 아웃"
+    },
+    "705": {
+      "orig": "block out",
+      "ko": "블록 아웃"
+    },
+    "801": {
+      "orig": "spectating: c changes camera",
+      "ko": "관전 중: C 키로 카메라 전환"
+    },
+    "803": {
+      "orig": "return to serve zone   %0.0f",
+      "ko": "서브 구역으로 돌아가세요   %0.0f"
+    },
+    "804": {
+      "orig": "your serve   hold to toss   %0.0f",
+      "ko": "내 서브   길게 눌러 토스   %0.0f"
+    }
+  },
+  "game/replay/replay_viewer.gdc": {
+    "138": {
+      "orig": "finish a match to save your first replay",
+      "ko": "경기를 완료해 첫 리플레이를 저장하세요"
+    },
+    "148": {
+      "orig": "stage unknown",
+      "ko": "알 수 없는 스테이지"
+    },
+    "151": {
+      "orig": "   sets %d:%d",
+      "ko": "   세트 %d:%d"
+    },
+    "154": {
+      "orig": "   ! outdated version",
+      "ko": "   ! 구버전"
+    },
+    "155": {
+      "orig": "   ! version mismatch",
+      "ko": "   ! 버전 불일치"
+    },
+    "156": {
+      "orig": "  home %s   away %s%s   %s   %d:%02d\n  %s%s",
+      "ko": "  홈 %s   어웨이 %s%s   %s   %d:%02d\n  %s%s"
+    },
+    "162": {
+      "orig": "version mismatch",
+      "ko": "버전 불일치"
+    },
+    "163": {
+      "orig": "this replay is from another version of the game and can't be played",
+      "ko": "다른 게임 버전의 리플레이이므로 재생할 수 없습니다"
+    },
+    "164": {
+      "orig": "this replay couldn't be read",
+      "ko": "이 리플레이를 읽을 수 없습니다"
+    },
+    "272": {
+      "orig": "free cam   wasd to fly   q and e for height   hold right mouse to look   arrows to scrub",
+      "ko": "자유 카메라   WASD 이동   Q/E 높이 조절   우클릭 유지 시점 회전   방향키 탐색"
+    },
+    "273": {
+      "orig": "spectate   hold right mouse to swing round   wheel to zoom   arrows to scrub",
+      "ko": "관전 모드   우클릭 유지 시점 회전   휠 확대/축소   방향키 탐색"
+    },
+    "274": {
+      "orig": "c changes camera   f opens free cam   space pauses   arrows scrub   h hides the ui",
+      "ko": "C 카메라 전환   F 자유 카메라   Space 일시정지   방향키 탐색   H UI 숨기기"
+    },
+    "310": {
+      "orig": "chat (from the report)",
+      "ko": "채팅 (신고 내역)"
+    },
+    "311": {
+      "orig": "nothing said yet",
+      "ko": "아직 채팅 내용이 없습니다"
+    }
+  },
+  "game/ui/boot/boot_intro.gdc": {
+    "43": {
+      "orig": "before you play",
+      "ko": "플레이하기 전에"
+    },
+    "47": {
+      "orig": "would you like to configure your settings first? (these may be changed at any time)",
+      "ko": "먼저 설정을 구성하시겠습니까? (언제든지 변경할 수 있습니다)"
+    },
+    "49": {
+      "orig": "don't need to!",
+      "ko": "필요 없어요!"
+    },
+    "54": {
+      "orig": "configure settings",
+      "ko": "설정하기"
+    },
+    "69": {
+      "orig": "system settings",
+      "ko": "시스템 설정"
+    },
+    "89": {
+      "orig": "reset all",
+      "ko": "모두 초기화"
+    },
+    "90": {
+      "orig": "exit",
+      "ko": "나가기"
+    }
+  },
+  "game/ui/boot/notice_card.gdc": {
+    "21": {
+      "orig": "don't show this again",
+      "ko": "다시 보지 않기"
+    },
+    "22": {
+      "orig": "continue",
+      "ko": "계속"
+    }
+  },
+  "game/ui/cfg_panel.gdc": {
+    "14": {
+      "orig": "player 1's profile stays for this match",
+      "ko": "이 경기 동안 플레이어 1의 프로필은 유지됩니다"
+    },
+    "60": {
+      "orig": "+  create profile",
+      "ko": "+  프로필 만들기"
+    },
+    "65": {
+      "orig": "edit controls",
+      "ko": "조작 설정"
+    },
+    "66": {
+      "orig": "your settings",
+      "ko": "내 설정"
+    },
+    "70": {
+      "orig": "hold B to leave",
+      "ko": "B를 길게 눌러 나가기"
+    },
+    "71": {
+      "orig": "actions",
+      "ko": "작업"
+    },
+    "72": {
+      "orig": "remove player",
+      "ko": "플레이어 제거"
+    },
+    "112": {
+      "orig": "Player %d",
+      "ko": "플레이어 %d"
+    },
+    "113": {
+      "orig": "profile limit reached",
+      "ko": "프로필 한도에 도달했습니다"
+    },
+    "117": {
+      "orig": "player %d has joined!",
+      "ko": "플레이어 %d 님이 참가했습니다!"
+    },
+    "119": {
+      "orig": "player %d is back!",
+      "ko": "플레이어 %d 님이 돌아왔습니다!"
+    },
+    "133": {
+      "orig": "party leader",
+      "ko": "파티장"
+    },
+    "134": {
+      "orig": "powered off",
+      "ko": "전원 꺼짐"
+    },
+    "135": {
+      "orig": "joined",
+      "ko": "참가함"
+    },
+    "138": {
+      "orig": "press A to join",
+      "ko": "A를 눌러 참가"
+    },
+    "139": {
+      "orig": "open slot",
+      "ko": "빈 슬롯"
+    },
+    "140": {
+      "orig": "on another controller",
+      "ko": "다른 컨트롤러에서"
+    },
+    "141": {
+      "orig": "press A to join on another controller",
+      "ko": "다른 컨트롤러에서 A를 눌러 참가"
+    },
+    "147": {
+      "orig": "turn the controller on",
+      "ko": "컨트롤러 전원을 켜세요"
+    },
+    "149": {
+      "orig": "keyboard & mouse",
+      "ko": "키보드 & 마우스"
+    },
+    "150": {
+      "orig": "controller %d",
+      "ko": "컨트롤러 %d"
+    },
+    "159": {
+      "orig": "you cannot perform this action",
+      "ko": "이 작업을 수행할 수 없습니다"
+    },
+    "164": {
+      "orig": "hold to leave",
+      "ko": "길게 눌러 나가기"
+    },
+    "166": {
+      "orig": "player 1 plays on any free device",
+      "ko": "플레이어 1은 사용 가능한 아무 장치로나 플레이합니다"
+    },
+    "184": {
+      "orig": "off",
+      "ko": "끔"
+    },
+    "185": {
+      "orig": "medium",
+      "ko": "보통"
+    },
+    "186": {
+      "orig": "high",
+      "ko": "높음"
+    },
+    "196": {
+      "orig": "white",
+      "ko": "하양"
+    },
+    "197": {
+      "orig": "yellow",
+      "ko": "노랑"
+    },
+    "198": {
+      "orig": "cyan",
+      "ko": "청록"
+    },
+    "199": {
+      "orig": "pink",
+      "ko": "분홍"
+    },
+    "200": {
+      "orig": "green",
+      "ko": "초록"
+    },
+    "201": {
+      "orig": "orange",
+      "ko": "주황"
+    },
+    "202": {
+      "orig": "purple",
+      "ko": "보라"
+    },
+    "203": {
+      "orig": "rumble",
+      "ko": "진동"
+    },
+    "206": {
+      "orig": "on",
+      "ko": "켬"
+    },
+    "217": {
+      "orig": "stick sens",
+      "ko": "스틱 감도"
+    },
+    "220": {
+      "orig": "mouse sens",
+      "ko": "마우스 감도"
+    },
+    "222": {
+      "orig": "invert x axis",
+      "ko": "X축 반전"
+    },
+    "224": {
+      "orig": "invert y axis",
+      "ko": "Y축 반전"
+    },
+    "226": {
+      "orig": "aim assist",
+      "ko": "조준 보정"
+    },
+    "228": {
+      "orig": "set assist",
+      "ko": "토스 보정"
+    },
+    "230": {
+      "orig": "sprint",
+      "ko": "달리기"
+    },
+    "232": {
+      "orig": "tap",
+      "ko": "한 번 누르기"
+    },
+    "233": {
+      "orig": "hold",
+      "ko": "길게 누르기"
+    },
+    "234": {
+      "orig": "double-tap sprint",
+      "ko": "두 번 눌러 달리기"
+    },
+    "236": {
+      "orig": "camera shake",
+      "ko": "카메라 흔들림"
+    },
+    "237": {
+      "orig": "dynamic fov",
+      "ko": "동적 시야각"
+    },
+    "239": {
+      "orig": "auto zoom",
+      "ko": "자동 줌"
+    },
+    "241": {
+      "orig": "dynamic focus",
+      "ko": "동적 초점"
+    },
+    "243": {
+      "orig": "action camera",
+      "ko": "액션 카메라"
+    },
+    "245": {
+      "orig": "reach marker",
+      "ko": "도달 범위 표시"
+    },
+    "247": {
+      "orig": "charge meters",
+      "ko": "충전 게이지"
+    },
+    "248": {
+      "orig": "spike meter",
+      "ko": "스파이크 게이지"
+    },
+    "249": {
+      "orig": "set meter",
+      "ko": "토스 게이지"
+    },
+    "250": {
+      "orig": "serve meter",
+      "ko": "서브 게이지"
+    },
+    "251": {
+      "orig": "jump meter",
+      "ko": "점프 게이지"
+    },
+    "252": {
+      "orig": "on cursor",
+      "ko": "커서 위치"
+    },
+    "253": {
+      "orig": "on character",
+      "ko": "캐릭터 위치"
+    },
+    "254": {
+      "orig": "control hints",
+      "ko": "조작 안내"
+    },
+    "256": {
+      "orig": "your own name",
+      "ko": "내 이름 표시"
+    },
+    "258": {
+      "orig": "shown",
+      "ko": "표시"
+    },
+    "259": {
+      "orig": "hidden",
+      "ko": "숨김"
+    },
+    "260": {
+      "orig": "names in rallies",
+      "ko": "랠리 중 이름 표시"
+    },
+    "262": {
+      "orig": "titles in rallies",
+      "ko": "랠리 중 칭호 표시"
+    },
+    "264": {
+      "orig": "crosshair",
+      "ko": "조준선"
+    },
+    "265": {
+      "orig": "crosshair colour",
+      "ko": "조준선 색상"
+    },
+    "266": {
+      "orig": "team colours",
+      "ko": "팀 색상"
+    },
+    "267": {
+      "orig": "crosshair size",
+      "ko": "조준선 크기"
+    },
+    "270": {
+      "orig": "floor ring",
+      "ko": "바닥 링"
+    },
+    "272": {
+      "orig": "change",
+      "ko": "변경"
+    },
+    "274": {
+      "orig": "no title",
+      "ko": "칭호 없음"
+    },
+    "275": {
+      "orig": "your title",
+      "ko": "내 칭호"
+    },
+    "277": {
+      "orig": "effect: none",
+      "ko": "효과: 없음"
+    },
+    "280": {
+      "orig": "effect: %s",
+      "ko": "효과: %s"
+    },
+    "281": {
+      "orig": "no titles yet: the shop sells them",
+      "ko": "보유한 칭호가 없습니다: 상점에서 구매할 수 있습니다"
+    },
+    "282": {
+      "orig": "wear",
+      "ko": "착용"
+    },
+    "283": {
+      "orig": "select your profile",
+      "ko": "프로필 선택"
+    },
+    "284": {
+      "orig": "guest profile",
+      "ko": "게스트 프로필"
+    },
+    "285": {
+      "orig": "preview outfit: %s",
+      "ko": "의상 미리보기: %s"
+    },
+    "286": {
+      "orig": "captain uniform",
+      "ko": "주장 유니폼"
+    },
+    "287": {
+      "orig": "make a new profile",
+      "ko": "새 프로필 만들기"
+    },
+    "289": {
+      "orig": "edit look",
+      "ko": "외형 편집"
+    },
+    "290": {
+      "orig": "select",
+      "ko": "선택"
+    },
+    "292": {
+      "orig": "pick your device",
+      "ko": "장치 선택"
+    },
+    "294": {
+      "orig": "no free devices",
+      "ko": "사용 가능한 장치 없음"
+    }
+  },
+  "game/ui/how_to_play.gdc": {
+    "51": {
+      "orig": "go to freeplay",
+      "ko": "자유 연습으로 이동"
+    },
+    "54": {
+      "orig": "search",
+      "ko": "검색"
+    },
+    "61": {
+      "orig": "previous page",
+      "ko": "이전 페이지"
+    },
+    "63": {
+      "orig": "next page",
+      "ko": "다음 페이지"
+    },
+    "68": {
+      "orig": "close",
+      "ko": "닫기"
+    },
+    "69": {
+      "orig": "edit page",
+      "ko": "페이지 편집"
+    },
+    "74": {
+      "orig": "contents",
+      "ko": "목차"
+    },
+    "151": {
+      "orig": "nothing found",
+      "ko": "검색 결과 없음"
+    }
+  },
+  "game/ui/lobby/cpu_editor.gdc": {
+    "18": {
+      "orig": "dev only",
+      "ko": "개발자 전용"
+    },
+    "20": {
+      "orig": "only an editor build has this. players can't open it yet",
+      "ko": "에디터 빌드 전용 기능입니다. 플레이어는 아직 열 수 없습니다"
+    },
+    "21": {
+      "orig": "done",
+      "ko": "완료"
+    },
+    "29": {
+      "orig": "random look",
+      "ko": "무작위 외형"
+    },
+    "34": {
+      "orig": "show as a player",
+      "ko": "플레이어로 표시"
+    },
+    "38": {
+      "orig": "level",
+      "ko": "레벨"
+    },
+    "42": {
+      "orig": "for trailer footage: no cpu tag, no difficulty, this level on its tag. 0 = no level. only an editor build shows it",
+      "ko": "트레일러 촬영용: CPU 태그 없음, 난이도 없음, 태그에 이 레벨이 표시됩니다. 0 = 레벨 없음. 에디터 빌드에서만 표시됩니다"
+    },
+    "45": {
+      "orig": "looks on this computer",
+      "ko": "이 컴퓨터에 저장된 외형"
+    },
+    "58": {
+      "orig": "  (you)",
+      "ko": "  (나)"
+    },
+    "61": {
+      "orig": "hide",
+      "ko": "숨기기"
+    },
+    "62": {
+      "orig": "show",
+      "ko": "표시"
+    }
+  },
+  "game/ui/lobby/modifiers_panel.gdc": {
+    "3": {
+      "orig": "customize match properties & settings",
+      "ko": "경기 속성 및 설정 사용자 지정"
+    },
+    "4": {
+      "orig": "the host picks these. this is what you are about to play.",
+      "ko": "호스트가 이 설정을 선택합니다. 현재 적용된 규칙입니다."
+    },
+    "15": {
+      "orig": "modifiers",
+      "ko": "규칙 설정"
+    },
+    "17": {
+      "orig": "done",
+      "ko": "완료"
+    },
+    "23": {
+      "orig": "reset to default",
+      "ko": "기본값으로 초기화"
+    }
+  },
+  "game/ui/lobby/roster_tile.gdc": {
+    "69": {
+      "orig": "shuffle appearance",
+      "ko": "외형 무작위 변경"
+    },
+    "75": {
+      "orig": "remove cpu",
+      "ko": "CPU 제거"
+    },
+    "106": {
+      "orig": "add cpu",
+      "ko": "CPU 추가"
+    },
+    "122": {
+      "orig": "add a cpu",
+      "ko": "CPU 추가"
+    },
+    "123": {
+      "orig": "edit cpu",
+      "ko": "CPU 편집"
+    },
+    "132": {
+      "orig": "make captain",
+      "ko": "주장 지정"
+    }
+  },
+  "game/ui/matchmaking_pill.gdc": {
+    "19": {
+      "orig": "finding a match",
+      "ko": "경기 찾는 중"
+    },
+    "24": {
+      "orig": "matchmaking...",
+      "ko": "매치메이킹 중..."
+    },
+    "27": {
+      "orig": "cancel",
+      "ko": "취소"
+    },
+    "32": {
+      "orig": "match found!",
+      "ko": "경기를 찾았습니다!"
+    }
+  },
+  "game/ui/menu_copy.gdc": {
+    "0": {
+      "orig": "online",
+      "ko": "온라인"
+    },
+    "1": {
+      "orig": "play matches worldwide",
+      "ko": "전 세계 플레이어와 경기 플레이"
+    },
+    "2": {
+      "orig": "local",
+      "ko": "로컬"
+    },
+    "3": {
+      "orig": "play matches locally",
+      "ko": "로컬에서 경기 플레이"
+    },
+    "4": {
+      "orig": "practice",
+      "ko": "연습"
+    },
+    "5": {
+      "orig": "freeplay, tutorials, guides",
+      "ko": "자유 연습, 튜토리얼, 가이드"
+    },
+    "6": {
+      "orig": "controllers",
+      "ko": "컨트롤러"
+    },
+    "7": {
+      "orig": "config devices & local coop",
+      "ko": "장치 설정 및 로컬 협동"
+    },
+    "8": {
+      "orig": "settings",
+      "ko": "설정"
+    },
+    "9": {
+      "orig": "controls, video, audio",
+      "ko": "조작, 화면, 오디오"
+    },
+    "11": {
+      "orig": "find any online match available",
+      "ko": "참가 가능한 온라인 경기 찾기"
+    },
+    "13": {
+      "orig": "online servers with custom rules",
+      "ko": "사용자 지정 규칙의 온라인 서버"
+    },
+    "15": {
+      "orig": "host your own lobby with custom rules",
+      "ko": "사용자 지정 규칙으로 나만의 로비 생성"
+    },
+    "17": {
+      "orig": "connect by ip address",
+      "ko": "IP 주소로 연결"
+    },
+    "19": {
+      "orig": "pick the rules, sets and stage",
+      "ko": "규칙, 세트 및 스테이지 선택"
+    },
+    "21": {
+      "orig": "play on this computer",
+      "ko": "이 컴퓨터에서 플레이"
+    },
+    "23": {
+      "orig": "host a lobby for players on your network",
+      "ko": "같은 네트워크의 플레이어를 위해 로비 생성"
+    },
+    "25": {
+      "orig": "join a lan lobby by address",
+      "ko": "주소로 LAN 로비 참가"
+    },
+    "26": {
+      "orig": "freeplay",
+      "ko": "자유 연습"
+    },
+    "27": {
+      "orig": "practice in the open court",
+      "ko": "자유롭게 코트에서 연습"
+    },
+    "29": {
+      "orig": "volleyball & game rules",
+      "ko": "배구 및 게임 규칙"
+    },
+    "31": {
+      "orig": "queue up",
+      "ko": "대기열 참가"
+    },
+    "33": {
+      "orig": "the arena reacts to the rally",
+      "ko": "랠리 상황에 따라 경기장이 반응합니다"
+    },
+    "35": {
+      "orig": "grunts and callouts",
+      "ko": "기합 소리 및 콜아웃"
+    },
+    "37": {
+      "orig": "on: tap sprint to keep running. off: hold it down",
+      "ko": "켬: 달리기 키를 한 번 눌러 계속 달립니다. 끔: 누르고 있어야 달립니다"
+    },
+    "39": {
+      "orig": "on: double tap a movement key to sprint. off: only the sprint key does",
+      "ko": "켬: 이동 키를 두 번 눌러 달립니다. 끔: 달리기 키로만 달립니다"
+    },
+    "41": {
+      "orig": "action camera: push up to look down",
+      "ko": "액션 카메라: 위로 조작 시 아래를 봅니다"
+    },
+    "43": {
+      "orig": "action camera: push right to look left",
+      "ko": "액션 카메라: 오른쪽 조작 시 왼쪽을 봅니다"
+    },
+    "45": {
+      "orig": "on a controller your cursor moves to an easy spot for every touch and serve. the right stick takes over for that play",
+      "ko": "컨트롤러 사용 시 매 터치와 서브마다 커서가 편한 위치로 자동 이동합니다. 오른쪽 스틱으로 직접 조종할 수도 있습니다"
+    },
+    "47": {
+      "orig": "your sets always land in the hitting spot by the net. your aim only picks left or right",
+      "ko": "토스가 항상 네트 앞 타점 위치로 향합니다. 조준으로는 좌우 방향만 정합니다"
+    },
+    "49": {
+      "orig": "impacts rattle the view",
+      "ko": "타격 시 화면이 흔들립니다"
+    },
+    "51": {
+      "orig": "the view widens when you sprint",
+      "ko": "달릴 때 시야각이 넓어집니다"
+    },
+    "53": {
+      "orig": "the cameras the camera key cycles through",
+      "ko": "카메라 키로 전환할 수 있는 카메라 목록"
+    },
+    "55": {
+      "orig": "reveal who touched the ball last with an outline",
+      "ko": "마지막으로 공을 터치한 선수를 외곽선으로 표시합니다"
+    },
+    "57": {
+      "orig": "shows when a ball is grabbable",
+      "ko": "공을 잡을 수 있을 때 표시합니다"
+    },
+    "59": {
+      "orig": "the button prompts in the corner of your screen",
+      "ko": "화면 구석의 버튼 안내 표시"
+    },
+    "61": {
+      "orig": "show the chat panel",
+      "ko": "채팅창 표시"
+    },
+    "63": {
+      "orig": "censor inappropriate chat content",
+      "ko": "부적절한 채팅 내용 가리기"
+    },
+    "65": {
+      "orig": "your controller keeps working when another window is in front",
+      "ko": "다른 창이 앞에 있어도 컨트롤러가 계속 작동합니다"
+    },
+    "67": {
+      "orig": "fade the scoreboard out while the ball is in play",
+      "ko": "랠리 진행 중 점수판을 흐리게 표시합니다"
+    },
+    "69": {
+      "orig": "speech bubbles over heads in freeplay",
+      "ko": "자유 연습 중 머리 위 말풍선 표시"
+    },
+    "71": {
+      "orig": "display your own username during gameplay",
+      "ko": "경기 중 내 이름 표시"
+    },
+    "73": {
+      "orig": "hide every player's username while the ball is in play",
+      "ko": "랠리 진행 중 모든 플레이어 이름 숨기기"
+    },
+    "75": {
+      "orig": "hide every player's title while the ball is in play",
+      "ko": "랠리 진행 중 모든 플레이어 칭호 숨기기"
+    },
+    "77": {
+      "orig": "writes a file after each match",
+      "ko": "매 경기 후 리플레이 파일 저장"
+    },
+    "78": {
+      "orig": "vsync",
+      "ko": "수직 동기화"
+    },
+    "79": {
+      "orig": "off uncaps the frame rate, may tear",
+      "ko": "끔 설정 시 프레임 제한이 해제되며 화면 찢어짐이 발생할 수 있습니다"
+    },
+    "80": {
+      "orig": "reflections",
+      "ko": "반사 효과"
+    },
+    "81": {
+      "orig": "the mirrored court floor",
+      "ko": "거울처럼 비치는 코트 바닥 효과"
+    },
+    "83": {
+      "orig": "hair and accessories swing as you move. off saves some performance",
+      "ko": "움직임에 따라 머리카락과 장식이 흔들립니다. 끄면 성능이 향상됩니다"
+    },
+    "85": {
+      "orig": "frame rate readout",
+      "ko": "프레임률 표시"
+    }
+  },
+  "game/ui/player_list_overlay.gdc": {
+    "15": {
+      "orig": "teams & players",
+      "ko": "팀 및 플레이어"
+    },
+    "30": {
+      "orig": "spectate",
+      "ko": "관전하기"
+    },
+    "35": {
+      "orig": "close",
+      "ko": "닫기"
+    },
+    "43": {
+      "orig": "spectating at the next serve",
+      "ko": "다음 서브부터 관전합니다"
+    },
+    "49": {
+      "orig": "teams are locked. you're on %s",
+      "ko": "팀이 고정되었습니다. 현재 %s 팀입니다"
+    },
+    "50": {
+      "orig": "teams are locked. the team you join is your team for this match",
+      "ko": "팀이 고정되었습니다. 선택한 팀으로 이번 경기를 진행합니다"
+    },
+    "52": {
+      "orig": "spectating: %s",
+      "ko": "관전 중: %s"
+    }
+  },
+  "game/ui/point_strip.gdc": {
+    "39": {
+      "orig": "off the block",
+      "ko": "터치 아웃"
+    }
+  },
+  "game/ui/reconnect_card.gdc": {
+    "11": {
+      "orig": "you left a match",
+      "ko": "경기에서 나갔습니다"
+    },
+    "18": {
+      "orig": "give up",
+      "ko": "포기하기"
+    },
+    "22": {
+      "orig": "reconnect",
+      "ko": "재접속"
+    },
+    "26": {
+      "orig": "to avoid any penalties, reconnect within %s",
+      "ko": "페널티를 피하려면 %s 내에 재접속하세요"
+    },
+    "27": {
+      "orig": "reconnecting...",
+      "ko": "재접속 중..."
+    }
+  },
+  "game/ui/seat_rebind.gdc": {
+    "16": {
+      "orig": "controls",
+      "ko": "조작 설정"
+    },
+    "24": {
+      "orig": "scoreboard, chat and free mouse follow player 1",
+      "ko": "점수판, 채팅 및 마우스 커서 해제는 플레이어 1 설정을 따릅니다"
+    },
+    "26": {
+      "orig": "show keyboard",
+      "ko": "키보드 보기"
+    },
+    "27": {
+      "orig": "show controller",
+      "ko": "컨트롤러 보기"
+    },
+    "28": {
+      "orig": "reset all controls",
+      "ko": "모든 조작 초기화"
+    },
+    "53": {
+      "orig": "reset",
+      "ko": "초기화"
+    },
+    "59": {
+      "orig": "press a key",
+      "ko": "아무 키나 누르세요"
+    },
+    "60": {
+      "orig": "press a button",
+      "ko": "아무 버튼이나 누르세요"
+    }
+  },
+  "game/ui/stat_row.gdc": {
+    "6": {
+      "orig": "points",
+      "ko": "득점"
+    },
+    "8": {
+      "orig": "spikes",
+      "ko": "스파이크"
+    },
+    "10": {
+      "orig": "blocks",
+      "ko": "블로킹"
+    },
+    "13": {
+      "orig": "receives",
+      "ko": "리시브"
+    },
+    "15": {
+      "orig": "sets",
+      "ko": "토스"
+    },
+    "17": {
+      "orig": "assists",
+      "ko": "어시스트"
+    },
+    "19": {
+      "orig": "aces",
+      "ko": "에이스"
+    },
+    "21": {
+      "orig": "digs",
+      "ko": "디그"
+    }
+  },
+  "game/ui/style/eye_button.gdc": {
+    "1": {
+      "orig": "hide",
+      "ko": "숨기기"
+    },
+    "2": {
+      "orig": "show",
+      "ko": "표시"
+    }
+  },
+  "game/ui/style/pad_keyboard.gdc": {
+    "39": {
+      "orig": "space",
+      "ko": "스페이스"
+    },
+    "42": {
+      "orig": "delete",
+      "ko": "삭제"
+    },
+    "43": {
+      "orig": "done",
+      "ko": "완료"
+    },
+    "45": {
+      "orig": "A type    X delete    Y space    start done    B close",
+      "ko": "A 입력    X 삭제    Y 띄어쓰기    Start 완료    B 닫기"
+    }
+  },
+  "game/ui/style/ui_select.gdc": {
+    "43": {
+      "orig": "clear",
+      "ko": "초기화"
+    },
+    "47": {
+      "orig": "done",
+      "ko": "완료"
+    }
+  },
+  "game/ui/style/ui_style.gdc": {
+    "225": {
+      "orig": "yes",
+      "ko": "예"
+    },
+    "226": {
+      "orig": "cancel",
+      "ko": "취소"
+    }
+  },
+  "game/ui/title_editor.gdc": {
+    "6": {
+      "orig": "a to z",
+      "ko": "이름순 (A-Z)"
+    },
+    "7": {
+      "orig": "z to a",
+      "ko": "역순 (Z-A)"
+    },
+    "8": {
+      "orig": "newest first",
+      "ko": "최신순"
+    },
+    "11": {
+      "orig": "look",
+      "ko": "스타일"
+    },
+    "12": {
+      "orig": "effect",
+      "ko": "효과"
+    },
+    "13": {
+      "orig": "your title",
+      "ko": "내 칭호"
+    },
+    "55": {
+      "orig": "reset look",
+      "ko": "스타일 초기화"
+    },
+    "59": {
+      "orig": "done",
+      "ko": "완료"
+    },
+    "70": {
+      "orig": "search your titles",
+      "ko": "칭호 검색"
+    },
+    "81": {
+      "orig": "titles",
+      "ko": "칭호"
+    },
+    "82": {
+      "orig": "you don't own any titles yet",
+      "ko": "아직 보유한 칭호가 없습니다"
+    },
+    "85": {
+      "orig": "no title matches \"%s\"",
+      "ko": "\"%s\"와 일치하는 칭호가 없습니다"
+    },
+    "87": {
+      "orig": "letters",
+      "ko": "글자"
+    },
+    "89": {
+      "orig": "plate",
+      "ko": "배경판"
+    },
+    "90": {
+      "orig": "outline",
+      "ko": "외곽선"
+    },
+    "93": {
+      "orig": "outline thickness",
+      "ko": "외곽선 두께"
+    },
+    "99": {
+      "orig": "supporter name tag",
+      "ko": "서포터 이름표"
+    },
+    "102": {
+      "orig": "gold name tag (developer)",
+      "ko": "골드 이름표 (개발자)"
+    },
+    "104": {
+      "orig": "your effects",
+      "ko": "내 효과"
+    },
+    "109": {
+      "orig": "effects",
+      "ko": "효과"
+    },
+    "110": {
+      "orig": "you don't own any effects yet",
+      "ko": "아직 보유한 효과가 없습니다"
+    },
+    "119": {
+      "orig": "default colors",
+      "ko": "기본 색상"
+    },
+    "128": {
+      "orig": "get more",
+      "ko": "더 얻기"
+    }
+  },
+  "game/ui/tutorial_overlay.gdc": {
+    "74": {
+      "orig": "restart",
+      "ko": "다시 시작"
+    },
+    "77": {
+      "orig": "skip",
+      "ko": "건너뛰기"
+    },
+    "88": {
+      "orig": "next",
+      "ko": "다음"
+    },
+    "94": {
+      "orig": "        {dive}  back",
+      "ko": "        {dive}  뒤로"
+    }
+  }
+}

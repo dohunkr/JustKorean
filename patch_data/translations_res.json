@@ -1,0 +1,2650 @@
+{
+  "export-002e707f15ca5995a14aa2c959aad434-glorp.res": {
+    "prop": "text",
+    "ko": "글로프"
+  },
+  "export-006b5b5e793a2946e47f54a4cfeebda9-number_2.res": {
+    "prop": "text",
+    "ko": "#2"
+  },
+  "export-00752c198ac338200630ded98bbb663c-stage_grass.res": {
+    "prop": "label",
+    "ko": "잔디 코트"
+  },
+  "export-008c35efc316a00b32d9439a097d6850-hologram.res": {
+    "prop": "label",
+    "ko": "홀로그램"
+  },
+  "export-009ff28ad762f7b6c2a56cfbb202ab73-fishbowl.res": {
+    "prop": "display_name",
+    "ko": "어항"
+  },
+  "export-014bf8530aaafeeae0ff31c247bdd134-royalcrown.res": {
+    "prop": "display_name",
+    "ko": "로열 왕관"
+  },
+  "export-0177bb46bd6bf4ab3f426695fc67ada3-virtual_reality.res": {
+    "prop": "text",
+    "ko": "가상현실"
+  },
+  "export-01841de80d783321f350d437e97a6e13-net_magnet.res": {
+    "prop": "text",
+    "ko": "네트 자석"
+  },
+  "export-01c984c403c16ee2f31cc7fc9be043d0-peachy.res": {
+    "prop": "text",
+    "ko": "상큼달콤"
+  },
+  "export-02efad24d9b32ea25d54ded5ef4b2075-facemask.res": {
+    "prop": "display_name",
+    "ko": "마스크"
+  },
+  "export-03c12ed647fb9c4d18df69b2fe69645c-ref.res": {
+    "prop": "text",
+    "ko": "심판"
+  },
+  "export-04f213d35e4e6382941a3d7e25820fe2-the_end.res": {
+    "prop": "text",
+    "ko": "끝"
+  },
+  "export-0538f316a5a3e2dd8855b518b54b7ca7-casual.res": {
+    "prop": "text",
+    "ko": "캐주얼"
+  },
+  "export-058e2a49accc3d28c095f8e5624e78df-bipolar.res": {
+    "prop": "text",
+    "ko": "감정 기복"
+  },
+  "export-067315a35a1467911d4b796b23ffeb87-time_traveler.res": {
+    "prop": "text",
+    "ko": "시간 여행자"
+  },
+  "export-0688cc8a7641b94e62d714bee14597a9-square_glasses.res": {
+    "prop": "display_name",
+    "ko": "사각 안경"
+  },
+  "export-06be8d1db3ef302bf864724817403cce-heartless.res": {
+    "prop": "text",
+    "ko": "냉혈한"
+  },
+  "export-06ca992a992b99bc6fd1a0818fa28c9e-flag_tr.res": {
+    "prop": "label",
+    "ko": "튀르키예 국기"
+  },
+  "export-074f72adab93bd2d27d1e05abbeba106-love.res": {
+    "prop": "text",
+    "ko": "사랑"
+  },
+  "export-084e5b11eb30965821b5343ba6f80bf7-machine.res": {
+    "prop": "text",
+    "ko": "머신"
+  },
+  "export-0863fc8cd7681fddd68c5dbf8094f8f3-gimmick.res": {
+    "prop": "text",
+    "ko": "기믹"
+  },
+  "export-08804bc99744fbf7d9a48ca6a208cdeb-gamer.res": {
+    "prop": "text",
+    "ko": "게이머"
+  },
+  "export-08e4d175cbd83366daa3901e5660df19-skill_gap.res": {
+    "prop": "text",
+    "ko": "실력 차이"
+  },
+  "export-091e7854f6209c5f47f3383b7ed5b90e-just_a_club.res": {
+    "prop": "text",
+    "ko": "그저 동아리"
+  },
+  "export-0a8ef67d7b5f0f0bce0d46087ec36ebb-anxious.res": {
+    "prop": "text",
+    "ko": "안절부절"
+  },
+  "export-0abbdaaab6528e4b17a2a2a8608bf4e7-jellohat.res": {
+    "prop": "display_name",
+    "ko": "젤리 모자"
+  },
+  "export-0abdd00bfba8b94c3679a3a5d3d27076-glitch.res": {
+    "prop": "label",
+    "ko": "글리치"
+  },
+  "export-0b2a6973f8f0ea0eacc46e8af59f9d21-stellar.res": {
+    "prop": "text",
+    "ko": "눈부신"
+  },
+  "export-0b4152b203cef3f3ed30fd7d5e93f771-dive_pro.res": {
+    "prop": "text",
+    "ko": "다이빙 장인"
+  },
+  "export-0bd0a7c5febee9c8fb0beee47cecdd2a-gomen.res": {
+    "prop": "text",
+    "ko": "고멘"
+  },
+  "export-0c830ee536b12b3063d5b7444cb119e5-genius.res": {
+    "prop": "text",
+    "ko": "천재"
+  },
+  "export-0cfde15eecdcc98092abd3f8973dfe21-my_time.res": {
+    "prop": "text",
+    "ko": "내 차례"
+  },
+  "export-0d4f231759af3895de4c8e7eb954cd8e-nose_bandage.res": {
+    "prop": "display_name",
+    "ko": "코 반창고"
+  },
+  "export-0e0c79bb9462b2ce54dbfcc4766e3369-getting_better.res": {
+    "prop": "text",
+    "ko": "성장 중"
+  },
+  "export-0e1b7e5abd86db32b76296b709a4ec46-flag_rs.res": {
+    "prop": "label",
+    "ko": "세르비아 국기"
+  },
+  "export-0eb0e9878fe36e0544502c5f6e423f92-flag_hu.res": {
+    "prop": "label",
+    "ko": "헝가리 국기"
+  },
+  "export-0ed8c63a382978df5abd803eeb99d761-wall_up.res": {
+    "prop": "text",
+    "ko": "철벽 방어"
+  },
+  "export-0f2a2ef66445204870a7067889e4f162-limit.res": {
+    "prop": "text",
+    "ko": "한계"
+  },
+  "export-0fec23b8bd66d76d126bfd8281b2983e-d1.res": {
+    "prop": "text",
+    "ko": "D1"
+  },
+  "export-104c2a9d805bde10fd388c56ddbdab9b-baka.res": {
+    "prop": "text",
+    "ko": "바카"
+  },
+  "export-105666e55a8a82f6ed00a6ecc3e257b3-angel.res": {
+    "prop": "text",
+    "ko": "천사"
+  },
+  "export-10604ac5eae0e7963a375eb76a4d0546-quick_attack.res": {
+    "prop": "text",
+    "ko": "속공"
+  },
+  "export-10dcb18d70e9580898ceeddda2749bda-stage_school.res": {
+    "prop": "label",
+    "ko": "학교 체육관"
+  },
+  "export-10fe0bece615388d70d8fa1fa7d6ddb9-supporter_scarf.res": {
+    "prop": "display_name",
+    "ko": "서포터 스카프"
+  },
+  "export-114aabf48f6acb34d9de2210997e337c-300.res": {
+    "prop": "text",
+    "ko": "300"
+  },
+  "export-11a04897be5e20bcde62b9c9f4ef372a-meow.res": {
+    "prop": "text",
+    "ko": "야옹"
+  },
+  "export-11b78404a5792dee64ef47440f8f8432-aubade.res": {
+    "prop": "display_name",
+    "ko": "오바드"
+  },
+  "export-11d39cc53815ea8f4dbcf54b4cbede5a-freedom.res": {
+    "prop": "text",
+    "ko": "자유"
+  },
+  "export-11f9832351b63ed2448b0148959ba362-plotting.res": {
+    "prop": "text",
+    "ko": "계략 중"
+  },
+  "export-11fb78212228a6f0e184cb31667350ca-flag_gb.res": {
+    "prop": "label",
+    "ko": "영국 국기"
+  },
+  "export-1215039f4f7898b437c4a4e813ef80c2-throw.res": {
+    "prop": "text",
+    "ko": "던짐"
+  },
+  "export-124e2bddc7977cd91e989290d31742c4-stage_beach.res": {
+    "prop": "label",
+    "ko": "해변"
+  },
+  "export-12ced064356a802cabf1bcdd5330169c-one_crazy_idea.res": {
+    "prop": "text",
+    "ko": "미친 발상 하나"
+  },
+  "export-12cee45606181214b1bd21bd3bcf81af-beanie.res": {
+    "prop": "display_name",
+    "ko": "비니"
+  },
+  "export-12e4a551ded9ff5ff8b23f3f7cf94a06-hey_hey_hey.res": {
+    "prop": "text",
+    "ko": "헤이 헤이 헤이!"
+  },
+  "export-137f4202e08934039c7144c32d36a3cd-egoist.res": {
+    "prop": "text",
+    "ko": "에고이스트"
+  },
+  "export-145011dce3b30e3d486c108e89296663-leader.res": {
+    "prop": "text",
+    "ko": "리더"
+  },
+  "export-1458883bfcf4a481e484b1c2174e1781-face_wink.res": {
+    "prop": "text",
+    "ko": ";)"
+  },
+  "export-14934021ea5ec9ee72f6a7978e8234b5-visor.res": {
+    "prop": "display_name",
+    "ko": "바이저"
+  },
+  "export-14bf21db039eaecdce9f3a920acc2564-shojo.res": {
+    "prop": "text",
+    "ko": "쇼죠"
+  },
+  "export-152a97b8c62e59e0e98754876e59368a-moe.res": {
+    "prop": "text",
+    "ko": "모에"
+  },
+  "export-1579449d6bc208121fb4831cadc74b44-astronauthelmet.res": {
+    "prop": "display_name",
+    "ko": "우주비행사 헬멧"
+  },
+  "export-157add5929aecf44a215c92b085078a2-queen_of_the_court.res": {
+    "prop": "text",
+    "ko": "코트의 여왕"
+  },
+  "export-15de48001c063e5356e8005b05a90711-flag_es.res": {
+    "prop": "label",
+    "ko": "스페인 국기"
+  },
+  "export-162afc274926ba8bf08f76f5d7325cd4-bunnybag.res": {
+    "prop": "display_name",
+    "ko": "토끼 가방"
+  },
+  "export-1654fec938b9a0e5e1680ebb8da16b33-san.res": {
+    "prop": "text",
+    "ko": "상"
+  },
+  "export-173879d4ecf8ee649470e8206b9266dd-black_flash.res": {
+    "prop": "text",
+    "ko": "검은 섬광"
+  },
+  "export-174a6b4f88414d1f4348ed4a0e85c5a0-outside_hitter.res": {
+    "prop": "text",
+    "ko": "아웃사이드 히터"
+  },
+  "export-177005e128341547d7079a77255e28a9-setter.res": {
+    "prop": "text",
+    "ko": "세터"
+  },
+  "export-17c8b1b6f6f7eb301ae3bd536275a568-smash_every_wall.res": {
+    "prop": "text",
+    "ko": "모든 벽을 부숴라"
+  },
+  "export-17caa1b1c8369eb8073b8b27ff498872-insane.res": {
+    "prop": "text",
+    "ko": "미쳤음"
+  },
+  "export-17d9aee56044ad3cc440952d61784e3f-curse.res": {
+    "prop": "text",
+    "ko": "저주"
+  },
+  "export-1816836a8456b78ade01309bb4dac1e1-stupid.res": {
+    "prop": "text",
+    "ko": "바보"
+  },
+  "export-181e740f8e679b0025a130d86c728f6a-undead.res": {
+    "prop": "text",
+    "ko": "언데드"
+  },
+  "export-1836e40a097ce6bdac8bb38bde6695d9-cat.res": {
+    "prop": "text",
+    "ko": "고양이"
+  },
+  "export-19be19f6605648fe583881edc2369e80-jokester.res": {
+    "prop": "text",
+    "ko": "장난꾸러기"
+  },
+  "export-19fcd5590cae513b0f0dc487c196d030-flag_nl.res": {
+    "prop": "label",
+    "ko": "네덜란드 국기"
+  },
+  "export-1ba70169a46edcee320f8563e112e269-romantic.res": {
+    "prop": "text",
+    "ko": "로맨틱"
+  },
+  "export-1bd15a713f9eb8a7e8d767df59d337ab-last_boss.res": {
+    "prop": "text",
+    "ko": "최종 보스"
+  },
+  "export-1c2a95b727e8f3b9781c93fc44c8f519-ball_boy.res": {
+    "prop": "text",
+    "ko": "볼보이"
+  },
+  "export-1c3bc32c8d1b99f5b1b5b2b14053ac83-regular.res": {
+    "prop": "text",
+    "ko": "주전"
+  },
+  "export-1c5379450010676d3413edec888abc41-spinny_hat.res": {
+    "prop": "display_name",
+    "ko": "프로펠러 모자"
+  },
+  "export-1c7977cae7c9f5216b04764d566a76a1-gym_rat.res": {
+    "prop": "text",
+    "ko": "체육관 죽돌이"
+  },
+  "export-1dcb79e6c16f68a1b775909119ee798d-fomo.res": {
+    "prop": "text",
+    "ko": "포모"
+  },
+  "export-1e1f797eff7f0b73cca3e93c3187cf01-nerd.res": {
+    "prop": "text",
+    "ko": "너드"
+  },
+  "export-1f68728858d6c51e5e5fd9bf755c64a2-libero.res": {
+    "prop": "text",
+    "ko": "리베로"
+  },
+  "export-1fffd875a2911d18f4fec3fde410e04f-jack_of_all.res": {
+    "prop": "text",
+    "ko": "팔방미인"
+  },
+  "export-2032b5f5d1fbbe7454066fc8f75c5626-mental.res": {
+    "prop": "text",
+    "ko": "멘탈"
+  },
+  "export-2035fbddd0705a0e76399598e53c0978-junkie.res": {
+    "prop": "text",
+    "ko": "중독자"
+  },
+  "export-207caebec8f43b7797373abb456c1595-watermellon.res": {
+    "prop": "display_name",
+    "ko": "수박 모자"
+  },
+  "export-2099cdeb40d5b98874babb28b4cb2fdc-token.res": {
+    "prop": "text",
+    "ko": "토큰"
+  },
+  "export-20ec240b18040e3a2dd29dda1b44e780-prodigy.res": {
+    "prop": "text",
+    "ko": "신동"
+  },
+  "export-21705210ada1fab9e5744dc914697202-quickster.res": {
+    "prop": "text",
+    "ko": "스피드스터"
+  },
+  "export-2177c7fabf7b8cf87330ad59394fc203-flag_it.res": {
+    "prop": "label",
+    "ko": "이탈리아 국기"
+  },
+  "export-21a3db4132404bd0c6285c6de1e7cdf3-sleekvisor.res": {
+    "prop": "display_name",
+    "ko": "날렵한 바이저"
+  },
+  "export-223a3d2f79b89fad0c252047d7afe831-four_eyes.res": {
+    "prop": "text",
+    "ko": "안경잡이"
+  },
+  "export-223e5e4626ef2efdf04016cf8e6aa749-number_6.res": {
+    "prop": "text",
+    "ko": "#6"
+  },
+  "export-22526e99db0c6dd62f4eac7789cf767e-flag_ua.res": {
+    "prop": "label",
+    "ko": "우크라이나 국기"
+  },
+  "export-22c8668ff1a8ad1b50191ebdfbbcd1f5-corny.res": {
+    "prop": "text",
+    "ko": "오글거림"
+  },
+  "export-22c9302460ffb526f8e673d36fb7bbc2-cool.res": {
+    "prop": "text",
+    "ko": "쿨함"
+  },
+  "export-22f4eee8f97c26394df2bc993bd2d85d-tuff.res": {
+    "prop": "text",
+    "ko": "터프"
+  },
+  "export-23128885a0b416825f380249c9d6ba78-coldcap.res": {
+    "prop": "display_name",
+    "ko": "겨울 모자"
+  },
+  "export-2324fad90b64aac23c17b99da1d19ca8-ego.res": {
+    "prop": "text",
+    "ko": "에고"
+  },
+  "export-236a03538639b44feceb7f05df2ca4c3-zen.res": {
+    "prop": "text",
+    "ko": "무아지경"
+  },
+  "export-236e2893cb7a26c6204185a2618c2c3d-tmko.res": {
+    "prop": "text",
+    "ko": "tmko"
+  },
+  "export-23d483416444aad967ccf25ebbc0b71d-rising_star.res": {
+    "prop": "text",
+    "ko": "라이징 스타"
+  },
+  "export-24530f5357db949d5bc19a6e792fe115-face_first.res": {
+    "prop": "text",
+    "ko": "얼굴부터"
+  },
+  "export-247f664117ab593f7b3550492e046458-shrimp.res": {
+    "prop": "text",
+    "ko": "새우"
+  },
+  "export-25264cd64a060308e8757a01f69cd401-bean.res": {
+    "prop": "text",
+    "ko": "콩"
+  },
+  "export-252d092a42703da9bf0ae0194492210e-actual_giant.res": {
+    "prop": "text",
+    "ko": "진짜 거인"
+  },
+  "export-259b68eb71228bd26c5b87eabbf4a8a2-clutz.res": {
+    "prop": "text",
+    "ko": "허당"
+  },
+  "export-273d722dd3cbe7fc6ff7469ff58880d0-champion.res": {
+    "prop": "text",
+    "ko": "챔피언"
+  },
+  "export-27d9ca759cd2e8ab838d3a291173c318-mid.res": {
+    "prop": "text",
+    "ko": "그저 그럼"
+  },
+  "export-286cadff7893f5b0306576d1d2182fa6-simple.res": {
+    "prop": "text",
+    "ko": "심플"
+  },
+  "export-2900b68aa657b559b6262a008e032a9b-fight.res": {
+    "prop": "text",
+    "ko": "파이팅"
+  },
+  "export-291230f8ded4e08b9048ea0e7ba94e6e-collector.res": {
+    "prop": "text",
+    "ko": "수집가"
+  },
+  "export-295862c2740bca8e57242754e2ab39fe-face_cat.res": {
+    "prop": "text",
+    "ko": ":3"
+  },
+  "export-2996478f8be3bc43502ae6e7ab1c4578-russia.res": {
+    "prop": "text",
+    "ko": "러시아"
+  },
+  "export-29bb2105664b8b7ec434741d9c6884d4-rival.res": {
+    "prop": "text",
+    "ko": "라이벌"
+  },
+  "export-29bd7039f65c45377433b144bbb338dd-kokusen.res": {
+    "prop": "text",
+    "ko": "흑섬"
+  },
+  "export-29c97d071e819cc99bfbd3a1b727ee7a-oomf.res": {
+    "prop": "text",
+    "ko": "맞팔 친구"
+  },
+  "export-2a3d095e168a7842222f9d2a6e0a0c3a-nice_serve.res": {
+    "prop": "text",
+    "ko": "나이스 서브!"
+  },
+  "export-2a42ee6e1d8b0de918ac67e29f730ce6-scarf.res": {
+    "prop": "display_name",
+    "ko": "스카프"
+  },
+  "export-2ab41f5874c558b6c395d4e9f4a84683-leap_of_faith.res": {
+    "prop": "text",
+    "ko": "믿음의 도약"
+  },
+  "export-2ace38c653889ccedc56f40f57560783-ez.res": {
+    "prop": "text",
+    "ko": "이지"
+  },
+  "export-2b224983bef0713a04fde2a0ccbd250d-opposite_hitter.res": {
+    "prop": "text",
+    "ko": "아포짓 히터"
+  },
+  "export-2b2f703758c48d826593b32e2acaafaf-duckbeak.res": {
+    "prop": "display_name",
+    "ko": "오리 부리"
+  },
+  "export-2b84883ae1758a019c30c448a86b8635-not_alone.res": {
+    "prop": "text",
+    "ko": "혼자가 아니야"
+  },
+  "export-2bac16fb33ec0a245edf465a19e36dd1-nostalgic.res": {
+    "prop": "text",
+    "ko": "노스탤지어"
+  },
+  "export-2bbd4c97d47aef404ac7decedfe20bf0-kbm.res": {
+    "prop": "text",
+    "ko": "키마"
+  },
+  "export-2be517cc8b09d9c3d9ead2bcd17684e2-impostor.res": {
+    "prop": "text",
+    "ko": "임포스터"
+  },
+  "export-2c6ecfee5d9f433a3af1ce97849d9ebb-kansai.res": {
+    "prop": "text",
+    "ko": "간사이"
+  },
+  "export-2c929345c0405151e8bd95712ec75d5e-flag_ar.res": {
+    "prop": "label",
+    "ko": "아르헨티나 국기"
+  },
+  "export-2d5260ecaea17bec64a4389e2280d436-underrated.res": {
+    "prop": "text",
+    "ko": "저평가된 고수"
+  },
+  "export-2d81d7733306de07e7d4d5953039d91b-black_sparks.res": {
+    "prop": "label",
+    "ko": "검은 불꽃"
+  },
+  "export-2d914e87c71edfa2d1672db9f063a195-kun.res": {
+    "prop": "text",
+    "ko": "군"
+  },
+  "export-2d9951978cc6eae3bd309b3dec2c7af4-planned.res": {
+    "prop": "text",
+    "ko": "계획대로"
+  },
+  "export-2df24e58a2b8b30b6333698b75a0e175-stand_proud.res": {
+    "prop": "text",
+    "ko": "자랑스럽게 여겨라"
+  },
+  "export-2e86b038ac6dd6037f211b7f591ccde4-alchemist.res": {
+    "prop": "text",
+    "ko": "연금술사"
+  },
+  "export-2eec8c62c638ba243f3dd06a2a4d5c0e-void.res": {
+    "prop": "text",
+    "ko": "공허"
+  },
+  "export-2f740db519d16159a785b3fe14079d41-batwings.res": {
+    "prop": "display_name",
+    "ko": "박쥐 날개"
+  },
+  "export-2fe4bdfd204ec5aac9ea9c6872bdcd9e-its_time.res": {
+    "prop": "text",
+    "ko": "때가 왔다"
+  },
+  "export-301bfc5c7162edfae3936b9d440a6f7f-halo.res": {
+    "prop": "display_name",
+    "ko": "천사 링"
+  },
+  "export-3044e5593cafdb28a356b3215ffd6c5f-trafficconehat.res": {
+    "prop": "display_name",
+    "ko": "라바콘"
+  },
+  "export-312d4e771a91d618d51fc9aaf24dce04-heavy_hitter.res": {
+    "prop": "text",
+    "ko": "강타자"
+  },
+  "export-31fa0e5f3102b5f00ed1688434cfcd97-chefhat.res": {
+    "prop": "display_name",
+    "ko": "요리사 모자"
+  },
+  "export-32395b3525158b14a621e5422521f4a8-weak.res": {
+    "prop": "text",
+    "ko": "약함"
+  },
+  "export-32a083e9f5e552e9f4a7af5b187aa39f-sharpshooter.res": {
+    "prop": "text",
+    "ko": "명사수"
+  },
+  "export-32f1eb714220d829ec1ce8e1a05f0418-defensive_specialist.res": {
+    "prop": "text",
+    "ko": "수비 스페셜리스트"
+  },
+  "export-3369309d2fbda3fdbff1c8c8a792b52b-pixel.res": {
+    "prop": "label",
+    "ko": "8비트"
+  },
+  "export-33a3862880c1e510ae0bc1bb829b1299-brazil.res": {
+    "prop": "text",
+    "ko": "브라질"
+  },
+  "export-33b235d63d2c4cffd6fba1898bd036b3-sweetheart.res": {
+    "prop": "text",
+    "ko": "사랑둥이"
+  },
+  "export-33f0e7d14d6f360a7aba4c6dc0f02eb4-heist.res": {
+    "prop": "text",
+    "ko": "하이스트"
+  },
+  "export-340818afcf108ceef08af56ab4f02ad0-random.res": {
+    "prop": "text",
+    "ko": "랜덤"
+  },
+  "export-346a3db65a9beb14ac705912cf1af9c6-specs.res": {
+    "prop": "text",
+    "ko": "안경"
+  },
+  "export-34b9cf5d04fc195996ea73c5c2b537f5-flag_br.res": {
+    "prop": "label",
+    "ko": "브라질 국기"
+  },
+  "export-351670771cadb834e3967424ba35424e-supporter_pack.res": {
+    "prop": "text",
+    "ko": "서포터"
+  },
+  "export-35c10ac0b2e8069906c63872116e0cf3-tomodachi.res": {
+    "prop": "text",
+    "ko": "토모다치"
+  },
+  "export-35f280513fc34fd18807543f848cceca-flag_ru.res": {
+    "prop": "label",
+    "ko": "러시아 국기"
+  },
+  "export-3654b6b142f0602595a0c2cbe9ce948b-number_7.res": {
+    "prop": "text",
+    "ko": "#7"
+  },
+  "export-370a5612fc88957f4354069633fd5c22-unleashed.res": {
+    "prop": "text",
+    "ko": "봉인 해제"
+  },
+  "export-372a68648d3bd4b15a2657eb272ed42b-greatest_decoy.res": {
+    "prop": "text",
+    "ko": "최강의 미끼"
+  },
+  "export-373a80cfac30dbf1402f41098ef136c2-pure.res": {
+    "prop": "text",
+    "ko": "순수"
+  },
+  "export-37d7ef721b35a8cfdb0d976614bf492d-flag_jp.res": {
+    "prop": "label",
+    "ko": "일본 국기"
+  },
+  "export-37ed35a8505b707c741ff32985daef6b-panic_diver.res": {
+    "prop": "text",
+    "ko": "패닉 다이버"
+  },
+  "export-3826d15541bd83726a005c7becde73d9-downloaded.res": {
+    "prop": "text",
+    "ko": "다운로드 완료"
+  },
+  "export-38d2ee6acccb232f0e867cabc3905e28-nice_receive.res": {
+    "prop": "text",
+    "ko": "나이스 리시브"
+  },
+  "export-390a7b236dfc9e5ad2e2423f48cf51ac-number_8.res": {
+    "prop": "text",
+    "ko": "#8"
+  },
+  "export-39165a738643026406a5785e1f49ca5a-hey_lol.res": {
+    "prop": "text",
+    "ko": "안녕 ㅋㅋ"
+  },
+  "export-3a2f80f99c1d28ab26563b6c996a565f-punk_glasses.res": {
+    "prop": "display_name",
+    "ko": "펑크 안경"
+  },
+  "export-3a70e2e9d1957f4739f4959c2e3a0b61-dead.res": {
+    "prop": "text",
+    "ko": "사망"
+  },
+  "export-3aa4aa8defaf66a0d9ba88577cbaa296-dayo.res": {
+    "prop": "text",
+    "ko": "다요"
+  },
+  "export-3af6688f87593ffadf3fb628620cbc7a-devoted.res": {
+    "prop": "text",
+    "ko": "진심인 편"
+  },
+  "export-3b02f640d798599a7fd151339a94d607-looking_up.res": {
+    "prop": "text",
+    "ko": "위를 보며"
+  },
+  "export-3b7aa65f8ec5feea43d8128969823e2c-neko.res": {
+    "prop": "text",
+    "ko": "네코"
+  },
+  "export-3c6b317975e380b8b904a54215256b60-from_the_concrete.res": {
+    "prop": "text",
+    "ko": "콘크리트 출신"
+  },
+  "export-3d495b84cab51ea5d0b57db8c538b95e-applebeanie.res": {
+    "prop": "display_name",
+    "ko": "사과 비니"
+  },
+  "export-3d7f677b37ed10e1aa5e5a4a0eba0796-destiny.res": {
+    "prop": "text",
+    "ko": "운명"
+  },
+  "export-3e1faa9fb5f9907babb89197886012f9-usa.res": {
+    "prop": "text",
+    "ko": "미국"
+  },
+  "export-3e5574d17ed3537d56c64431510432cb-fluffy.res": {
+    "prop": "text",
+    "ko": "복슬복슬"
+  },
+  "export-3e6c7f1eee86bd2425878e462ad60ca4-mad.res": {
+    "prop": "text",
+    "ko": "열받음"
+  },
+  "export-3e72e09cabcc29b21016907a66893a46-new_frontier.res": {
+    "prop": "text",
+    "ko": "새로운 개척지"
+  },
+  "export-3e9974f3c229e261df7d38ba29c52b15-patient.res": {
+    "prop": "text",
+    "ko": "인내심"
+  },
+  "export-3fa9134ccfa851db37d1752d21f52021-drip.res": {
+    "prop": "text",
+    "ko": "간지"
+  },
+  "export-3fc5ca8af9d67d7e887d87522737fc0a-bashful.res": {
+    "prop": "text",
+    "ko": "수줍음"
+  },
+  "export-3fe42aed874286d879fd1eedd0a53c18-money_spread.res": {
+    "prop": "text",
+    "ko": "돈 플렉스"
+  },
+  "export-407a105126665fc19df79196adc22ae3-spiker.res": {
+    "prop": "text",
+    "ko": "스파이커"
+  },
+  "export-40b5a282ad97152ee13ef985cf42f728-free_time.res": {
+    "prop": "text",
+    "ko": "자유 시간"
+  },
+  "export-428ddb26760cce6803fa495e0ee5e96c-d2.res": {
+    "prop": "text",
+    "ko": "D2"
+  },
+  "export-42e7d804f7e5016d381924d0c81d83a5-worth.res": {
+    "prop": "text",
+    "ko": "이득"
+  },
+  "export-433726e2c5f622fa87fd9e540d903d46-captain.res": {
+    "prop": "text",
+    "ko": "주장"
+  },
+  "export-435dc9cd3e77ea8436bb34b3157d3f86-wallbreaker.res": {
+    "prop": "text",
+    "ko": "철벽 파괴자"
+  },
+  "export-43ddfc6229fcc768842038c7eca0116b-shine.res": {
+    "prop": "text",
+    "ko": "반짝임"
+  },
+  "export-445ac1ee74bb034cff60965c2aa47d4a-chibi.res": {
+    "prop": "text",
+    "ko": "치비"
+  },
+  "export-44b263fe24125cc8bbb69ca345052b1f-stage_clouds.res": {
+    "prop": "label",
+    "ko": "구름"
+  },
+  "export-44f8fbda354da2e9b1ff3670db2742b5-chosen_one.res": {
+    "prop": "text",
+    "ko": "선택받은 자"
+  },
+  "export-455697f6b7366db0ac45aea6766553d2-liar.res": {
+    "prop": "text",
+    "ko": "거짓말쟁이"
+  },
+  "export-457c0eff8577a87dab24e3bdde8fd0d3-freak.res": {
+    "prop": "text",
+    "ko": "괴짜"
+  },
+  "export-4608771b116def5239ab5fe6baf5ad47-l_mans.res": {
+    "prop": "text",
+    "ko": "민폐남"
+  },
+  "export-46092d94e5aba78f18ce59d981b41b06-joy.res": {
+    "prop": "text",
+    "ko": "기쁨"
+  },
+  "export-461dc25d97319673590eee4bf50b9177-washed.res": {
+    "prop": "text",
+    "ko": "한물간"
+  },
+  "export-464581ce36910af67fb35e65c678a483-crow.res": {
+    "prop": "text",
+    "ko": "까마귀"
+  },
+  "export-46d16dd1551e41f507e55f7b9d656938-diva.res": {
+    "prop": "text",
+    "ko": "디바"
+  },
+  "export-475411b6be22c03e5b664eb87286c16f-number_3.res": {
+    "prop": "text",
+    "ko": "#3"
+  },
+  "export-475c5fd8b00e46545cc42ff541445d45-the_beginning.res": {
+    "prop": "text",
+    "ko": "시작"
+  },
+  "export-476e1b1ccae1f39fa19082821458190d-free_to_play.res": {
+    "prop": "text",
+    "ko": "무과금"
+  },
+  "export-47a19f1ca1fd8b8da814a460f00e3299-showstopper.res": {
+    "prop": "text",
+    "ko": "쇼스토퍼"
+  },
+  "export-47ac97ce10dd470de262e3e06f0a800b-freeze.res": {
+    "prop": "text",
+    "ko": "얼음"
+  },
+  "export-482d34053aad958eb1da8f2899ebf4fc-peak.res": {
+    "prop": "text",
+    "ko": "전성기"
+  },
+  "export-48535804a31b323d0757f9edb6c20b8b-wasd.res": {
+    "prop": "text",
+    "ko": "WASD"
+  },
+  "export-48582c958018086734c48fd2ba0a03a6-poland.res": {
+    "prop": "text",
+    "ko": "폴란드"
+  },
+  "export-48690e8386c2d366e75658cfa2d7023b-its_just_volleyball.res": {
+    "prop": "text",
+    "ko": "그저 배구일 뿐"
+  },
+  "export-487d9888687e3d275c8eafcaefdda241-godot.res": {
+    "prop": "text",
+    "ko": "고도"
+  },
+  "export-4911cf7d236c9cbbe4bdedc9f037ca1b-pretty.res": {
+    "prop": "text",
+    "ko": "예쁨"
+  },
+  "export-4917d863af32f5f8142693cc8d16fd5f-the_ace.res": {
+    "prop": "text",
+    "ko": "에이스"
+  },
+  "export-498a74f44bb0fb80827a7224ce4f2977-hero.res": {
+    "prop": "text",
+    "ko": "영웅"
+  },
+  "export-49a4cf243dc63c69c07d20fe7380c322-pinch_server.res": {
+    "prop": "text",
+    "ko": "핀치 서버"
+  },
+  "export-49ffb59d31607dab7eb349686680fbb0-butterflywings.res": {
+    "prop": "display_name",
+    "ko": "나비 날개"
+  },
+  "export-4a6d3aff5f405ce6d75aee71e0207309-rookie.res": {
+    "prop": "text",
+    "ko": "루키"
+  },
+  "export-4b692cb70cb05430f938f7519c3870b6-court_king.res": {
+    "prop": "text",
+    "ko": "코트의 제왕"
+  },
+  "export-4b8ba91bddfa2272ab6e64bdf38857a5-wholesome.res": {
+    "prop": "text",
+    "ko": "훈훈함"
+  },
+  "export-4b8c8fcd9e9bced385f77b40357cee83-bored.res": {
+    "prop": "text",
+    "ko": "심심함"
+  },
+  "export-4c07365b3f38ee23a04f7db56d9e9b69-noob.res": {
+    "prop": "text",
+    "ko": "뉴비"
+  },
+  "export-4c12ffded3e6588b707d083b1f3b5b31-m2_spam.res": {
+    "prop": "text",
+    "ko": "우클릭 난사"
+  },
+  "export-4c160379aa810c5eeb107f916fc92bc6-mom.res": {
+    "prop": "text",
+    "ko": "엄마"
+  },
+  "export-4c79c29e792aef4d0b747e82c8930940-legend.res": {
+    "prop": "text",
+    "ko": "전설"
+  },
+  "export-4c83167986515491fa1003bca76c991c-silly.res": {
+    "prop": "text",
+    "ko": "엉뚱함"
+  },
+  "export-4c8a83e31af1e0a0c3b6d86e477aaf4a-tutorial.res": {
+    "prop": "text",
+    "ko": "튜토리얼"
+  },
+  "export-4d4573bc11474f3f84c2d386f209a5e1-lion.res": {
+    "prop": "text",
+    "ko": "사자"
+  },
+  "export-4e1e5ff73b3b66f674ca36dd0c0d64fa-goat.res": {
+    "prop": "text",
+    "ko": "GOAT"
+  },
+  "export-4e5133eeb232516b778f9370aeb90b96-im_here.res": {
+    "prop": "text",
+    "ko": "내가 왔다"
+  },
+  "export-4f2b67f04b90406bbf63ebb5722b7103-stutter.res": {
+    "prop": "text",
+    "ko": "버벅임"
+  },
+  "export-4f8c60e0bae8ac7aad757c6b842ec84c-shadow.res": {
+    "prop": "text",
+    "ko": "그림자"
+  },
+  "export-4f9cd1917cb73c69c6e4a219b48a613a-reincarnated.res": {
+    "prop": "text",
+    "ko": "환생"
+  },
+  "export-4fb3eaa4584044f86ea81f9fafba923a-simple_volleyball.res": {
+    "prop": "text",
+    "ko": "단순한 배구"
+  },
+  "export-5120950837982a0adc0b881717b009b3-heart.res": {
+    "prop": "text",
+    "ko": "하트"
+  },
+  "export-5135ea0631ac4d70e7f9c912329e5c52-controller_player.res": {
+    "prop": "text",
+    "ko": "패드 유저"
+  },
+  "export-51c96e07474060e8514ef11275076774-gamer_mom.res": {
+    "prop": "text",
+    "ko": "게이머 엄마"
+  },
+  "export-51f6fab31ca6679354e7a350afca19bf-stage_outer_space.res": {
+    "prop": "label",
+    "ko": "우주"
+  },
+  "export-52649b85ddeaac635492d08f16c853b5-connections.res": {
+    "prop": "text",
+    "ko": "인연"
+  },
+  "export-539a82c7c17de9c92e4fede1a9dd7645-unpredictable.res": {
+    "prop": "text",
+    "ko": "예측 불가"
+  },
+  "export-5494ee8ae76b4e11e0ea569a562f816f-silly_goose.res": {
+    "prop": "text",
+    "ko": "바보 거위"
+  },
+  "export-5582353345082918acb4ce186d629b1f-little_giant.res": {
+    "prop": "text",
+    "ko": "작은 거인"
+  },
+  "export-5598aedea6727dfd4394312a774c1aab-hikikomori.res": {
+    "prop": "text",
+    "ko": "히키코모리"
+  },
+  "export-559dad78ecf508f78a58413b636dc7d5-warm_up.res": {
+    "prop": "text",
+    "ko": "몸 풀기"
+  },
+  "export-55ac6b7f7b519271ffe3e6821420a69e-assassin.res": {
+    "prop": "text",
+    "ko": "암살자"
+  },
+  "export-5729e4e8b184323de91632174d462b7c-tokyo.res": {
+    "prop": "text",
+    "ko": "도쿄"
+  },
+  "export-58477a30487cd6c94465f85ebfa51349-one_man_army.res": {
+    "prop": "text",
+    "ko": "일당백"
+  },
+  "export-58bb3c954a4d4b72c7207bf5d79e1441-backscythe.res": {
+    "prop": "display_name",
+    "ko": "등에 멘 낫"
+  },
+  "export-58c0f61501bb9f6a0abd65ca2fd053ce-sunflowerhead.res": {
+    "prop": "display_name",
+    "ko": "해바라기"
+  },
+  "export-596c702a13fcdbf29170bfc4bddbc79f-volleyball.res": {
+    "prop": "text",
+    "ko": "배구"
+  },
+  "export-598e0552dcf4525956f4db080aa16417-believer.res": {
+    "prop": "text",
+    "ko": "믿는 자"
+  },
+  "export-59915d177af395bf0cf071a418176e73-flag_cn.res": {
+    "prop": "label",
+    "ko": "중국 국기"
+  },
+  "export-59950cf6c7374efdf85dd733b3df486e-flag_pl.res": {
+    "prop": "label",
+    "ko": "폴란드 국기"
+  },
+  "export-5ad9f847ff0eb6793a382aa0c77397a4-star.res": {
+    "prop": "text",
+    "ko": "스타"
+  },
+  "export-5afa4c8c5929657c686c16870a52f2f3-unlucky.res": {
+    "prop": "text",
+    "ko": "불운아"
+  },
+  "export-5c0459d40ddf8e3cd1dc6e661be4c0c8-goofball.res": {
+    "prop": "text",
+    "ko": "개구쟁이"
+  },
+  "export-5c7643a3069f027bbb866f0d95f742ae-beautiful.res": {
+    "prop": "text",
+    "ko": "아름다움"
+  },
+  "export-5cac5abc09c5e803444492301029a623-pieces_of_powder.res": {
+    "prop": "text",
+    "ko": "가루 조각"
+  },
+  "export-5cb9e0186fa1f7855b1be462b403fae2-goofy.res": {
+    "prop": "text",
+    "ko": "얼빠진"
+  },
+  "export-5db6045dba1a2afdb81dc4ab4641b654-quick_merchant.res": {
+    "prop": "text",
+    "ko": "속공 장인"
+  },
+  "export-5e0510fa29c8c45b3a799bb89fd907e1-japan.res": {
+    "prop": "text",
+    "ko": "일본"
+  },
+  "export-5e076755b6e3e09cc019d8725e802990-infinity.res": {
+    "prop": "text",
+    "ko": "무한"
+  },
+  "export-5f137cda614f54f399aa831929396d01-creator.res": {
+    "prop": "text",
+    "ko": "제작자"
+  },
+  "export-5f2196ff767de78b39fe821f3a7d5ae7-hunger.res": {
+    "prop": "text",
+    "ko": "굶주림"
+  },
+  "export-5f6e995d158631d43e06296b32d99f25-chitterputt.res": {
+    "prop": "text",
+    "ko": "ChitterPutt"
+  },
+  "export-5f807d8779db5a1ea8b85eb4a08b9bf3-motion_controls.res": {
+    "prop": "text",
+    "ko": "모션 컨트롤"
+  },
+  "export-60deec8c8b98c449e160b7e07ce8c323-curse.res": {
+    "prop": "label",
+    "ko": "저주"
+  },
+  "export-60f42df705e891a6d22153b9f52bb6d3-face_happy.res": {
+    "prop": "text",
+    "ko": "^_^"
+  },
+  "export-625b66d56b79e88b01fcea5040c3e8e6-iron_wall.res": {
+    "prop": "text",
+    "ko": "철벽"
+  },
+  "export-6267d478229431d4fb301e4f5ea0abce-animal.res": {
+    "prop": "text",
+    "ko": "야수"
+  },
+  "export-62c576f5f5f73cc367e18aae77f06ffc-dont_look_down.res": {
+    "prop": "text",
+    "ko": "아래를 보지 마"
+  },
+  "export-62d413efe06c0290a955435b801fdca3-tea_time.res": {
+    "prop": "text",
+    "ko": "티타임"
+  },
+  "export-6324d3c84b4764cb3112fb278c3b7fab-desperate.res": {
+    "prop": "text",
+    "ko": "필사적"
+  },
+  "export-63353cd4fb65afede2d0223deb47f4f0-full_metal.res": {
+    "prop": "text",
+    "ko": "강철"
+  },
+  "export-63468cca02f9384d912c578d9475bf01-rainbowtophat.res": {
+    "prop": "display_name",
+    "ko": "무지개 실크햇"
+  },
+  "export-6395228d030d728261fda7cc17c82abd-nobody.res": {
+    "prop": "text",
+    "ko": "무명"
+  },
+  "export-639f08348b8f3c88482222b98c02b19e-wonder.res": {
+    "prop": "text",
+    "ko": "경이"
+  },
+  "export-63b0605a4b9e986d4cea2157e90db605-fryingpothat.res": {
+    "prop": "display_name",
+    "ko": "냄비 모자"
+  },
+  "export-63b1a8ed65f54db15dddae2c18b69363-owo.res": {
+    "prop": "text",
+    "ko": "owo"
+  },
+  "export-63e54243b62932a21b7109cecfba58c2-gifted.res": {
+    "prop": "text",
+    "ko": "재능충"
+  },
+  "export-649b06e931894c65eea8b2c11135a98d-full_power.res": {
+    "prop": "text",
+    "ko": "풀 파워"
+  },
+  "export-649d366aff946abb5477b4f5e62080c5-rolling_thunder.res": {
+    "prop": "text",
+    "ko": "롤링 썬더"
+  },
+  "export-64aea8aabaa8920fa4704aadc9200bb8-finally_here.res": {
+    "prop": "text",
+    "ko": "드디어 왔다"
+  },
+  "export-64d0f0c6493b7dc47aa0ddcac120a722-china.res": {
+    "prop": "text",
+    "ko": "중국"
+  },
+  "export-65390a77d6b9477de80b5cae8912f69a-one_for_all.res": {
+    "prop": "text",
+    "ko": "원 포 올"
+  },
+  "export-6560366cf516784a3b032d75810e7301-im_better.res": {
+    "prop": "text",
+    "ko": "내가 더 잘함"
+  },
+  "export-66220bbfbe256309f1b0de17d0747bc8-daydreamer.res": {
+    "prop": "text",
+    "ko": "몽상가"
+  },
+  "export-66386a041c4cc24d76493aea1817f772-mlgglasses.res": {
+    "prop": "display_name",
+    "ko": "MLG 선글라스"
+  },
+  "export-667f9e940083da95db5c62aba6579c76-blockhat.res": {
+    "prop": "display_name",
+    "ko": "블록 모자"
+  },
+  "export-66f7ddcae72d1300b0b96dcc72b2f59e-pathetic.res": {
+    "prop": "text",
+    "ko": "한심"
+  },
+  "export-673c61b5dea183787cb1aa890ce7c488-corner_merchant.res": {
+    "prop": "text",
+    "ko": "구석 장인"
+  },
+  "export-679849c25b85b4b68ec439cc371775df-fangirl.res": {
+    "prop": "text",
+    "ko": "소녀 팬"
+  },
+  "export-6804d7432644914f9cb029fd8f097fca-supporter_cape.res": {
+    "prop": "display_name",
+    "ko": "서포터 망토"
+  },
+  "export-681f76c1d6d61c09a3482e8e30fcbecf-buckethat.res": {
+    "prop": "display_name",
+    "ko": "버킷햇"
+  },
+  "export-6893db6b7df247a247bce994e100024e-overthinker.res": {
+    "prop": "text",
+    "ko": "생각 과다"
+  },
+  "export-68ccef8e0925c56a241bed8564a5f656-senpai.res": {
+    "prop": "text",
+    "ko": "센파이"
+  },
+  "export-68f5482cf8e366f41b1a7521515dd205-face_stare.res": {
+    "prop": "text",
+    "ko": "O_O"
+  },
+  "export-691149cf0d02930fb6457f26419ba497-promise.res": {
+    "prop": "text",
+    "ko": "약속"
+  },
+  "export-691bbe0c090adc3f833aeb0ded9debc5-all_for_one.res": {
+    "prop": "text",
+    "ko": "올 포 원"
+  },
+  "export-6a0395a236074dc014dbb31e526515b6-motion.res": {
+    "prop": "text",
+    "ko": "기세"
+  },
+  "export-6a05f29ddeea8e08217d3d8fb11198f7-outdoors_volleyball.res": {
+    "prop": "text",
+    "ko": "야외 배구"
+  },
+  "export-6a1797214b8dfa2a65bc230e4578701d-always_look_up.res": {
+    "prop": "text",
+    "ko": "항상 위를 향해"
+  },
+  "export-6b5c235e872bfa17d83e2c4f044bb266-fries.res": {
+    "prop": "text",
+    "ko": "감자튀김"
+  },
+  "export-6bd98f56619de4bd672f2aacd58207aa-big_body.res": {
+    "prop": "text",
+    "ko": "거구"
+  },
+  "export-6bf0dfcd3335fc06b3f2109f236df91d-diver.res": {
+    "prop": "text",
+    "ko": "다이버"
+  },
+  "export-6c6ef06a7dc3cccb2d97ea4b90bc5033-locked_in.res": {
+    "prop": "text",
+    "ko": "초집중"
+  },
+  "export-6ca957c4f09ce264475eab9213bf86a5-alpha_playtester.res": {
+    "prop": "text",
+    "ko": "알파 테스터"
+  },
+  "export-6cb60cf32ee43f275453aa046227e7db-key.res": {
+    "prop": "display_name",
+    "ko": "열쇠"
+  },
+  "export-6d2a428da4423653604e600ad837110b-fire.res": {
+    "prop": "text",
+    "ko": "불꽃"
+  },
+  "export-6d7a0b359f5d6f6862dd005de4979972-confident.res": {
+    "prop": "text",
+    "ko": "자신만만"
+  },
+  "export-6eae9da9c50cacbce3fe00a202e71f97-stage_nationals.res": {
+    "prop": "label",
+    "ko": "전국 대회 아레나"
+  },
+  "export-6f4e30cef1e88ae45544cae014043157-clutch.res": {
+    "prop": "text",
+    "ko": "클러치"
+  },
+  "export-6f6322a9ee42cdca1d68de89e205312a-they.res": {
+    "prop": "text",
+    "ko": "그들"
+  },
+  "export-71281d0bb9dd16585cd62c1d67209ef3-the_honored_one.res": {
+    "prop": "text",
+    "ko": "유아독존"
+  },
+  "export-71df6e9ef5c4169502cd7e8664361b96-back_and_forth.res": {
+    "prop": "text",
+    "ko": "엎치락뒤치락"
+  },
+  "export-72489acf99ab45dfda9abfd1438b82f7-knight.res": {
+    "prop": "display_name",
+    "ko": "기사"
+  },
+  "export-7278ff67e3d10ec6811eff25acf7ce5e-twin.res": {
+    "prop": "text",
+    "ko": "쌍둥이"
+  },
+  "export-72e783ca474419e568eaeb8f581bae72-number_4.res": {
+    "prop": "text",
+    "ko": "#4"
+  },
+  "export-73016de3acf3942d481a301c8246319c-number_5.res": {
+    "prop": "text",
+    "ko": "#5"
+  },
+  "export-7331592f321cbf5faaf25ca77bfb7af9-xd.res": {
+    "prop": "text",
+    "ko": "XD"
+  },
+  "export-737b656fc09c3e67b255fbc71e6552a6-dark.res": {
+    "prop": "text",
+    "ko": "어둠"
+  },
+  "export-73c60eb40b4fe58e950e06fcda2f6132-hammer_time.res": {
+    "prop": "text",
+    "ko": "해머 타임"
+  },
+  "export-7477acf1a093b3221f667d770ac5ab23-effort.res": {
+    "prop": "text",
+    "ko": "노력"
+  },
+  "export-74852b26151a6e4bb49de46c2466d84d-gamer_dad.res": {
+    "prop": "text",
+    "ko": "게이머 아빠"
+  },
+  "export-748e100ed05786c2e2505a14871fc19e-enthusiast.res": {
+    "prop": "text",
+    "ko": "마니아"
+  },
+  "export-759c73e5bf5330809ec776f962fe67b1-serbia.res": {
+    "prop": "text",
+    "ko": "세르비아"
+  },
+  "export-75aea63f8f1d6cf74b91741051db2836-orangebeanie.res": {
+    "prop": "display_name",
+    "ko": "주황색 비니"
+  },
+  "export-761e2408adc5f11115f02c75d6046813-mobile_player.res": {
+    "prop": "text",
+    "ko": "모바일 유저"
+  },
+  "export-76f7c59a2149e845b12e6da7bb3f8b4e-madness.res": {
+    "prop": "text",
+    "ko": "광기"
+  },
+  "export-7734bbaa399b8babf6d5e3f2c77fc39d-talented.res": {
+    "prop": "text",
+    "ko": "다재다능"
+  },
+  "export-77d18c5b8ae6ce801a759140d2934f45-bam.res": {
+    "prop": "text",
+    "ko": "쾅!"
+  },
+  "export-77d57d3aa1d099d1388356c90146f219-menace.res": {
+    "prop": "text",
+    "ko": "악동"
+  },
+  "export-78b609d3d6bf9b5b33134e23b139ebbf-avenger.res": {
+    "prop": "text",
+    "ko": "복수자"
+  },
+  "export-7900feaabbc1be812ba911894879a27f-lucky.res": {
+    "prop": "text",
+    "ko": "행운아"
+  },
+  "export-79bc63764d3b68e6b83e56771f9d5744-nah_id_win.res": {
+    "prop": "text",
+    "ko": "아니, 내가 이겨"
+  },
+  "export-79fd3c6c2cec8f8bcc5a25ad21c3a406-sports_fan.res": {
+    "prop": "text",
+    "ko": "스포츠 팬"
+  },
+  "export-7b00f662641f968f3b8350ceb8ab7dd1-best_girl.res": {
+    "prop": "text",
+    "ko": "최고의 소녀"
+  },
+  "export-7ba68ecf883e15de9cd86e77baa31053-life_line.res": {
+    "prop": "text",
+    "ko": "생명줄"
+  },
+  "export-7c017374d2e754302d417c1773137923-sweat.res": {
+    "prop": "text",
+    "ko": "땀범벅"
+  },
+  "export-7c50676404bedb715b3079739587fab9-shut_in.res": {
+    "prop": "text",
+    "ko": "집콕러"
+  },
+  "export-7c73367ea1a517f893a839c59d17382c-winner.res": {
+    "prop": "text",
+    "ko": "승자"
+  },
+  "export-7cbfb2f1f41b1f46a4e82f745c0b006b-wings.res": {
+    "prop": "display_name",
+    "ko": "날개"
+  },
+  "export-7cd0bc7c36c99b6ce479fcc34125c96c-friend.res": {
+    "prop": "text",
+    "ko": "친구"
+  },
+  "export-7cddf445179f6d10db9536eecb894fb5-mouseear.res": {
+    "prop": "display_name",
+    "ko": "생쥐 귀"
+  },
+  "export-7ce26ec55ebbe83849f4d0df41ae80e9-team_player.res": {
+    "prop": "text",
+    "ko": "팀 플레이어"
+  },
+  "export-7cf3a0dbb4e66a1baf598f9a0f858082-chan.res": {
+    "prop": "text",
+    "ko": "~짱"
+  },
+  "export-7f02fc6ab3e9d6c319573a7d098cf638-bouncy.res": {
+    "prop": "label",
+    "ko": "통통"
+  },
+  "export-7f2b3788edac3bfd1cc265297de73154-my_story.res": {
+    "prop": "text",
+    "ko": "나의 이야기"
+  },
+  "export-7fe80493611d4be8323df4a921ced490-stars.res": {
+    "prop": "label",
+    "ko": "우주"
+  },
+  "export-800e1e9bb2871e489b47854daa487aa2-dreamy.res": {
+    "prop": "text",
+    "ko": "몽환적인"
+  },
+  "export-80a7f4f7be7223c2601e4dcee96ffab5-her.res": {
+    "prop": "text",
+    "ko": "그녀"
+  },
+  "export-80e46a80e51a5341178e6487011dbaf5-tobe.res": {
+    "prop": "text",
+    "ko": "날아라"
+  },
+  "export-8106219e8be582628aadfc04fdccc85c-annoying.res": {
+    "prop": "text",
+    "ko": "얄미운"
+  },
+  "export-8147ac9e1ef29b61740082f175a3c03b-chopped.res": {
+    "prop": "text",
+    "ko": "폭망"
+  },
+  "export-819d4bf2eb2c120142d37cb95820f933-football.res": {
+    "prop": "text",
+    "ko": "미식축구"
+  },
+  "export-81a595ae4e62fb42555e1c561a4cf3d9-dont_mind.res": {
+    "prop": "text",
+    "ko": "신경 쓰지 마"
+  },
+  "export-81cca9021279129f24b811581d404cfe-stage_practice.res": {
+    "prop": "label",
+    "ko": "연습 체육관"
+  },
+  "export-81ff4d4873525c18d2ca6664fe9a6eca-sensei.res": {
+    "prop": "text",
+    "ko": "선생님"
+  },
+  "export-8203d5c7be119af446cb2c0e40a974f5-employed.res": {
+    "prop": "text",
+    "ko": "직장인"
+  },
+  "export-8270bd3abf907b755589e7141d47feff-rally.res": {
+    "prop": "text",
+    "ko": "랠리"
+  },
+  "export-830c947d5b36eb12814e85877e9fd9f5-swag.res": {
+    "prop": "text",
+    "ko": "스웨그"
+  },
+  "export-8327e615741451d3baf1e72cb62beccc-cutie.res": {
+    "prop": "text",
+    "ko": "귀요미"
+  },
+  "export-83c112255d1712fad2351bbb852b0088-anime.res": {
+    "prop": "text",
+    "ko": "애니"
+  },
+  "export-841aabd05a039421e18770c74abb8fa5-blooming_talent.res": {
+    "prop": "text",
+    "ko": "피어나는 재능"
+  },
+  "export-846412dc59a80a2ca87bf6701e024361-snailhat.res": {
+    "prop": "display_name",
+    "ko": "달팽이 모자"
+  },
+  "export-8494d6de7b28d022abb7895c2c8bdbf7-evolution.res": {
+    "prop": "text",
+    "ko": "진화"
+  },
+  "export-84dfde0646c51b43ce8ba38d8c4a38a0-camo.res": {
+    "prop": "label",
+    "ko": "카모"
+  },
+  "export-850f2884c19fe17d947dac9aab16bc05-godspeed.res": {
+    "prop": "text",
+    "ko": "신의 속도"
+  },
+  "export-851f4803dd0c6c9222278caf932d71f3-dork.res": {
+    "prop": "text",
+    "ko": "허당"
+  },
+  "export-8561ee7ea47e21d156d0322f3e6beb7a-bloom.res": {
+    "prop": "text",
+    "ko": "개화"
+  },
+  "export-85712dc66cb10bf1f06587a8e490e8ca-agile.res": {
+    "prop": "text",
+    "ko": "날렵한"
+  },
+  "export-86335e2fb54fc243d5c790693e901df4-eclipse.res": {
+    "prop": "text",
+    "ko": "일식"
+  },
+  "export-86559631858ffae2e2e87bb148908eaa-never_give_up.res": {
+    "prop": "text",
+    "ko": "절대 포기 안 해"
+  },
+  "export-8671398b61bc3da8715c21a4ab3c11b9-sprout.res": {
+    "prop": "display_name",
+    "ko": "새싹"
+  },
+  "export-8681a07e04b96a1d1e0344a01139a8ed-witch_hat.res": {
+    "prop": "display_name",
+    "ko": "마녀 모자"
+  },
+  "export-86c0af7a2c980efe8cb8e3d6d20b9186-so_retro.res": {
+    "prop": "text",
+    "ko": "완전 레트로"
+  },
+  "export-88035ee7b631511d4a881fd86873d536-mine.res": {
+    "prop": "text",
+    "ko": "내 꺼!"
+  },
+  "export-8856adf812bff7ad16cd79b08ad58e56-wing.res": {
+    "prop": "text",
+    "ko": "날개"
+  },
+  "export-88cad99c1325c8921e1a091919df2367-moot.res": {
+    "prop": "text",
+    "ko": "맞팔"
+  },
+  "export-89fc348f884a083221098cbdbd742ace-speedster.res": {
+    "prop": "text",
+    "ko": "스피드스터"
+  },
+  "export-8a5dd4a92f336fc6354425754938f9d2-mobile.res": {
+    "prop": "text",
+    "ko": "모바일"
+  },
+  "export-8a90c4589e314f14227b4057221de6eb-the_wall.res": {
+    "prop": "text",
+    "ko": "철벽"
+  },
+  "export-8af805c5d1b4d925a6eb73d19dcd1729-hobbyist.res": {
+    "prop": "text",
+    "ko": "취미러"
+  },
+  "export-8af917b63c55b48764f617396cd692a1-afk.res": {
+    "prop": "text",
+    "ko": "잠수"
+  },
+  "export-8b11cae9d74f78cc879ab28bbb20bdd2-cap.res": {
+    "prop": "text",
+    "ko": "구라"
+  },
+  "export-8d2c84e784471a7e6eaaf69dda6ec8a7-fly.res": {
+    "prop": "text",
+    "ko": "날아올라"
+  },
+  "export-8dd74ae49c20b2c9f34627f9e6e4c350-gas.res": {
+    "prop": "text",
+    "ko": "풀파워"
+  },
+  "export-8dda7efe6ba38f9f137fc546612e7415-achromatic.res": {
+    "prop": "display_name",
+    "ko": "무채색"
+  },
+  "export-8ddbc1fce3501106460a47b3fdfcace6-just_a_boy.res": {
+    "prop": "text",
+    "ko": "그냥 소년"
+  },
+  "export-8dea079a52113a53085ae92ac4ceef01-pixels.res": {
+    "prop": "text",
+    "ko": "픽셀"
+  },
+  "export-8e462a48f55b749bbbb9f5e6c11059d3-fuwa_fuwa.res": {
+    "prop": "text",
+    "ko": "몽실몽실"
+  },
+  "export-8e49de6007bf50064c41007c0110b3a8-second_nature.res": {
+    "prop": "text",
+    "ko": "타고난 본능"
+  },
+  "export-8e65d5adc3db4acad6e7757d6deef867-sigma.res": {
+    "prop": "text",
+    "ko": "시그마"
+  },
+  "export-8eb705169010136606e0b4ff8bcec0c1-strong.res": {
+    "prop": "text",
+    "ko": "강력한"
+  },
+  "export-8ebe05b9a30577b50ec849c1b4b9f783-crown.res": {
+    "prop": "label",
+    "ko": "왕관"
+  },
+  "export-8ef63291855a28d2ba44f37028fad060-typewriter.res": {
+    "prop": "label",
+    "ko": "타자기"
+  },
+  "export-8feb635cb3f8e09e6b961e294ea2fe32-manipulator.res": {
+    "prop": "text",
+    "ko": "조종자"
+  },
+  "export-9025075cc7a86885dc19fd632cef0b4a-just_a_girl.res": {
+    "prop": "text",
+    "ko": "그냥 소녀"
+  },
+  "export-909be506ec37e60a607f90d4a2e55a39-tenacity.res": {
+    "prop": "text",
+    "ko": "끈기"
+  },
+  "export-90a5cf9b008b873e841adb8593d3661f-mo_ippon.res": {
+    "prop": "text",
+    "ko": "한 구 더!"
+  },
+  "export-90c36945cf0b4f9ebec30009256ab5c9-uwu.res": {
+    "prop": "text",
+    "ko": "ㅇㅅㅇ"
+  },
+  "export-916dc2e015bdd27fbec7201f24217732-cringe.res": {
+    "prop": "text",
+    "ko": "오글오글"
+  },
+  "export-91bd3959531514ee0abdef2a5388ecd4-minus_tempo.res": {
+    "prop": "text",
+    "ko": "마이너스 템포"
+  },
+  "export-9290f4f350dde82a4df2ff4c39d3ea3f-game_over.res": {
+    "prop": "text",
+    "ko": "게임 오버"
+  },
+  "export-92c02c3dfe00049465ae2e2eeb4cf9e9-supporter_hat.res": {
+    "prop": "display_name",
+    "ko": "서포터 모자"
+  },
+  "export-931a1d3813682c9105b26658c97802a0-face_receiver.res": {
+    "prop": "text",
+    "ko": "안면 리시버"
+  },
+  "export-932c53d0f7f06c56f08b10a56fa86ac0-beginner.res": {
+    "prop": "text",
+    "ko": "초보자"
+  },
+  "export-94ca93bff47f646490e545086991337d-volleyballs.res": {
+    "prop": "label",
+    "ko": "배구공"
+  },
+  "export-94cca813dd372c9dc36ceb2f66543cc9-sinister.res": {
+    "prop": "text",
+    "ko": "음흉한"
+  },
+  "export-9511afbc8f0714680fb1df91a1a96230-wildcard.res": {
+    "prop": "text",
+    "ko": "와일드카드"
+  },
+  "export-9635c9730728b23a5799b51d20d4059f-dingus.res": {
+    "prop": "text",
+    "ko": "멍충이"
+  },
+  "export-9642fe5924e61b613bd1e39991d0d9a1-donkey.res": {
+    "prop": "text",
+    "ko": "당나귀"
+  },
+  "export-9646c743c923dc1ce55b027746026068-cozy.res": {
+    "prop": "text",
+    "ko": "포근한"
+  },
+  "export-974eb29542a52800c6ed2f5a82197010-hunter.res": {
+    "prop": "text",
+    "ko": "사냥꾼"
+  },
+  "export-97b5cfbcbfe795f50e7550e8520be5b4-frutiger_aero.res": {
+    "prop": "text",
+    "ko": "프루티거 에어로"
+  },
+  "export-980d756b06b90465d28849c6e65a99a8-referee.res": {
+    "prop": "text",
+    "ko": "심판"
+  },
+  "export-98434fa351ba1ce50729dfa5cbdf3ef8-pick_yourself_up.res": {
+    "prop": "text",
+    "ko": "다시 일어서"
+  },
+  "export-9910b1d62d21efc74db3876846bfe0cf-catears.res": {
+    "prop": "display_name",
+    "ko": "고양이 귀"
+  },
+  "export-99f71942b5a0f0e43255acae9f554f5e-embarrassed.res": {
+    "prop": "text",
+    "ko": "민망함"
+  },
+  "export-9a49a518a81fcaa7a578298967d5c739-witch.res": {
+    "prop": "text",
+    "ko": "마녀"
+  },
+  "export-9a4d93c5703819d49c8fb9ca89ecf817-divine.res": {
+    "prop": "text",
+    "ko": "신성한"
+  },
+  "export-9a6a87145154d8b325d792626665d6f2-number_9.res": {
+    "prop": "text",
+    "ko": "#9"
+  },
+  "export-9a7b39f8e09affe499030f331f511e20-unknown.res": {
+    "prop": "text",
+    "ko": "미지의"
+  },
+  "export-9abfa0898e1e79b2020f1f7b0904d175-easy.res": {
+    "prop": "text",
+    "ko": "쉬움"
+  },
+  "export-9b835502005e3d69df6f3c14b3c444a6-superstar.res": {
+    "prop": "text",
+    "ko": "슈퍼스타"
+  },
+  "export-9dee0586e1073ecbb5b19d1a4b3b6af6-retro.res": {
+    "prop": "text",
+    "ko": "레트로"
+  },
+  "export-9e6e22a1eb939a362890b9eee469d86e-minion.res": {
+    "prop": "text",
+    "ko": "미니언"
+  },
+  "export-9eb3a903c44d821ef035553ed8d7d4be-polka.res": {
+    "prop": "label",
+    "ko": "물방울 무늬"
+  },
+  "export-9fe38791b451ad64d345a85371a31efe-full_tilt.res": {
+    "prop": "text",
+    "ko": "전력 질주"
+  },
+  "export-a02c3ffefaad88097787ef3bf8cbabd2-content_creator.res": {
+    "prop": "text",
+    "ko": "크리에이터"
+  },
+  "export-a052a74603a3aec6d695d455ea440b9d-inspirational.res": {
+    "prop": "text",
+    "ko": "감동적인"
+  },
+  "export-a0887f6ab094dd739ea6faf8cc61dd60-bordem.res": {
+    "prop": "text",
+    "ko": "심심함"
+  },
+  "export-a0c0d21257369297bb0eff0e0d17f58c-sasageyo.res": {
+    "prop": "text",
+    "ko": "바쳐라!"
+  },
+  "export-a0d269b87c218b940ef1f227270aefa5-flag_us.res": {
+    "prop": "label",
+    "ko": "미국 국기"
+  },
+  "export-a151386f7b9c421080c3dcf9392521d7-funny.res": {
+    "prop": "text",
+    "ko": "웃긴"
+  },
+  "export-a16af195bfe13e56ffc2f6bb4d12d3f2-rainbow.res": {
+    "prop": "label",
+    "ko": "무지개"
+  },
+  "export-a1aca5320c903ed1c8020c2825db416b-flag_ph.res": {
+    "prop": "label",
+    "ko": "필리핀 국기"
+  },
+  "export-a24052e7f468957ec1eac6a34f43909a-partyhat.res": {
+    "prop": "display_name",
+    "ko": "파티 모자"
+  },
+  "export-a28026ad683f800205783590cb468c73-wiggle.res": {
+    "prop": "label",
+    "ko": "흔들흔들"
+  },
+  "export-a2ae1f1f4be2aa5c8dee5c7db6123655-adventurehat.res": {
+    "prop": "display_name",
+    "ko": "탐험가 모자"
+  },
+  "export-a2ebea7c06e27f35d860b79d8e13e63e-revenger.res": {
+    "prop": "text",
+    "ko": "복수귀"
+  },
+  "export-a313441e9c628ea7653e1760147467d3-leap.res": {
+    "prop": "text",
+    "ko": "도약"
+  },
+  "export-a3214bd742f310471e983b44e9ad48e7-protagonist.res": {
+    "prop": "text",
+    "ko": "주인공"
+  },
+  "export-a54b0369985142d8162025fdb5d432a9-electric.res": {
+    "prop": "label",
+    "ko": "전기"
+  },
+  "export-a5b2818453959eaafbe39347768bd260-best_boy.res": {
+    "prop": "text",
+    "ko": "최고의 소년"
+  },
+  "export-a606dfc519babee8f9eb1aca55600e8d-soul.res": {
+    "prop": "text",
+    "ko": "영혼"
+  },
+  "export-a6564f896b402c60ffec975363cac572-life_or_death.res": {
+    "prop": "text",
+    "ko": "사생결단"
+  },
+  "export-a66055704c1fa0ab7f4875635762e024-clumsy.res": {
+    "prop": "text",
+    "ko": "덜렁이"
+  },
+  "export-a6708c9a13c2b106200e3315652430d8-candyhat.res": {
+    "prop": "display_name",
+    "ko": "사탕 모자"
+  },
+  "export-a7305c0e02b58205644d8a5576665591-rebirth.res": {
+    "prop": "text",
+    "ko": "환생"
+  },
+  "export-a751e7e3a1f69aa4b522408bb0d9cb74-platinum_goofy.res": {
+    "prop": "text",
+    "ko": "플래티넘 허당"
+  },
+  "export-a757900cd654e445df7a646a3241b743-be_strong.res": {
+    "prop": "text",
+    "ko": "강해져라"
+  },
+  "export-a8259ba2408067c3e110035eceac8da8-streamer.res": {
+    "prop": "text",
+    "ko": "스트리머"
+  },
+  "export-a8351f850a182cf71722ef33954ac7b1-italy.res": {
+    "prop": "text",
+    "ko": "이탈리아"
+  },
+  "export-a892a3368f72e24dceedfa8992f7ad99-vibes.res": {
+    "prop": "text",
+    "ko": "바이브"
+  },
+  "export-a9035b2e3ae5263232005f9207f8e4ba-start_today.res": {
+    "prop": "text",
+    "ko": "오늘부터 시작"
+  },
+  "export-aa1dcbe2f86cf93aef4df26dc384a644-open.res": {
+    "prop": "text",
+    "ko": "오픈!"
+  },
+  "export-aaa70abcf2f9bdd4499b67b8217ae5b8-bow.res": {
+    "prop": "display_name",
+    "ko": "리본"
+  },
+  "export-ab006307857e1644d580a79dc82f1ee8-antagonist.res": {
+    "prop": "text",
+    "ko": "악역"
+  },
+  "export-ac44cbc84ea21d576616d7078df944fb-timeless_hero.res": {
+    "prop": "text",
+    "ko": "시대를 초월한 영웅"
+  },
+  "export-ac6233b58735b4a83d9b49bdebad21b0-self_worth.res": {
+    "prop": "text",
+    "ko": "자존감"
+  },
+  "export-ac6aa30eec3aad3d3a22238b81fe015a-everyone.res": {
+    "prop": "text",
+    "ko": "@모두"
+  },
+  "export-ac70cc7d935115e80ae88f6334c4b60b-baseballcap.res": {
+    "prop": "display_name",
+    "ko": "야구 모자"
+  },
+  "export-ae2dc724be438e036b6d2a426ec7ec0d-curltail.res": {
+    "prop": "display_name",
+    "ko": "말린 꼬리"
+  },
+  "export-aefed03b79ac042323616c0237aed7bd-trust.res": {
+    "prop": "text",
+    "ko": "신뢰"
+  },
+  "export-af4d0c173a4f3b3b844bf799d55991c2-precision.res": {
+    "prop": "text",
+    "ko": "정밀함"
+  },
+  "export-af618cfa6111a4f94a31e2d5d1a05b8f-lazy.res": {
+    "prop": "text",
+    "ko": "게으름뱅이"
+  },
+  "export-affcb51ac59e3788e2c05234b0a9b038-butter_fingers.res": {
+    "prop": "text",
+    "ko": "기름손"
+  },
+  "export-b006b2813d1ebc9485f96a80bbe76523-sama.res": {
+    "prop": "text",
+    "ko": "~님"
+  },
+  "export-b09e8ce5fa5124f197829807c1287c2c-go_next.res": {
+    "prop": "text",
+    "ko": "다음 판"
+  },
+  "export-b0a96aee6679e6d3e51f8ac998f8dcd3-benchwarmer.res": {
+    "prop": "text",
+    "ko": "벤치워머"
+  },
+  "export-b1209ea94e1343323eaad6fad74418af-boke.res": {
+    "prop": "text",
+    "ko": "바보"
+  },
+  "export-b146d9c3f00b03a2301f70a768ca5159-recreational.res": {
+    "prop": "text",
+    "ko": "즐겜용"
+  },
+  "export-b22a98edb2156e930fb81c9bd0695a18-out_of_steam.res": {
+    "prop": "text",
+    "ko": "체력 방전"
+  },
+  "export-b2492e0e97f853628c198822ae5cda61-guess_monster.res": {
+    "prop": "text",
+    "ko": "게스 몬스터"
+  },
+  "export-b29d9da18ef17d1044dc4b8479e45b84-cute.res": {
+    "prop": "text",
+    "ko": "귀여운"
+  },
+  "export-b2dbb327ffb0f754f049367609f0d770-evil.res": {
+    "prop": "text",
+    "ko": "사악한"
+  },
+  "export-b3aaca824f7a4667be34d4b1db7b759d-devin.res": {
+    "prop": "text",
+    "ko": "데빈"
+  },
+  "export-b3bae4f15ad751432d8e58fc99708dfa-bot.res": {
+    "prop": "text",
+    "ko": "봇"
+  },
+  "export-b3c23a5685c34e94b664958648b758d5-hiatus.res": {
+    "prop": "text",
+    "ko": "휴식기"
+  },
+  "export-b400ab23a5cfe0f80bd149eb24bbb69e-lava.res": {
+    "prop": "label",
+    "ko": "용암"
+  },
+  "export-b44c0a4178658912d148252f1e27ae3c-bark.res": {
+    "prop": "text",
+    "ko": "멍멍"
+  },
+  "export-b49490b7e6dcd63d137d0f0e1a1b749a-critter.res": {
+    "prop": "text",
+    "ko": "쪼꼬미"
+  },
+  "export-b51b76c69d7b1df4e16de255a08c0c1c-zigzag.res": {
+    "prop": "text",
+    "ko": "지그재그"
+  },
+  "export-b64edb4c32d9abbb649a31acf372fb0b-valid.res": {
+    "prop": "text",
+    "ko": "인정"
+  },
+  "export-b8d88c09211110d43589e8c68210ba28-crazy.res": {
+    "prop": "text",
+    "ko": "광기"
+  },
+  "export-b92fac25a257c7968cc8545b24832a0a-flag_de.res": {
+    "prop": "label",
+    "ko": "독일 국기"
+  },
+  "export-ba6e4b321f58ffa87ab08cb32b311426-froghat.res": {
+    "prop": "display_name",
+    "ko": "개구리 모자"
+  },
+  "export-ba967b3c911c3cacc545bd1612c94c28-headscrew.res": {
+    "prop": "display_name",
+    "ko": "머리 나사"
+  },
+  "export-baaea494de5b2fc788c8ace938377b62-john_volleyball.res": {
+    "prop": "text",
+    "ko": "존 배구"
+  },
+  "export-bb606bc139521246932153736be4eefb-threat.res": {
+    "prop": "text",
+    "ko": "위협"
+  },
+  "export-bb7554af35377812f35ac717723cd7e0-alpha.res": {
+    "prop": "text",
+    "ko": "알파"
+  },
+  "export-bb77e975cb4359d032bc918f3130922f-sksksk.res": {
+    "prop": "text",
+    "ko": "크크크"
+  },
+  "export-bbcdc48e063308432fa47691f4eaf670-bunnyheadband.res": {
+    "prop": "display_name",
+    "ko": "토끼 머리띠"
+  },
+  "export-bcff6c067784f2a0e026c094c91d8dc0-dolphin.res": {
+    "prop": "text",
+    "ko": "돌고래"
+  },
+  "export-bcffb1526a6063359a147a956a5e5653-mud.res": {
+    "prop": "text",
+    "ko": "진흙"
+  },
+  "export-bdaf522bd6191b7b8c5742293cad065f-flag_ca.res": {
+    "prop": "label",
+    "ko": "캐나다 국기"
+  },
+  "export-bdc29bf0a8c188fd1c63a91660bc963b-united_states.res": {
+    "prop": "text",
+    "ko": "미국"
+  },
+  "export-be21e33fe865998c6501a759027c2b57-supporter_wings.res": {
+    "prop": "display_name",
+    "ko": "서포터 날개"
+  },
+  "export-be8add5ccc6b663149b73dacbc0f8a0c-ugly.res": {
+    "prop": "text",
+    "ko": "못난이"
+  },
+  "export-be906324b57194ae329e4ba3c05f3a29-try_hard.res": {
+    "prop": "text",
+    "ko": "열혈 노력파"
+  },
+  "export-bf4186843357c6469260428bfa770e58-yaoi.res": {
+    "prop": "text",
+    "ko": "야오이"
+  },
+  "export-bfb935ec06fa43dc70910f2a38b19bf5-headband.res": {
+    "prop": "display_name",
+    "ko": "헤어밴드"
+  },
+  "export-c011d0ffe73221ed4536fc67510303d0-cowboyhat.res": {
+    "prop": "display_name",
+    "ko": "카우보이 모자"
+  },
+  "export-c0687ccc555eaa2943dbd71174c57a40-polished_instinct.res": {
+    "prop": "text",
+    "ko": "갈고닦은 본능"
+  },
+  "export-c07ecb1943560bea2c6465dd67f73334-we_got_next.res": {
+    "prop": "text",
+    "ko": "다음은 우리 차례"
+  },
+  "export-c097c25b99807daa10ad7ec613958b62-despicable.res": {
+    "prop": "text",
+    "ko": "비열한"
+  },
+  "export-c0a9ab9250e62ca4e2bb95bc991664ff-sunshine.res": {
+    "prop": "text",
+    "ko": "햇살"
+  },
+  "export-c189985a82cd65d785e65c48772d234a-viral.res": {
+    "prop": "text",
+    "ko": "떡상"
+  },
+  "export-c2178cf705ed5211d8153c137705ed13-speed.res": {
+    "prop": "text",
+    "ko": "스피드"
+  },
+  "export-c2b9c880737608d5956ebe72b085c166-cape.res": {
+    "prop": "display_name",
+    "ko": "망토"
+  },
+  "export-c2d67a87d9dadc0902062558912f78ac-floor_inspector.res": {
+    "prop": "text",
+    "ko": "바닥 감별사"
+  },
+  "export-c3522c2eb96717d5de31adb84bb75e94-full_auto.res": {
+    "prop": "text",
+    "ko": "풀 오토"
+  },
+  "export-c379cff57b1d36fc5b1af6ca2e684417-larp.res": {
+    "prop": "text",
+    "ko": "컨셉러"
+  },
+  "export-c39c3209bd198520e62b1dda6edf39ca-new_king.res": {
+    "prop": "text",
+    "ko": "새로운 왕"
+  },
+  "export-c3e7e184af6bad4f7326bcaeadcda4a4-repost.res": {
+    "prop": "text",
+    "ko": "리포스트"
+  },
+  "export-c40430a3c3a5a36690568fb2db3684a7-strawhat.res": {
+    "prop": "display_name",
+    "ko": "밀짚모자"
+  },
+  "export-c42b4b360937b417aaf75eb7869a0d53-blud.res": {
+    "prop": "text",
+    "ko": "브로"
+  },
+  "export-c4b21e7487b712a292b08914903446ec-way_of_the_ace.res": {
+    "prop": "text",
+    "ko": "에이스의 길"
+  },
+  "export-c4fbea3a60e8c1aa9cc7ab0b486ea256-fighter.res": {
+    "prop": "text",
+    "ko": "파이터"
+  },
+  "export-c620a855ae677355c34d29dcd02aeab8-demon.res": {
+    "prop": "text",
+    "ko": "악마"
+  },
+  "export-c66768b304de7926e09082f7d9868ae6-memories.res": {
+    "prop": "text",
+    "ko": "추억"
+  },
+  "export-c67ded8d7bf370beef8d3acd95506409-cpu.res": {
+    "prop": "text",
+    "ko": "CPU"
+  },
+  "export-c6b17e413ca76f7da26db241e9d6013c-bunnyears.res": {
+    "prop": "display_name",
+    "ko": "토끼 귀"
+  },
+  "export-c7e64ce74736725f6668d625f125cff7-marathon.res": {
+    "prop": "text",
+    "ko": "마라톤"
+  },
+  "export-c7ecc668ed5459a15ba49787b1865f8c-ninja.res": {
+    "prop": "text",
+    "ko": "닌자"
+  },
+  "export-c871354f6117dd30647ee52f9c7d8dc0-mr_average.res": {
+    "prop": "text",
+    "ko": "평균남"
+  },
+  "export-c952b26ca6e7aa7a4439e79c1727ecf9-number_10.res": {
+    "prop": "text",
+    "ko": "#10"
+  },
+  "export-c974796256379288fb7c89426a0d9eca-fate.res": {
+    "prop": "text",
+    "ko": "운명"
+  },
+  "export-c974a69f6ea3068cd71d02402b593905-expert.res": {
+    "prop": "text",
+    "ko": "고수"
+  },
+  "export-c9fbb2482687ffebadc296f0b24d0b0f-again.res": {
+    "prop": "text",
+    "ko": "다시!"
+  },
+  "export-cb56d446a714609529f1dfb3d4707784-dead_calm.res": {
+    "prop": "text",
+    "ko": "고요한 집중"
+  },
+  "export-cb6d9f836170cc91e1c18a9273b2ba41-musician.res": {
+    "prop": "text",
+    "ko": "뮤지션"
+  },
+  "export-cb7418e065cd95205306254160977967-grind.res": {
+    "prop": "text",
+    "ko": "노가다"
+  },
+  "export-cb7502723c65b34dfc744b5cbdabd6a1-frogcap.res": {
+    "prop": "display_name",
+    "ko": "개구리 캡"
+  },
+  "export-cb75f2bda770211b035b1bf2924e1d22-faith.res": {
+    "prop": "text",
+    "ko": "신념"
+  },
+  "export-ccf4a121a65049b36a5fc506cd783e05-middle_blocker.res": {
+    "prop": "text",
+    "ko": "미들 블로커"
+  },
+  "export-ccf8b4b743f870a31f0357ede6b0eb83-smelly.res": {
+    "prop": "text",
+    "ko": "꼬질꼬질"
+  },
+  "export-cd583f0cf6c7fea3819e17cf08d52a70-all_seeing.res": {
+    "prop": "text",
+    "ko": "천리안"
+  },
+  "export-cd777316a07640622250add535c72354-swifty.res": {
+    "prop": "text",
+    "ko": "날쌘돌이"
+  },
+  "export-cda878e72563ab74c40561a67fe41fb0-cosplay.res": {
+    "prop": "text",
+    "ko": "코스프레"
+  },
+  "export-cdc81a4636ebafb46a9c2d4ca3a6e138-w_mans.res": {
+    "prop": "text",
+    "ko": "갓브로"
+  },
+  "export-cde791b1b3ff0f5d6035104a37392c32-playmaker.res": {
+    "prop": "text",
+    "ko": "플레이메이커"
+  },
+  "export-ce1dcbe9d32b665e925d206afc887c13-glow.res": {
+    "prop": "label",
+    "ko": "빛남"
+  },
+  "export-ce25c266d5c7c3df3d73bd36290b8d93-blazing.res": {
+    "prop": "text",
+    "ko": "작열하는"
+  },
+  "export-cfeff8596ab12724d740629530fe5f11-neck_and_neck.res": {
+    "prop": "text",
+    "ko": "막상막하"
+  },
+  "export-d001894387e855830dce8934a7991a5b-cannon.res": {
+    "prop": "text",
+    "ko": "대포"
+  },
+  "export-d0795762fcad0b31d931191389cae4f2-antennae.res": {
+    "prop": "display_name",
+    "ko": "더듬이"
+  },
+  "export-d07eafe0fab5c50a00e66dada84a8391-d3.res": {
+    "prop": "text",
+    "ko": "D3"
+  },
+  "export-d145c220c16ed7fc7cfc2b772ed07405-domain.res": {
+    "prop": "text",
+    "ko": "영역"
+  },
+  "export-d1ba096ebc58edd771cd20381b02c863-decoy.res": {
+    "prop": "text",
+    "ko": "미끼"
+  },
+  "export-d21394a52ac048399604714aa71ffd11-tophat.res": {
+    "prop": "display_name",
+    "ko": "실크햇"
+  },
+  "export-d222fb7fe8fb0f9041ad772252ee46c6-roundglasses.res": {
+    "prop": "display_name",
+    "ko": "동그란 안경"
+  },
+  "export-d2f693f00fa2e945bb42e8281d53453e-200_percent.res": {
+    "prop": "text",
+    "ko": "200%"
+  },
+  "export-d36a27288f82a3744c1d613884825ee9-hydrated.res": {
+    "prop": "text",
+    "ko": "수분 충전!"
+  },
+  "export-d55553cde3cba52325faceb6b05769af-the_worst_one.res": {
+    "prop": "text",
+    "ko": "최악의 1인"
+  },
+  "export-d55e4343be55aa7064c5d91ae9cd21a1-him.res": {
+    "prop": "text",
+    "ko": "그 남자"
+  },
+  "export-d7323b8f81be4da3b2b19a5a742531b5-aura.res": {
+    "prop": "text",
+    "ko": "아우라"
+  },
+  "export-d761b9011fc2a80756389d3cbbffe528-burger.res": {
+    "prop": "text",
+    "ko": "버거"
+  },
+  "export-d78ebfeacfd6c64c22591984bfc7926a-flag_mx.res": {
+    "prop": "label",
+    "ko": "멕시코 국기"
+  },
+  "export-d7fef1272ba6d44340e8bf87e4453278-duck.res": {
+    "prop": "text",
+    "ko": "오리"
+  },
+  "export-d820dac9cfca44189354514cfac9e3bf-npc.res": {
+    "prop": "text",
+    "ko": "NPC"
+  },
+  "export-d85faae13f6f8136fa66556d57a060b0-sleepy.res": {
+    "prop": "text",
+    "ko": "졸려"
+  },
+  "export-d929f2ef45825019f779f1357fb0c241-limitless.res": {
+    "prop": "text",
+    "ko": "무하한"
+  },
+  "export-d9457e4ac81a26ebc49f5d70de0f8302-angryeffect.res": {
+    "prop": "display_name",
+    "ko": "화남 마크"
+  },
+  "export-d9e1ba7caf9f71c4e6a542e5e487471b-flag_au.res": {
+    "prop": "label",
+    "ko": "호주 국기"
+  },
+  "export-da24661f69b43de4ec38a6f7e5af1317-eyepatch.res": {
+    "prop": "display_name",
+    "ko": "안대"
+  },
+  "export-da50efb92b5e0090c0516d9f02774a79-headphones.res": {
+    "prop": "display_name",
+    "ko": "헤드폰"
+  },
+  "export-daa9424de11ea9e3347308f5aed173a8-hi.res": {
+    "prop": "text",
+    "ko": "안녕"
+  },
+  "export-db4da2358f4b88d7eda2aa0649b0fcd0-air_fryer.res": {
+    "prop": "text",
+    "ko": "에어프라이어"
+  },
+  "export-dc54b6de9835fbb54f1d108592baf7bc-habit.res": {
+    "prop": "text",
+    "ko": "습관"
+  },
+  "export-dc8238c79840fdcecf2daa606aafe991-junior.res": {
+    "prop": "text",
+    "ko": "주니어"
+  },
+  "export-dc9287f76dcff9a216a16325991cf310-play_to_win.res": {
+    "prop": "text",
+    "ko": "필승"
+  },
+  "export-dcd012609aba0ac894265641115201f3-tsundere.res": {
+    "prop": "text",
+    "ko": "츤데레"
+  },
+  "export-dcedc7b2bbf0a486e66a1c0e27fe7a24-dog.res": {
+    "prop": "text",
+    "ko": "강아지"
+  },
+  "export-ddb8a0bff9e21b18b9f499f683d076ba-immortal.res": {
+    "prop": "text",
+    "ko": "불멸자"
+  },
+  "export-ddc5f6c4fa2c7962137faed5c1ebeedd-cut_merchant.res": {
+    "prop": "text",
+    "ko": "연타 장인"
+  },
+  "export-ddc7bcdf915dbb5ad6ac9b5ae394266d-yuri.res": {
+    "prop": "text",
+    "ko": "백합"
+  },
+  "export-dddada9ddbe12294ac89b7c7d45f0444-soccer.res": {
+    "prop": "text",
+    "ko": "축구"
+  },
+  "export-dea65b30b0b6211ba6f626d26d90b969-elegant.res": {
+    "prop": "text",
+    "ko": "우아한"
+  },
+  "export-ded0d41b521d46dc3f5a248d00c02eaf-guardian_deity.res": {
+    "prop": "text",
+    "ko": "수호신"
+  },
+  "export-df970b3edc424c8567e7ba80d5b7f935-cutesy.res": {
+    "prop": "label",
+    "ko": "깜찍"
+  },
+  "export-e00273ea1d432906505839a7d9f79d69-loser.res": {
+    "prop": "text",
+    "ko": "패배자"
+  },
+  "export-e0bbaf82aca71c45c390e68e9b1ed716-studious.res": {
+    "prop": "text",
+    "ko": "모범생"
+  },
+  "export-e16caff4467bc50afac5dd7d30a654b8-fair.res": {
+    "prop": "text",
+    "ko": "공정한"
+  },
+  "export-e1c1af5b87096e3c1b69308bc417ed3d-number_1.res": {
+    "prop": "text",
+    "ko": "#1"
+  },
+  "export-e2b78e6938da19fd390d3b4033338421-who_youll_become.res": {
+    "prop": "text",
+    "ko": "앞으로의 너"
+  },
+  "export-e2fc1b48adbf923f981ee172672761b8-chrome.res": {
+    "prop": "label",
+    "ko": "크롬"
+  },
+  "export-e368db0a8e278aca2985df547724cfa0-surpassing_limits.res": {
+    "prop": "text",
+    "ko": "한계 돌파"
+  },
+  "export-e40872ca9ae01e82b668c20ffd1962e6-one_more_point.res": {
+    "prop": "text",
+    "ko": "1점만 더"
+  },
+  "export-e41030147456986f12a4e41abf559a6d-oops.res": {
+    "prop": "text",
+    "ko": "아이쿠"
+  },
+  "export-e4412e64713d6ee798334de8139ed9ba-ace.res": {
+    "prop": "text",
+    "ko": "에이스"
+  },
+  "export-e45b2fc24983f654b3e61fcd1b38c32b-bandana.res": {
+    "prop": "display_name",
+    "ko": "반다나"
+  },
+  "export-e460f1ac6d83997ee19a1cd9466174d5-savior.res": {
+    "prop": "text",
+    "ko": "구세주"
+  },
+  "export-e48fbc8af97835fdd081dee13350c8cf-professional.res": {
+    "prop": "text",
+    "ko": "프로페셔널"
+  },
+  "export-e53488d486de30e2d40b8903c4b05dc1-flag_fr.res": {
+    "prop": "label",
+    "ko": "프랑스 국기"
+  },
+  "export-e5389ac8f4597ab6367ab3f21b28972a-crown.res": {
+    "prop": "display_name",
+    "ko": "왕관"
+  },
+  "export-e5585ef631efbba439a5c9b761ee0070-gap.res": {
+    "prop": "text",
+    "ko": "빈틈"
+  },
+  "export-e56888341c9cd3c93a0a2573842c465a-complex.res": {
+    "prop": "text",
+    "ko": "콤플렉스"
+  },
+  "export-e60d3ddb8ee8afff8fa46895d0745c04-one_more.res": {
+    "prop": "text",
+    "ko": "한 번 더"
+  },
+  "export-e6433984a8f5ec38f52d8248511c1340-fanatic.res": {
+    "prop": "text",
+    "ko": "광팬"
+  },
+  "export-e6c8d2640bd6d15a5fd8c7dfaba48c95-neet.res": {
+    "prop": "text",
+    "ko": "니트족"
+  },
+  "export-e6e002318f67e288837f9bf55a55fa98-hyper.res": {
+    "prop": "text",
+    "ko": "텐션 폭발"
+  },
+  "export-e789adb7ba4c34036e956d55bbabde39-ifykyk.res": {
+    "prop": "text",
+    "ko": "알 사람만 앎"
+  },
+  "export-e8b4182d247a6613327d3e091fb3c6ca-always_looking_up.res": {
+    "prop": "text",
+    "ko": "언제나 위를 향해"
+  },
+  "export-e8fb6bcb511058758dd79b5fea987943-devilhorns.res": {
+    "prop": "display_name",
+    "ko": "악마 뿔"
+  },
+  "export-e91d7d7bf3eafb45b4372e1951579263-hope.res": {
+    "prop": "text",
+    "ko": "희망"
+  },
+  "export-e95a094afb189b2e50888dc95a818106-beyond.res": {
+    "prop": "text",
+    "ko": "그 너머"
+  },
+  "export-e9bc03f9c778b31588fcc46822956a11-kawaii.res": {
+    "prop": "text",
+    "ko": "카와이"
+  },
+  "export-e9fd8d5fddf19726f821be411db628b3-checker.res": {
+    "prop": "label",
+    "ko": "체크무늬"
+  },
+  "export-ea62f2e724fe3052c7bf47129c032d54-straighttail.res": {
+    "prop": "display_name",
+    "ko": "곧은 꼬리"
+  },
+  "export-ea7f20334d8746db4d79b56814b07913-troll.res": {
+    "prop": "text",
+    "ko": "트롤"
+  },
+  "export-ea955b4a459d494e14c72a19e1737f39-gg.res": {
+    "prop": "text",
+    "ko": "GG"
+  },
+  "export-eb407953c628546da7cfaddaf0d424db-catbaseballcap.res": {
+    "prop": "display_name",
+    "ko": "고양이 캡"
+  },
+  "export-eb8a899c8159a11c83844a43d2b55993-stage_tutorial.res": {
+    "prop": "label",
+    "ko": "튜토리얼"
+  },
+  "export-ed4e58425b94a887437352931bd0364a-lmao.res": {
+    "prop": "text",
+    "ko": "ㅋㅋㅋㅋ"
+  },
+  "export-edadc7ac54606739611b21dbd7106c5f-owari_da.res": {
+    "prop": "text",
+    "ko": "끝이다"
+  },
+  "export-eddbb052150b1dc9a3cb200fb75530e1-horns.res": {
+    "prop": "display_name",
+    "ko": "뿔"
+  },
+  "export-ee2d5bb6a6d12df942d6a1dc7a02c9fd-kitty.res": {
+    "prop": "text",
+    "ko": "야옹이"
+  },
+  "export-ee2e09c83ccb182a1902f3bb8ee9a8d1-prepared.res": {
+    "prop": "text",
+    "ko": "준비 완료"
+  },
+  "export-ee4a17c9655ff76c8060c2186c597f2e-leg_day.res": {
+    "prop": "text",
+    "ko": "하체 운동의 날"
+  },
+  "export-ee67b11288b4cea13bce8e9f25f7606f-light.res": {
+    "prop": "text",
+    "ko": "빛"
+  },
+  "export-ee92419037b9120909d13d1c20bbdbc0-tryhard.res": {
+    "prop": "text",
+    "ko": "빡겜러"
+  },
+  "export-eebdc84aced218000a1f3b7d64454d5f-just_for_fun.res": {
+    "prop": "text",
+    "ko": "재미로"
+  },
+  "export-f0053b2b13d8f825cc9e228175a10032-water.res": {
+    "prop": "label",
+    "ko": "물"
+  },
+  "export-f021fdae7fea124ce1053589d0d40109-cloverhat.res": {
+    "prop": "display_name",
+    "ko": "클로버 모자"
+  },
+  "export-f0b1fa89464da1988f7fa47fd8c61229-silly_billy.res": {
+    "prop": "text",
+    "ko": "어리바리"
+  },
+  "export-f1aa390f6c4f569d38bab7767a0567d7-geek.res": {
+    "prop": "text",
+    "ko": "너드"
+  },
+  "export-f284c60c3f12fcbc98d7f6e816d53a02-hype.res": {
+    "prop": "text",
+    "ko": "열광"
+  },
+  "export-f30170f26903f7f0e38535bc9a8fd4d3-rage.res": {
+    "prop": "text",
+    "ko": "분노"
+  },
+  "export-f3a38013c6e0562a3b75d81a736cc63d-fanboy.res": {
+    "prop": "text",
+    "ko": "팬보이"
+  },
+  "export-f3be7e90a59ae213500001f7a899c644-save.res": {
+    "prop": "text",
+    "ko": "세이브"
+  },
+  "export-f42bc824334508e1cb76bd6a47ca5d19-100_percent.res": {
+    "prop": "text",
+    "ko": "100%"
+  },
+  "export-f4697dfbd95366610fcbb4784e22316d-mad_dog.res": {
+    "prop": "text",
+    "ko": "광견"
+  },
+  "export-f4b597dfc2ee2fea0909900724b45261-genki.res": {
+    "prop": "text",
+    "ko": "활기찬"
+  },
+  "export-f5207ec58d30b5d7830f54301cac41ee-swirlglasses.res": {
+    "prop": "display_name",
+    "ko": "뱅글 안경"
+  },
+  "export-f528c20f59ce40416025d9744a6dab44-halo.res": {
+    "prop": "text",
+    "ko": "후광"
+  },
+  "export-f66aef8d86f8d662e749fc193231b6f4-cartoon.res": {
+    "prop": "text",
+    "ko": "카툰"
+  },
+  "export-f6b5801459ce5d55a32018cca7a5b1d2-overrated.res": {
+    "prop": "text",
+    "ko": "과대평가"
+  },
+  "export-f7ad44e895fc0dc4a3662518be6a2d10-challenger.res": {
+    "prop": "text",
+    "ko": "도전자"
+  },
+  "export-f805e1171d5f439dea1a96058b0b21d9-broken_heart.res": {
+    "prop": "text",
+    "ko": "실연"
+  },
+  "export-f818942c220843eaa9cbcda6b702aa67-together.res": {
+    "prop": "text",
+    "ko": "함께"
+  },
+  "export-f8199331649b31abf25e7da947eda915-chud.res": {
+    "prop": "text",
+    "ko": "찌질이"
+  },
+  "export-f8212f36bb1665ab408680c2db68a4e5-yapper.res": {
+    "prop": "text",
+    "ko": "수다쟁이"
+  },
+  "export-f87c87d428964be662a66f117b039ad0-fly_high.res": {
+    "prop": "text",
+    "ko": "높이 날아라"
+  },
+  "export-f9373c236b1e0f4d81942a1b55fd9217-goody_two_shoes.res": {
+    "prop": "text",
+    "ko": "바른생활"
+  },
+  "export-f93e3f61262cee9ac14686f7dfd4f2b8-runner.res": {
+    "prop": "text",
+    "ko": "러너"
+  },
+  "export-f947b2d317c47cb56b30def7b7a84673-happy.res": {
+    "prop": "text",
+    "ko": "행복한"
+  },
+  "export-f9bd9de610241a06f35814354bfb2f1c-unemployed.res": {
+    "prop": "text",
+    "ko": "백수"
+  },
+  "export-fa06d4261d45ad93b041efc370032459-everyday.res": {
+    "prop": "text",
+    "ko": "매일매일"
+  },
+  "export-fb935134552d9485437f69c8cd6939cc-adventurebackpack.res": {
+    "prop": "display_name",
+    "ko": "탐험가 배낭"
+  },
+  "export-fb9a8ad23ab740ba94c4a7320c861e7f-mage.res": {
+    "prop": "text",
+    "ko": "마법사"
+  },
+  "export-fbca5a2a0354e84bf5590c2fe83fa920-addict.res": {
+    "prop": "text",
+    "ko": "중독자"
+  },
+  "export-fbdded891c16c08f4a75ac8137b54e68-beta.res": {
+    "prop": "text",
+    "ko": "베타"
+  },
+  "export-fbfdcae72078b2fe7ab108e1a31f52fc-ultimate_weapon.res": {
+    "prop": "text",
+    "ko": "최종 병기"
+  },
+  "export-fd1b212ce0903eae2f862c46ed380766-confetti.res": {
+    "prop": "label",
+    "ko": "꽃가루"
+  },
+  "export-fd1c0b5d80ee987746ce23c3bc086b9c-flag_pt.res": {
+    "prop": "label",
+    "ko": "포르투갈 국기"
+  },
+  "export-fd3488235dc0dd14978aa35decd10baf-dont_give_up.res": {
+    "prop": "text",
+    "ko": "포기하지 마"
+  },
+  "export-fd8cffee4470fe4c191d57346c20f9b9-six_eyes.res": {
+    "prop": "text",
+    "ko": "육안"
+  },
+  "export-fe127f615901f44e73039ec8918e0369-jesterhat.res": {
+    "prop": "display_name",
+    "ko": "광대 모자"
+  },
+  "export-fe16c5806cbe344afcc73493a1506131-robot.res": {
+    "prop": "text",
+    "ko": "로봇"
+  }
+}

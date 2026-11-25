@@ -1,0 +1,72 @@
+{
+ "lines": [
+  {
+   "match": ["ez", "ezpz", "eazy", "ezclap"],
+   "say": [
+    "진짜 너무 재밌어요!",
+    "다들 랠리 진짜 멋졌어요",
+    "여기 함께 있는 것만으로도 행복해요",
+    "코치님이 예의 바르게 말하라고 하셨어요",
+    "솔직히 방금 건 운이 좋았네요",
+    "다들 플레이가 너무 아름다워요",
+    "이제 네트랑 저랑 베프 먹었어요",
+    "배구라는 스포츠 진짜 너무 사랑해요",
+    "여러분한테 정말 많이 배우고 있어요",
+    "팀원분들 경기 끝나고 스트레칭 꼭 하세요",
+    "수분 보충 타임! 다들 물 한 잔씩 드세요",
+    "방금 진짜 아슬아슬해서 땀 뻘뻘 흘렸네요",
+    "우리 세터와 가족, 그리고 공에게 감사를 전합니다",
+    "배구는 저의 사랑의 언어예요",
+    "정말 좋은 경기였어요, 진심 100%입니다"
+   ]
+  },
+  {
+   "match": ["uninstall"],
+   "say": [
+    "계속 같이 해요, 여기가 딱 어울리세요",
+    "님이 함께해서 이 게임이 더 즐거워요",
+    "몸 풀기에는 연습 모드가 딱 좋더라고요, 그냥 그렇다고요"
+   ]
+  },
+  {
+   "match": ["who asked", "nobody asked", "didnt ask"],
+   "say": [
+    "제가 물어봤어요! 더 들려주세요",
+    "흥미진진하네요, 계속 말씀해 주세요",
+    "잘 듣고 있어요, 계속 해주세요"
+   ]
+  },
+  {
+   "exact": ["l", "take the l", "hold this l", "hold the l"],
+   "say": [
+    "오늘은 모두가 승자예요",
+    "함께 즐기면 우리 모두가 이기는 거죠"
+   ]
+  },
+  {
+   "exact": ["get good", "get good kid", "get good kids", "get good noob", "get good bro"],
+   "say": [
+    "다들 즐겁게 게임해요!"
+   ]
+  }
+ ],
+ "words": {
+  "touch grass": "touch sand",
+  "git gud": "have fun",
+  "skill issue": "learning moment",
+  "dogwater": "sparkling water",
+  "dog water": "sparkling water",
+  "cope": "hope",
+  "seethe": "breathe",
+  "rekt": "respected",
+  "noob": "future pro",
+  "noobs": "future pros",
+  "bozo": "buddy",
+  "trash": "treasure",
+  "washed": "well rested",
+  "you suck": "you rock",
+  "u suck": "u rock",
+  "cry about it": "sing about it",
+  "mad cuz bad": "glad cuz rad"
+ }
+}
