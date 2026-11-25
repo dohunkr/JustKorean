@@ -1062,53 +1062,17 @@
       "orig": "effects",
       "ko": "효과"
     },
-    "16": {
-      "orig": "extra",
-      "ko": "기타"
-    },
     "89": {
       "orig": "showing: uniform",
       "ko": "표시 중: 유니폼"
-    },
-    "114": {
-      "orig": "shop",
-      "ko": "상점"
     },
     "117": {
       "orig": "new gear and cosmetics",
       "ko": "새 장비 및 꾸미기 아이템"
     },
-    "134": {
-      "orig": "return",
-      "ko": "돌아가기"
-    },
-    "145": {
-      "orig": "back",
-      "ko": "뒤로"
-    },
-    "158": {
-      "orig": "locker",
-      "ko": "라커"
-    },
-    "166": {
-      "orig": "selected",
-      "ko": "선택됨"
-    },
     "167": {
       "orig": "pick an item",
       "ko": "아이템을 선택하세요"
-    },
-    "168": {
-      "orig": "buy",
-      "ko": "구매"
-    },
-    "173": {
-      "orig": "hair",
-      "ko": "헤어"
-    },
-    "174": {
-      "orig": "accessories",
-      "ko": "액세서리"
     },
     "177": {
       "orig": "spin: off",
@@ -1117,50 +1081,6 @@
     "178": {
       "orig": "spin: on",
       "ko": "회전: 켜기"
-    },
-    "179": {
-      "orig": "left",
-      "ko": "왼쪽"
-    },
-    "180": {
-      "orig": "right",
-      "ko": "오른쪽"
-    },
-    "181": {
-      "orig": "top",
-      "ko": "위"
-    },
-    "182": {
-      "orig": "bottom",
-      "ko": "아래"
-    },
-    "198": {
-      "orig": "zoom",
-      "ko": "확대/축소"
-    },
-    "201": {
-      "orig": "search",
-      "ko": "검색"
-    },
-    "217": {
-      "orig": "title",
-      "ko": "칭호"
-    },
-    "224": {
-      "orig": "owned",
-      "ko": "보유 중"
-    },
-    "225": {
-      "orig": "wearing",
-      "ko": "착용 중"
-    },
-    "226": {
-      "orig": "effect",
-      "ko": "효과"
-    },
-    "227": {
-      "orig": "using",
-      "ko": "사용 중"
     },
     "229": {
       "orig": "nothing here matches \"%s\"",
@@ -1174,53 +1094,13 @@
       "orig": "nothing here yet",
       "ko": "아직 항목이 없습니다"
     },
-    "234": {
-      "orig": "picked",
-      "ko": "선택됨"
-    },
-    "244": {
-      "orig": "earn",
-      "ko": "획득"
-    },
     "245": {
       "orig": "%s effect",
       "ko": "%s 효과"
     },
-    "246": {
-      "orig": "worn",
-      "ko": "착용 중"
-    },
-    "247": {
-      "orig": "wear",
-      "ko": "착용"
-    },
-    "248": {
-      "orig": "use",
-      "ko": "사용"
-    },
     "249": {
       "orig": "earn it",
       "ko": "획득하기"
-    },
-    "250": {
-      "orig": "buy  ",
-      "ko": "구매  "
-    },
-    "254": {
-      "orig": "purchase",
-      "ko": "구매"
-    },
-    "255": {
-      "orig": "error",
-      "ko": "오류"
-    },
-    "256": {
-      "orig": "nice",
-      "ko": "좋아요"
-    },
-    "261": {
-      "orig": "voice",
-      "ko": "목소리"
     },
     "274": {
       "orig": "an achievement",
@@ -1233,10 +1113,6 @@
     "281": {
       "orig": "back to locker",
       "ko": "라커로 돌아가기"
-    },
-    "285": {
-      "orig": "close",
-      "ko": "닫기"
     }
   },
   "game/ui/awards_page.gdc": {
@@ -1803,22 +1679,6 @@
     "71": {
       "orig": "max level!",
       "ko": "최대 레벨 달성!"
-    },
-    "21": {
-      "orig": "lv",
-      "ko": "Lv."
-    },
-    "40": {
-      "orig": "title",
-      "ko": "칭호"
-    },
-    "41": {
-      "orig": "value",
-      "ko": "수치"
-    },
-    "47": {
-      "orig": "level",
-      "ko": "레벨"
     },
     "62": {
       "orig": "%s / %s xp",
@@ -2998,449 +2858,21 @@
       "orig": "hold lmb to charge the toss, release to throw, tap strafe to cancel the charge",
       "ko": "좌클릭을 길게 눌러 토스를 차지하고, 떼면 공을 던집니다. 스트레이프를 살짝 누르면 차지를 취소합니다"
     },
-    "38": {
-      "orig": "gym",
-      "ko": "체육관"
-    },
-    "39": {
-      "orig": "captain",
-      "ko": "주장"
-    },
-    "40": {
-      "orig": "pinny",
-      "ko": "훈련 조끼"
-    },
     "41": {
       "orig": "captain uniform",
       "ko": "주장 유니폼"
-    },
-    "42": {
-      "orig": "nationals",
-      "ko": "전국대회"
-    },
-    "43": {
-      "orig": "school",
-      "ko": "학교"
-    },
-    "44": {
-      "orig": "beach",
-      "ko": "해변"
-    },
-    "45": {
-      "orig": "pro",
-      "ko": "프로"
-    },
-    "46": {
-      "orig": "outdoor",
-      "ko": "야외"
-    },
-    "102": {
-      "orig": "outfit",
-      "ko": "복장"
-    },
-    "103": {
-      "orig": "stage",
-      "ko": "스테이지"
-    },
-    "104": {
-      "orig": "difficulty",
-      "ko": "난이도"
-    },
-    "113": {
-      "orig": "menu",
-      "ko": "메뉴"
-    },
-    "114": {
-      "orig": "home",
-      "ko": "홈"
-    },
-    "115": {
-      "orig": "away",
-      "ko": "어웨이"
-    },
-    "125": {
-      "orig": "host",
-      "ko": "호스트"
-    },
-    "159": {
-      "orig": "role",
-      "ko": "역할"
-    },
-    "169": {
-      "orig": "singleplayer",
-      "ko": "싱글플레이"
-    },
-    "170": {
-      "orig": "you",
-      "ko": "나"
-    },
-    "172": {
-      "orig": "member",
-      "ko": "파티원"
-    },
-    "190": {
-      "orig": "online",
-      "ko": "온라인"
-    },
-    "192": {
-      "orig": "local",
-      "ko": "로컬"
-    },
-    "201": {
-      "orig": "size",
-      "ko": "인원"
-    },
-    "204": {
-      "orig": "fill",
-      "ko": "채우기"
-    },
-    "208": {
-      "orig": "replays",
-      "ko": "리플레이"
-    },
-    "209": {
-      "orig": "collide",
-      "ko": "충돌"
-    },
-    "210": {
-      "orig": "hints",
-      "ko": "힌트"
-    },
-    "211": {
-      "orig": "rotate",
-      "ko": "로테이션"
-    },
-    "212": {
-      "orig": "intro",
-      "ko": "인트로"
-    },
-    "215": {
-      "orig": "practice",
-      "ko": "연습"
-    },
-    "220": {
-      "orig": "credits",
-      "ko": "크레딧"
-    },
-    "221": {
-      "orig": "feedback",
-      "ko": "피드백"
-    },
-    "223": {
-      "orig": "bug",
-      "ko": "버그"
-    },
-    "224": {
-      "orig": "urgent",
-      "ko": "긴급"
-    },
-    "229": {
-      "orig": "quick",
-      "ko": "빠른 대전"
-    },
-    "230": {
-      "orig": "profile",
-      "ko": "프로필"
-    },
-    "232": {
-      "orig": "title",
-      "ko": "칭호"
-    },
-    "244": {
-      "orig": "next",
-      "ko": "다음"
-    },
-    "245": {
-      "orig": "mode",
-      "ko": "모드"
-    },
-    "253": {
-      "orig": "matches",
-      "ko": "경기"
-    },
-    "255": {
-      "orig": "wins",
-      "ko": "승리"
     },
     "257": {
       "orig": "the comeback",
       "ko": "대역전"
     },
-    "259": {
-      "orig": "favorites",
-      "ko": "즐겨찾기"
-    },
-    "264": {
-      "orig": "Favorite",
-      "ko": "즐겨찾기"
-    },
-    "266": {
-      "orig": "name",
-      "ko": "이름"
-    },
-    "267": {
-      "orig": "career",
-      "ko": "커리어"
-    },
-    "272": {
-      "orig": "reason",
-      "ko": "사유"
-    },
-    "282": {
-      "orig": "information",
-      "ko": "안내"
-    },
-    "303": {
-      "orig": "achievements",
-      "ko": "업적"
-    },
-    "307": {
-      "orig": "all",
-      "ko": "모두"
-    },
-    "310": {
-      "orig": "custom",
-      "ko": "커스텀"
-    },
-    "311": {
-      "orig": "settings",
-      "ko": "설정"
-    },
-    "315": {
-      "orig": "general",
-      "ko": "일반"
-    },
-    "317": {
-      "orig": "video",
-      "ko": "비디오"
-    },
-    "320": {
-      "orig": "debug",
-      "ko": "디버그"
-    },
-    "321": {
-      "orig": "block",
-      "ko": "차단"
-    },
-    "328": {
-      "orig": "edit",
-      "ko": "편집"
-    },
-    "331": {
-      "orig": "browse",
-      "ko": "방 목록"
-    },
-    "335": {
-      "orig": "direct",
-      "ko": "직접 연결"
-    },
-    "336": {
-      "orig": "room",
-      "ko": "방"
-    },
-    "393": {
-      "orig": "party",
-      "ko": "파티"
-    },
-    "394": {
-      "orig": "freeplay",
-      "ko": "자유 연습"
-    },
-    "398": {
-      "orig": "lobby",
-      "ko": "로비"
-    },
-    "407": {
-      "orig": "surface",
-      "ko": "바닥 재질"
-    },
-    "408": {
-      "orig": "court",
-      "ko": "코트"
-    },
-    "413": {
-      "orig": "configure",
-      "ko": "설정"
-    },
-    "440": {
-      "orig": "apply",
-      "ko": "적용"
-    },
-    "443": {
-      "orig": "ambient",
-      "ko": "환경음"
-    },
-    "452": {
-      "orig": "accents",
-      "ko": "강조색"
-    },
     "463": {
       "orig": "stage: %s",
       "ko": "스테이지: %s"
     },
-    "465": {
-      "orig": "venue",
-      "ko": "경기장"
-    },
-    "477": {
-      "orig": "bloom",
-      "ko": "블룸"
-    },
-    "478": {
-      "orig": "fog",
-      "ko": "안개"
-    },
-    "487": {
-      "orig": "exposure",
-      "ko": "노출"
-    },
-    "488": {
-      "orig": "reflect",
-      "ko": "반사"
-    },
-    "501": {
-      "orig": "jump",
-      "ko": "점프"
-    },
-    "503": {
-      "orig": "swing",
-      "ko": "스윙"
-    },
-    "512": {
-      "orig": "hud",
-      "ko": "HUD"
-    },
-    "514": {
-      "orig": "drill",
-      "ko": "훈련"
-    },
-    "515": {
-      "orig": "amount",
-      "ko": "수량"
-    },
-    "516": {
-      "orig": "quiet",
-      "ko": "조용함"
-    },
-    "520": {
-      "orig": "player",
-      "ko": "플레이어"
-    },
-    "524": {
-      "orig": "view",
-      "ko": "시점"
-    },
-    "526": {
-      "orig": "aim",
-      "ko": "조준"
-    },
-    "527": {
-      "orig": "reach",
-      "ko": "리치"
-    },
-    "580": {
-      "orig": "power",
-      "ko": "파워"
-    },
     "626": {
       "orig": "%s / %s xp",
       "ko": "%s / %s XP"
-    },
-    "628": {
-      "orig": "scale",
-      "ko": "크기"
-    },
-    "629": {
-      "orig": "head",
-      "ko": "머리"
-    },
-    "641": {
-      "orig": "foot",
-      "ko": "발"
-    },
-    "642": {
-      "orig": "card",
-      "ko": "카드"
-    },
-    "723": {
-      "orig": "rate",
-      "ko": "속도"
-    },
-    "724": {
-      "orig": "serve",
-      "ko": "서브"
-    },
-    "725": {
-      "orig": "lock",
-      "ko": "잠금"
-    },
-    "726": {
-      "orig": "sets",
-      "ko": "세트"
-    },
-    "727": {
-      "orig": "points",
-      "ko": "점수"
-    },
-    "730": {
-      "orig": "sweat",
-      "ko": "스웻 모드"
-    },
-    "733": {
-      "orig": "cpu",
-      "ko": "CPU"
-    },
-    "736": {
-      "orig": "pick",
-      "ko": "선택"
-    },
-    "737": {
-      "orig": "seat",
-      "ko": "자리"
-    },
-    "738": {
-      "orig": "remove",
-      "ko": "제거"
-    },
-    "739": {
-      "orig": "empty",
-      "ko": "비어 있음"
-    },
-    "740": {
-      "orig": "add",
-      "ko": "추가"
-    },
-    "741": {
-      "orig": "human",
-      "ko": "플레이어"
-    },
-    "745": {
-      "orig": "kits",
-      "ko": "유니폼"
-    },
-    "748": {
-      "orig": "rules",
-      "ko": "규칙"
-    },
-    "755": {
-      "orig": "invite",
-      "ko": "초대"
-    },
-    "828": {
-      "orig": "controls",
-      "ko": "조작"
-    },
-    "831": {
-      "orig": "move",
-      "ko": "이동"
-    },
-    "837": {
-      "orig": "available",
-      "ko": "이용 가능"
-    },
-    "838": {
-      "orig": "void",
-      "ko": "공허"
     },
     "840": {
       "orig": "%s\ntime %s",
@@ -3466,102 +2898,6 @@
       "orig": "no match after %.0fs",
       "ko": "%.0f초 동안 매치를 찾지 못했습니다"
     },
-    "855": {
-      "orig": "count",
-      "ko": "수"
-    },
-    "858": {
-      "orig": "contact",
-      "ko": "컨택트"
-    },
-    "859": {
-      "orig": "dive",
-      "ko": "다이브"
-    },
-    "860": {
-      "orig": "set",
-      "ko": "토스"
-    },
-    "882": {
-      "orig": "skipped",
-      "ko": "건너뜀"
-    },
-    "892": {
-      "orig": "unpredictable",
-      "ko": "예측 불가"
-    },
-    "894": {
-      "orig": "yapper",
-      "ko": "수다쟁이"
-    },
-    "895": {
-      "orig": "cute",
-      "ko": "귀여움"
-    },
-    "897": {
-      "orig": "kitty",
-      "ko": "고양이"
-    },
-    "902": {
-      "orig": "polka",
-      "ko": "폴카"
-    },
-    "920": {
-      "orig": "pts",
-      "ko": "득점"
-    },
-    "921": {
-      "orig": "spk",
-      "ko": "스파이크"
-    },
-    "922": {
-      "orig": "blk",
-      "ko": "블록"
-    },
-    "923": {
-      "orig": "rcv",
-      "ko": "리시브"
-    },
-    "924": {
-      "orig": "ast",
-      "ko": "어시스트"
-    },
-    "926": {
-      "orig": "won",
-      "ko": "승리"
-    },
-    "932": {
-      "orig": "replay",
-      "ko": "리플레이"
-    },
-    "933": {
-      "orig": "players",
-      "ko": "플레이어"
-    },
-    "940": {
-      "orig": "grass",
-      "ko": "잔디"
-    },
-    "941": {
-      "orig": "clouds",
-      "ko": "구름"
-    },
-    "992": {
-      "orig": "point",
-      "ko": "득점"
-    },
-    "994": {
-      "orig": "spike",
-      "ko": "스파이크"
-    },
-    "996": {
-      "orig": "avatar",
-      "ko": "아바타"
-    },
-    "998": {
-      "orig": "tallest",
-      "ko": "최장신"
-    },
     "1029": {
       "orig": "find next match: searching again (group %d, waited %.1fs)",
       "ko": "다음 매치 찾는 중: 재검색 (그룹 %d, 대기 %.1f초)"
@@ -3569,26 +2905,6 @@
     "1036": {
       "orig": "[notice %d] %s",
       "ko": "[공지 %d] %s"
-    },
-    "1066": {
-      "orig": "status",
-      "ko": "상태"
-    },
-    "1067": {
-      "orig": "state",
-      "ko": "상태"
-    },
-    "1138": {
-      "orig": "remote",
-      "ko": "원격"
-    },
-    "1168": {
-      "orig": "squash",
-      "ko": "압축"
-    },
-    "1169": {
-      "orig": "missed",
-      "ko": "놓침"
     },
     "1242": {
       "orig": "%d players",
@@ -3618,10 +2934,6 @@
       "orig": "match full in game",
       "ko": "진행 중인 풀 매치"
     },
-    "1298": {
-      "orig": "game",
-      "ko": "게임"
-    },
     "1299": {
       "orig": "room full 4v4",
       "ko": "가득 찬 4v4 방"
@@ -3646,29 +2958,9 @@
       "orig": "chill sunday court",
       "ko": "편안한 일요일 코트"
     },
-    "1316": {
-      "orig": "casual",
-      "ko": "캐주얼"
-    },
-    "1317": {
-      "orig": "social",
-      "ko": "친선"
-    },
     "1318": {
       "orig": "ranked warmups",
       "ko": "랭크 워밍업"
-    },
-    "1319": {
-      "orig": "comp",
-      "ko": "경쟁"
-    },
-    "1320": {
-      "orig": "vet",
-      "ko": "베테랑"
-    },
-    "1321": {
-      "orig": "real",
-      "ko": "리얼"
     },
     "1323": {
       "orig": "sweaty chaos",
@@ -3697,10 +2989,6 @@
     "1423": {
       "orig": "%s is missing a player",
       "ko": "%s에 플레이어가 부족합니다"
-    },
-    "1432": {
-      "orig": "stats",
-      "ko": "기록"
     }
   },
   "game/character/studio/locker_studio.gdc": {
@@ -4055,418 +3343,6 @@
     "423": {
       "orig": "pick a folder for your pictures",
       "ko": "이미지를 저장할 폴더 선택"
-    },
-    "0": {
-      "orig": "square",
-      "ko": "정사각형"
-    },
-    "7": {
-      "orig": "wide",
-      "ko": "와이드"
-    },
-    "17": {
-      "orig": "tall",
-      "ko": "세로형"
-    },
-    "29": {
-      "orig": "balls",
-      "ko": "공"
-    },
-    "50": {
-      "orig": "char",
-      "ko": "캐릭터"
-    },
-    "53": {
-      "orig": "text",
-      "ko": "텍스트"
-    },
-    "56": {
-      "orig": "sticker",
-      "ko": "스티커"
-    },
-    "59": {
-      "orig": "ball",
-      "ko": "공"
-    },
-    "61": {
-      "orig": "pattern",
-      "ko": "패턴"
-    },
-    "63": {
-      "orig": "box",
-      "ko": "박스"
-    },
-    "66": {
-      "orig": "table",
-      "ko": "테이블"
-    },
-    "68": {
-      "orig": "callout",
-      "ko": "말풍선"
-    },
-    "70": {
-      "orig": "arrow",
-      "ko": "화살표"
-    },
-    "84": {
-      "orig": "body",
-      "ko": "본문"
-    },
-    "88": {
-      "orig": "you",
-      "ko": "나"
-    },
-    "113": {
-      "orig": "logo",
-      "ko": "로고"
-    },
-    "116": {
-      "orig": "nationals",
-      "ko": "전국대회"
-    },
-    "121": {
-      "orig": "scale",
-      "ko": "크기"
-    },
-    "122": {
-      "orig": "rotate",
-      "ko": "회전"
-    },
-    "123": {
-      "orig": "top",
-      "ko": "위"
-    },
-    "124": {
-      "orig": "center",
-      "ko": "가운데"
-    },
-    "127": {
-      "orig": "move",
-      "ko": "이동"
-    },
-    "139": {
-      "orig": "left",
-      "ko": "왼쪽"
-    },
-    "140": {
-      "orig": "middle",
-      "ko": "중앙"
-    },
-    "141": {
-      "orig": "right",
-      "ko": "오른쪽"
-    },
-    "143": {
-      "orig": "bottom",
-      "ko": "아래"
-    },
-    "154": {
-      "orig": "back",
-      "ko": "뒤로"
-    },
-    "171": {
-      "orig": "trimmed",
-      "ko": "여백 제거"
-    },
-    "184": {
-      "orig": "background",
-      "ko": "배경"
-    },
-    "185": {
-      "orig": "add",
-      "ko": "추가"
-    },
-    "186": {
-      "orig": "layers",
-      "ko": "레이어"
-    },
-    "187": {
-      "orig": "edit",
-      "ko": "편집"
-    },
-    "188": {
-      "orig": "options",
-      "ko": "옵션"
-    },
-    "190": {
-      "orig": "reset",
-      "ko": "초기화"
-    },
-    "192": {
-      "orig": "shape",
-      "ko": "모양"
-    },
-    "193": {
-      "orig": "size",
-      "ko": "크기"
-    },
-    "194": {
-      "orig": "resolution",
-      "ko": "해상도"
-    },
-    "197": {
-      "orig": "project",
-      "ko": "프로젝트"
-    },
-    "202": {
-      "orig": "pieces",
-      "ko": "요소"
-    },
-    "206": {
-      "orig": "scrub",
-      "ko": "미세 조정"
-    },
-    "208": {
-      "orig": "color",
-      "ko": "색상"
-    },
-    "209": {
-      "orig": "transparent",
-      "ko": "투명"
-    },
-    "227": {
-      "orig": "swap",
-      "ko": "교체"
-    },
-    "228": {
-      "orig": "strength",
-      "ko": "강도"
-    },
-    "231": {
-      "orig": "look",
-      "ko": "외형"
-    },
-    "234": {
-      "orig": "slot ",
-      "ko": "슬롯 "
-    },
-    "236": {
-      "orig": "random",
-      "ko": "무작위"
-    },
-    "238": {
-      "orig": "%s slot %d",
-      "ko": "%s 슬롯 %d"
-    },
-    "239": {
-      "orig": "characters",
-      "ko": "캐릭터"
-    },
-    "246": {
-      "orig": "stickers",
-      "ko": "스티커"
-    },
-    "248": {
-      "orig": "tape",
-      "ko": "테이프"
-    },
-    "253": {
-      "orig": "patterns",
-      "ko": "패턴"
-    },
-    "258": {
-      "orig": "clear",
-      "ko": "지우기"
-    },
-    "259": {
-      "orig": "cancel",
-      "ko": "취소"
-    },
-    "261": {
-      "orig": "tilt",
-      "ko": "기울기"
-    },
-    "268": {
-      "orig": "adding",
-      "ko": "추가 중"
-    },
-    "276": {
-      "orig": "name",
-      "ko": "이름"
-    },
-    "279": {
-      "orig": "place",
-      "ko": "배치"
-    },
-    "280": {
-      "orig": "mirror",
-      "ko": "좌우 반전"
-    },
-    "281": {
-      "orig": "%d picked",
-      "ko": "%d개 선택됨"
-    },
-    "283": {
-      "orig": "duplicate",
-      "ko": "복제"
-    },
-    "284": {
-      "orig": "delete",
-      "ko": "삭제"
-    },
-    "285": {
-      "orig": "shadow",
-      "ko": "그림자"
-    },
-    "288": {
-      "orig": "distance",
-      "ko": "거리"
-    },
-    "290": {
-      "orig": "direction",
-      "ko": "방향"
-    },
-    "293": {
-      "orig": "softness",
-      "ko": "부드러움"
-    },
-    "307": {
-      "orig": "frame",
-      "ko": "프레임"
-    },
-    "308": {
-      "orig": "turn",
-      "ko": "방향 전환"
-    },
-    "310": {
-      "orig": "barefoot",
-      "ko": "맨발"
-    },
-    "313": {
-      "orig": "style",
-      "ko": "스타일"
-    },
-    "315": {
-      "orig": "fill",
-      "ko": "채우기"
-    },
-    "317": {
-      "orig": "outline",
-      "ko": "윤곽선"
-    },
-    "323": {
-      "orig": "thickness",
-      "ko": "두께"
-    },
-    "325": {
-      "orig": "school",
-      "ko": "학교"
-    },
-    "326": {
-      "orig": "beach",
-      "ko": "해변"
-    },
-    "330": {
-      "orig": "spin",
-      "ko": "회전"
-    },
-    "331": {
-      "orig": "roll",
-      "ko": "기울기"
-    },
-    "333": {
-      "orig": "width",
-      "ko": "너비"
-    },
-    "334": {
-      "orig": "height",
-      "ko": "높이"
-    },
-    "335": {
-      "orig": "aim",
-      "ko": "조준"
-    },
-    "336": {
-      "orig": "jump",
-      "ko": "점프"
-    },
-    "337": {
-      "orig": "contact",
-      "ko": "컨택트"
-    },
-    "338": {
-      "orig": "set",
-      "ko": "토스"
-    },
-    "339": {
-      "orig": "dive",
-      "ko": "다이브"
-    },
-    "340": {
-      "orig": "block",
-      "ko": "블로킹"
-    },
-    "341": {
-      "orig": "strafe",
-      "ko": "스트레이프"
-    },
-    "342": {
-      "orig": "sprint",
-      "ko": "스프린트"
-    },
-    "343": {
-      "orig": "serve",
-      "ko": "서브"
-    },
-    "346": {
-      "orig": "stats",
-      "ko": "기록"
-    },
-    "351": {
-      "orig": "book",
-      "ko": "가이드"
-    },
-    "353": {
-      "orig": "header",
-      "ko": "제목"
-    },
-    "364": {
-      "orig": "title",
-      "ko": "제목"
-    },
-    "372": {
-      "orig": "card",
-      "ko": "카드"
-    },
-    "373": {
-      "orig": "corners",
-      "ko": "모서리"
-    },
-    "374": {
-      "orig": "number",
-      "ko": "번호"
-    },
-    "376": {
-      "orig": "ring",
-      "ko": "링"
-    },
-    "377": {
-      "orig": "edge",
-      "ko": "테두리"
-    },
-    "378": {
-      "orig": "bend",
-      "ko": "휘어짐"
-    },
-    "381": {
-      "orig": "controls",
-      "ko": "조작"
-    },
-    "387": {
-      "orig": "rules",
-      "ko": "규칙"
-    },
-    "389": {
-      "orig": "border",
-      "ko": "테두리"
-    },
-    "394": {
-      "orig": "projects",
-      "ko": "프로젝트"
-    },
-    "402": {
-      "orig": "guides",
-      "ko": "안내선"
     }
   },
   "game/core/match_modifiers.gdc": {
@@ -4533,62 +3409,6 @@
     "59": {
       "orig": "no %s",
       "ko": "%s 없음"
-    },
-    "2": {
-      "orig": "off",
-      "ko": "끔"
-    },
-    "3": {
-      "orig": "normal",
-      "ko": "보통"
-    },
-    "4": {
-      "orig": "fast",
-      "ko": "빠름"
-    },
-    "5": {
-      "orig": "chaos",
-      "ko": "카오스"
-    },
-    "6": {
-      "orig": "15s",
-      "ko": "15초"
-    },
-    "7": {
-      "orig": "20s",
-      "ko": "20초"
-    },
-    "8": {
-      "orig": "30s",
-      "ko": "30초"
-    },
-    "9": {
-      "orig": "45s",
-      "ko": "45초"
-    },
-    "10": {
-      "orig": "60s",
-      "ko": "60초"
-    },
-    "11": {
-      "orig": "all",
-      "ko": "모두"
-    },
-    "12": {
-      "orig": "home",
-      "ko": "홈"
-    },
-    "13": {
-      "orig": "away",
-      "ko": "어웨이"
-    },
-    "14": {
-      "orig": "none",
-      "ko": "없음"
-    },
-    "15": {
-      "orig": "manual",
-      "ko": "수동"
     }
   },
   "game/drills/drill_objective.gdc": {
@@ -5359,30 +4179,6 @@
     "168": {
       "orig": "thank you to ",
       "ko": "도움을 주신 분: "
-    },
-    "92": {
-      "orig": "credits",
-      "ko": "크레딧"
-    },
-    "161": {
-      "orig": "for",
-      "ko": "기여"
-    },
-    "164": {
-      "orig": "names",
-      "ko": "이름"
-    },
-    "169": {
-      "orig": "License",
-      "ko": "라이선스"
-    },
-    "176": {
-      "orig": "You",
-      "ko": "플레이어"
-    },
-    "182": {
-      "orig": "exit",
-      "ko": "나가기"
     }
   },
   "game/ui/how_to_panel.gdc": {
@@ -6684,17 +5480,9 @@
       "orig": "   native",
       "ko": "   원본(네이티브)"
     },
-    "33": {
-      "orig": "sfx",
-      "ko": "효과음"
-    },
     "377": {
       "orig": "%d finished. claim them on the awards page",
       "ko": "%d개 완료됨. 업적 페이지에서 보상을 받으세요"
-    },
-    "416": {
-      "orig": "disabled",
-      "ko": "비활성화"
     }
   },
   "game/ui/title.gdc": {
@@ -8433,62 +7221,6 @@
     "294": {
       "orig": "no free devices",
       "ko": "사용 가능한 장치 없음"
-    },
-    "16": {
-      "orig": "gym",
-      "ko": "체육관"
-    },
-    "18": {
-      "orig": "profile",
-      "ko": "프로필"
-    },
-    "19": {
-      "orig": "device",
-      "ko": "장치"
-    },
-    "20": {
-      "orig": "controls",
-      "ko": "조작"
-    },
-    "21": {
-      "orig": "settings",
-      "ko": "설정"
-    },
-    "22": {
-      "orig": "title",
-      "ko": "칭호"
-    },
-    "24": {
-      "orig": "captain",
-      "ko": "주장"
-    },
-    "40": {
-      "orig": "host",
-      "ko": "호스트"
-    },
-    "48": {
-      "orig": "gamepad",
-      "ko": "게임패드"
-    },
-    "115": {
-      "orig": "guest",
-      "ko": "게스트"
-    },
-    "118": {
-      "orig": "confirm",
-      "ko": "확인"
-    },
-    "167": {
-      "orig": "outfit",
-      "ko": "복장"
-    },
-    "174": {
-      "orig": "close",
-      "ko": "닫기"
-    },
-    "177": {
-      "orig": "back",
-      "ko": "뒤로"
     }
   },
   "game/ui/how_to_play.gdc": {
@@ -9164,137 +7896,21 @@
       "orig": "showing: gym",
       "ko": "표시 중: 체육관"
     },
-    "66": {
-      "orig": "face",
-      "ko": "얼굴"
-    },
-    "67": {
-      "orig": "body",
-      "ko": "체형"
-    },
-    "68": {
-      "orig": "voice",
-      "ko": "목소리"
-    },
-    "69": {
-      "orig": "hair",
-      "ko": "헤어"
-    },
-    "70": {
-      "orig": "accessories",
-      "ko": "액세서리"
-    },
-    "71": {
-      "orig": "uniforms",
-      "ko": "유니폼"
-    },
-    "72": {
-      "orig": "outfits",
-      "ko": "의상"
-    },
-    "73": {
-      "orig": "presets",
-      "ko": "프리셋"
-    },
-    "74": {
-      "orig": "studio",
-      "ko": "스튜디오"
-    },
-    "75": {
-      "orig": "look",
-      "ko": "외형"
-    },
-    "76": {
-      "orig": "eyes",
-      "ko": "눈"
-    },
-    "77": {
-      "orig": "brows",
-      "ko": "눈썹"
-    },
-    "78": {
-      "orig": "nose",
-      "ko": "코"
-    },
-    "79": {
-      "orig": "mouth",
-      "ko": "입"
-    },
-    "80": {
-      "orig": "head",
-      "ko": "머리"
-    },
-    "81": {
-      "orig": "extra",
-      "ko": "기타"
-    },
-    "82": {
-      "orig": "style",
-      "ko": "스타일"
-    },
-    "83": {
-      "orig": "facial",
-      "ko": "수염"
-    },
     "84": {
       "orig": "facial hair",
       "ko": "수염"
-    },
-    "85": {
-      "orig": "uniform",
-      "ko": "유니폼"
     },
     "86": {
       "orig": "captain uniform",
       "ko": "주장 유니폼"
     },
-    "87": {
-      "orig": "gym",
-      "ko": "체육관"
-    },
     "88": {
       "orig": "gym outfit",
       "ko": "체육관 복장"
     },
-    "89": {
-      "orig": "canvas",
-      "ko": "캔버스"
-    },
-    "90": {
-      "orig": "background",
-      "ko": "배경"
-    },
-    "91": {
-      "orig": "add",
-      "ko": "추가"
-    },
-    "92": {
-      "orig": "layers",
-      "ko": "레이어"
-    },
-    "93": {
-      "orig": "edit",
-      "ko": "편집"
-    },
-    "94": {
-      "orig": "options",
-      "ko": "옵션"
-    },
-    "101": {
-      "orig": "save",
-      "ko": "저장"
-    },
     "158": {
       "orig": "showing: uniform",
       "ko": "표시 중: 유니폼"
-    },
-    "164": {
-      "orig": "locker",
-      "ko": "라커"
-    },
-    "198": {
-      "orig": "exit",
-      "ko": "나가기"
     },
     "201": {
       "orig": "save and exit",
@@ -9303,10 +7919,6 @@
     "211": {
       "orig": "spin: off",
       "ko": "회전: 끄기"
-    },
-    "212": {
-      "orig": "return",
-      "ko": "돌아가기"
     },
     "222": {
       "orig": "spin: on",
@@ -9324,30 +7936,6 @@
       "orig": "clear canvas",
       "ko": "캔버스 비우기"
     },
-    "226": {
-      "orig": "preview",
-      "ko": "미리보기"
-    },
-    "227": {
-      "orig": "undo",
-      "ko": "실행 취소"
-    },
-    "228": {
-      "orig": "redo",
-      "ko": "다시 실행"
-    },
-    "230": {
-      "orig": "randomize",
-      "ko": "무작위"
-    },
-    "231": {
-      "orig": "reset",
-      "ko": "초기화"
-    },
-    "234": {
-      "orig": "editor",
-      "ko": "편집기"
-    },
     "235": {
       "orig": "export draft",
       "ko": "초안 내보내기"
@@ -9355,22 +7943,6 @@
     "236": {
       "orig": "Open the exporter with this unsaved look",
       "ko": "저장하지 않은 현재 외형으로 내보내기 창 열기"
-    },
-    "237": {
-      "orig": "export",
-      "ko": "내보내기"
-    },
-    "238": {
-      "orig": "shop",
-      "ko": "상점"
-    },
-    "248": {
-      "orig": "back",
-      "ko": "뒤로"
-    },
-    "253": {
-      "orig": "exporting...",
-      "ko": "내보내는 중..."
     },
     "254": {
       "orig": "saves to %s",
@@ -9384,73 +7956,13 @@
       "orig": "saved to %s",
       "ko": "%s에 저장 완료"
     },
-    "291": {
-      "orig": "paste",
-      "ko": "붙여넣기"
-    },
     "300": {
       "orig": "custom skin color",
       "ko": "사용자 지정 피부색"
     },
-    "318": {
-      "orig": "adjust",
-      "ko": "조정"
-    },
-    "319": {
-      "orig": "gear",
-      "ko": "장비"
-    },
-    "323": {
-      "orig": "chest",
-      "ko": "가슴"
-    },
-    "325": {
-      "orig": "hips",
-      "ko": "골반"
-    },
-    "327": {
-      "orig": "knees",
-      "ko": "무릎"
-    },
-    "330": {
-      "orig": "shins",
-      "ko": "정강이"
-    },
-    "332": {
-      "orig": "feet",
-      "ko": "발"
-    },
-    "341": {
-      "orig": "ear",
-      "ko": "귀"
-    },
-    "342": {
-      "orig": "skin",
-      "ko": "피부"
-    },
     "377": {
       "orig": "randomize %s",
       "ko": "%s 무작위"
-    },
-    "382": {
-      "orig": "color",
-      "ko": "색상"
-    },
-    "386": {
-      "orig": "paint",
-      "ko": "색칠"
-    },
-    "387": {
-      "orig": "done",
-      "ko": "완료"
-    },
-    "396": {
-      "orig": "none",
-      "ko": "없음"
-    },
-    "413": {
-      "orig": "blush",
-      "ko": "볼터치"
     },
     "414": {
       "orig": "scale x",
@@ -9460,33 +7972,9 @@
       "orig": "scale y",
       "ko": "세로 크기"
     },
-    "416": {
-      "orig": "vertical",
-      "ko": "수직"
-    },
-    "417": {
-      "orig": "spacing",
-      "ko": "간격"
-    },
-    "418": {
-      "orig": "tilt",
-      "ko": "기울기"
-    },
-    "419": {
-      "orig": "opacity",
-      "ko": "불투명도"
-    },
     "420": {
       "orig": "lash color",
       "ko": "속눈썹 색상"
-    },
-    "421": {
-      "orig": "lash",
-      "ko": "속눈썹"
-    },
-    "422": {
-      "orig": "horizontal",
-      "ko": "수평"
     },
     "423": {
       "orig": "eye color",
@@ -9496,33 +7984,9 @@
       "orig": "brow color",
       "ko": "눈썹 색상"
     },
-    "425": {
-      "orig": "flip",
-      "ko": "반전"
-    },
-    "426": {
-      "orig": "colors",
-      "ko": "색상"
-    },
     "427": {
       "orig": "color %d",
       "ko": "색상 %d"
-    },
-    "428": {
-      "orig": "gradient",
-      "ko": "그라데이션"
-    },
-    "429": {
-      "orig": "  bottom",
-      "ko": "  아래"
-    },
-    "430": {
-      "orig": "  position",
-      "ko": "  위치"
-    },
-    "431": {
-      "orig": "  softness",
-      "ko": "  부드러움"
     },
     "432": {
       "orig": "no facial hair styles yet",
@@ -9531,22 +7995,6 @@
     "433": {
       "orig": "match hair",
       "ko": "머리색에 맞춤"
-    },
-    "436": {
-      "orig": "depth",
-      "ko": "깊이"
-    },
-    "439": {
-      "orig": "turn",
-      "ko": "방향 전환"
-    },
-    "441": {
-      "orig": "roll",
-      "ko": "기울기"
-    },
-    "443": {
-      "orig": "scale",
-      "ko": "크기"
     },
     "447": {
       "orig": "scale z",
@@ -9564,37 +8012,13 @@
       "orig": "no %s items yet",
       "ko": "아직 %s 아이템이 없습니다"
     },
-    "452": {
-      "orig": "backwards",
-      "ko": "거꾸로 쓰기"
-    },
     "453": {
       "orig": "hide hair",
       "ko": "머리카락 숨기기"
     },
-    "454": {
-      "orig": "  gradient",
-      "ko": "  그라데이션"
-    },
-    "470": {
-      "orig": "supporter",
-      "ko": "서포터"
-    },
-    "474": {
-      "orig": "height",
-      "ko": "키"
-    },
-    "475": {
-      "orig": "build",
-      "ko": "체격"
-    },
     "476": {
       "orig": "head shape",
       "ko": "얼굴형"
-    },
-    "477": {
-      "orig": "ears",
-      "ko": "귀"
     },
     "479": {
       "orig": "preferred hand",
@@ -9608,37 +8032,13 @@
       "orig": "right handed",
       "ko": "오른손잡이"
     },
-    "482": {
-      "orig": "number",
-      "ko": "등번호"
-    },
-    "485": {
-      "orig": "shirt",
-      "ko": "상의"
-    },
-    "486": {
-      "orig": "hoodie",
-      "ko": "후드티"
-    },
     "487": {
       "orig": "match shirt",
       "ko": "상의에 맞춤"
     },
-    "488": {
-      "orig": "shorts",
-      "ko": "반바지"
-    },
-    "489": {
-      "orig": "socks",
-      "ko": "양말"
-    },
     "490": {
       "orig": "wear socks",
       "ko": "양말 착용"
-    },
-    "491": {
-      "orig": "kneepads",
-      "ko": "무릎 보호대"
     },
     "492": {
       "orig": "right color",
@@ -9668,18 +8068,6 @@
       "orig": "wear kneepads",
       "ko": "무릎 보호대 착용"
     },
-    "502": {
-      "orig": "shoes",
-      "ko": "신발"
-    },
-    "503": {
-      "orig": "jersey",
-      "ko": "유니폼"
-    },
-    "504": {
-      "orig": "trim",
-      "ko": "배색"
-    },
     "505": {
       "orig": "your jersey is too bright for this number color, using fallback",
       "ko": "유니폼이 너무 밝아 등번호가 잘 보이지 않아 대체 색상을 적용합니다"
@@ -9691,14 +8079,6 @@
     "507": {
       "orig": "voice %d",
       "ko": "목소리 %d"
-    },
-    "508": {
-      "orig": "pitch",
-      "ko": "음높이"
-    },
-    "509": {
-      "orig": "speed",
-      "ko": "속도"
     },
     "510": {
       "orig": "hear it",
@@ -9712,49 +8092,17 @@
       "orig": "load & save custom characters",
       "ko": "커스텀 캐릭터 불러오기 및 저장"
     },
-    "513": {
-      "orig": "import",
-      "ko": "불러오기"
-    },
     "517": {
       "orig": "slot %d",
       "ko": "슬롯 %d"
-    },
-    "518": {
-      "orig": "empty",
-      "ko": "비어 있음"
     },
     "519": {
       "orig": "save here",
       "ko": "여기에 저장"
     },
-    "520": {
-      "orig": "wear",
-      "ko": "착용"
-    },
-    "521": {
-      "orig": "share",
-      "ko": "공유"
-    },
-    "522": {
-      "orig": "clear",
-      "ko": "비우기"
-    },
-    "523": {
-      "orig": "preset",
-      "ko": "프리셋"
-    },
-    "524": {
-      "orig": "level",
-      "ko": "레벨"
-    },
     "525": {
       "orig": "this profile is missing items in this preset",
       "ko": "이 프로필에 해당 프리셋의 일부 아이템이 없습니다"
-    },
-    "526": {
-      "orig": "player",
-      "ko": "플레이어"
     },
     "527": {
       "orig": "look imported",
@@ -9768,30 +8116,6 @@
       "orig": "undo changes",
       "ko": "변경 취소"
     },
-    "554": {
-      "orig": "ready!",
-      "ko": "준비 완료!"
-    },
-    "555": {
-      "orig": "ready",
-      "ko": "준비"
-    },
-    "560": {
-      "orig": "avatar",
-      "ko": "아바타"
-    },
-    "562": {
-      "orig": "tallest",
-      "ko": "최장신"
-    },
-    "564": {
-      "orig": "shortest",
-      "ko": "최단신"
-    },
-    "569": {
-      "orig": "close",
-      "ko": "닫기"
-    },
     "571": {
       "orig": "exit without saving?",
       "ko": "저장하지 않고 나가시겠습니까?"
@@ -9799,85 +8123,9 @@
     "572": {
       "orig": "your changes to this look will be lost",
       "ko": "변경한 외형은 저장되지 않고 사라집니다"
-    },
-    "573": {
-      "orig": "cancel",
-      "ko": "취소"
     }
   },
   "game/character/player_card.gdc": {
-    "52": {
-      "orig": "number",
-      "ko": "등번호"
-    },
-    "54": {
-      "orig": "hand",
-      "ko": "주로 쓰는 손"
-    },
-    "55": {
-      "orig": "left",
-      "ko": "왼손"
-    },
-    "56": {
-      "orig": "right",
-      "ko": "오른손"
-    },
-    "57": {
-      "orig": "height",
-      "ko": "키"
-    },
-    "58": {
-      "orig": "short",
-      "ko": "작음"
-    },
-    "59": {
-      "orig": "average",
-      "ko": "보통"
-    },
-    "60": {
-      "orig": "tall",
-      "ko": "큼"
-    },
-    "61": {
-      "orig": "build",
-      "ko": "체격"
-    },
-    "62": {
-      "orig": "slim",
-      "ko": "마름"
-    },
-    "63": {
-      "orig": "broad",
-      "ko": "건장"
-    },
-    "96": {
-      "orig": "captain",
-      "ko": "주장"
-    },
-    "97": {
-      "orig": "gym",
-      "ko": "체육관"
-    },
-    "98": {
-      "orig": "outfit",
-      "ko": "복장"
-    },
-    "99": {
-      "orig": "background",
-      "ko": "배경"
-    },
-    "101": {
-      "orig": "size",
-      "ko": "크기"
-    },
-    "103": {
-      "orig": "tilt",
-      "ko": "기울기"
-    },
-    "104": {
-      "orig": "rotate",
-      "ko": "회전"
-    },
     "105": {
       "orig": "move: lmb      resize: scroll",
       "ko": "이동: 좌클릭      크기: 스크롤"
@@ -9889,10 +8137,6 @@
     "110": {
       "orig": "save picture",
       "ko": "사진 저장"
-    },
-    "114": {
-      "orig": "title",
-      "ko": "칭호"
     },
     "123": {
       "orig": "code copied",
@@ -9934,167 +8178,9 @@
     }
   },
   "game/core/cpu_slots.gdc": {
-    "0": {
-      "orig": "easy",
-      "ko": "쉬움"
-    },
-    "1": {
-      "orig": "normal",
-      "ko": "보통"
-    },
-    "2": {
-      "orig": "hard",
-      "ko": "어려움"
-    },
     "27": {
       "orig": "cpu %d",
       "ko": "CPU %d"
-    },
-    "28": {
-      "orig": "custom",
-      "ko": "사용자 지정"
-    },
-    "31": {
-      "orig": "cpu",
-      "ko": "CPU"
-    }
-  },
-  "game/core/game_config.gdc": {
-    "19": {
-      "orig": "sfx",
-      "ko": "효과음"
-    },
-    "20": {
-      "orig": "feedback",
-      "ko": "피드백"
-    },
-    "21": {
-      "orig": "crowd",
-      "ko": "관중"
-    },
-    "22": {
-      "orig": "music",
-      "ko": "배경음악"
-    },
-    "23": {
-      "orig": "ambient",
-      "ko": "환경음"
-    },
-    "27": {
-      "orig": "socks",
-      "ko": "양말"
-    },
-    "28": {
-      "orig": "kneepad",
-      "ko": "무릎 보호대"
-    },
-    "35": {
-      "orig": "voice",
-      "ko": "목소리"
-    },
-    "48": {
-      "orig": "announcer",
-      "ko": "아나운서"
-    },
-    "54": {
-      "orig": "master",
-      "ko": "전체 음량"
-    },
-    "66": {
-      "orig": "classic (cel bands + ink outline)",
-      "ko": "클래식 (셀 셰이딩 + 잉크 윤곽선)"
-    },
-    "67": {
-      "orig": "screen ink (cel bands + post-process outline)",
-      "ko": "스크린 잉크 (셀 셰이딩 + 후처리 윤곽선)"
-    },
-    "68": {
-      "orig": "wii (no outline, gloss + rim light)",
-      "ko": "Wii 스타일 (윤곽선 없음, 광택 + 림 라이트)"
-    },
-    "75": {
-      "orig": "audio",
-      "ko": "오디오"
-    },
-    "76": {
-      "orig": "device",
-      "ko": "장치"
-    },
-    "77": {
-      "orig": "game",
-      "ko": "게임"
-    },
-    "101": {
-      "orig": "rumble",
-      "ko": "진동"
-    },
-    "118": {
-      "orig": "stage",
-      "ko": "스테이지"
-    },
-    "134": {
-      "orig": "difficulty",
-      "ko": "난이도"
-    },
-    "140": {
-      "orig": "video",
-      "ko": "비디오"
-    },
-    "142": {
-      "orig": "vsync",
-      "ko": "수직 동기화"
-    },
-    "147": {
-      "orig": "reflections",
-      "ko": "반사 효과"
-    },
-    "148": {
-      "orig": "bloom",
-      "ko": "블룸"
-    },
-    "149": {
-      "orig": "grass",
-      "ko": "잔디"
-    },
-    "157": {
-      "orig": "msaa",
-      "ko": "안티앨리어싱 (MSAA)"
-    },
-    "158": {
-      "orig": "shadows",
-      "ko": "그림자"
-    },
-    "160": {
-      "orig": "debug",
-      "ko": "디버그"
-    },
-    "161": {
-      "orig": "menu",
-      "ko": "메뉴"
-    },
-    "164": {
-      "orig": "hitboxes",
-      "ko": "히트박스"
-    },
-    "187": {
-      "orig": "gym",
-      "ko": "체육관"
-    },
-    "188": {
-      "orig": "nationals",
-      "ko": "전국대회"
-    },
-    "202": {
-      "orig": "on character",
-      "ko": "캐릭터 위"
-    },
-    "203": {
-      "orig": "on cursor",
-      "ko": "커서 위"
-    },
-    "204": {
-      "orig": "mixed",
-      "ko": "혼합"
     }
   },
   "game/core/input_prompts.gdc": {
@@ -10106,135 +8192,15 @@
       "orig": "Xbox Series",
       "ko": "Xbox 시리즈"
     },
-    "8": {
-      "orig": "Generic",
-      "ko": "일반 컨트롤러"
-    },
-    "9": {
-      "orig": "jump",
-      "ko": "점프"
-    },
-    "11": {
-      "orig": "contact",
-      "ko": "컨택트"
-    },
-    "13": {
-      "orig": "set",
-      "ko": "토스"
-    },
-    "15": {
-      "orig": "serve",
-      "ko": "서브"
-    },
-    "17": {
-      "orig": "dive",
-      "ko": "다이브"
-    },
-    "19": {
-      "orig": "block",
-      "ko": "블로킹"
-    },
-    "22": {
-      "orig": "view",
-      "ko": "시점"
-    },
-    "23": {
-      "orig": "stats",
-      "ko": "기록"
-    },
-    "30": {
-      "orig": "sprint",
-      "ko": "스프린트"
-    },
-    "32": {
-      "orig": "strafe",
-      "ko": "스트레이프"
-    },
-    "34": {
-      "orig": "move",
-      "ko": "이동"
-    },
-    "36": {
-      "orig": "aim",
-      "ko": "조준"
-    },
     "197": {
       "orig": "Keyboard & Mouse",
       "ko": "키보드 & 마우스"
-    },
-    "201": {
-      "orig": "left",
-      "ko": "왼쪽"
-    },
-    "202": {
-      "orig": "right",
-      "ko": "오른쪽"
-    },
-    "203": {
-      "orig": "up",
-      "ko": "위"
-    },
-    "204": {
-      "orig": "down",
-      "ko": "아래"
     }
   },
   "game/core/rules.gdc": {
-    "11": {
-      "orig": "home",
-      "ko": "홈"
-    },
-    "12": {
-      "orig": "away",
-      "ko": "어웨이"
-    },
-    "32": {
-      "orig": "spike",
-      "ko": "스파이크"
-    },
-    "62": {
-      "orig": "over",
-      "ko": "종료"
-    },
     "63": {
       "orig": "tie break",
       "ko": "타이브레이크"
-    },
-    "64": {
-      "orig": "deuce",
-      "ko": "듀스"
-    },
-    "65": {
-      "orig": "point",
-      "ko": "득점"
-    },
-    "87": {
-      "orig": "pts",
-      "ko": "득점"
-    },
-    "88": {
-      "orig": "ace",
-      "ko": "서브에이스"
-    },
-    "89": {
-      "orig": "blk",
-      "ko": "블록"
-    },
-    "90": {
-      "orig": "ast",
-      "ko": "어시스트"
-    },
-    "91": {
-      "orig": "dig",
-      "ko": "디그"
-    },
-    "92": {
-      "orig": "set",
-      "ko": "세트"
-    },
-    "93": {
-      "orig": "rcv",
-      "ko": "리시브"
     }
   },
   "game/court/cube_floor.gdc": {
@@ -10249,36 +8215,6 @@
     "26": {
       "orig": "playable-area tint",
       "ko": "코트 영역 색조"
-    }
-  },
-  "game/drills/drill_catalog.gdc": {
-    "1": {
-      "orig": "movement",
-      "ko": "이동"
-    },
-    "3": {
-      "orig": "serving",
-      "ko": "서브"
-    },
-    "4": {
-      "orig": "receiving",
-      "ko": "리시브"
-    },
-    "5": {
-      "orig": "attacking",
-      "ko": "공격"
-    },
-    "6": {
-      "orig": "blocking",
-      "ko": "블로킹"
-    },
-    "13": {
-      "orig": "available",
-      "ko": "도전 가능"
-    },
-    "17": {
-      "orig": "complete",
-      "ko": "완료"
     }
   },
   "game/net/migrate.gdc": {
@@ -10655,82 +8591,6 @@
       "ko": "플레이어 카드 열기"
     }
   },
-  "game/core/achievement_def.gdc": {
-    "7": {
-      "orig": "sec",
-      "ko": "초"
-    },
-    "8": {
-      "orig": "%dm / %dm",
-      "ko": "%d분 / %d분"
-    }
-  },
-  "game/core/cpu_names.gdc": {
-    "1": {
-      "orig": "Ace",
-      "ko": "에이스"
-    },
-    "2": {
-      "orig": "Bolt",
-      "ko": "볼트"
-    },
-    "3": {
-      "orig": "Comet",
-      "ko": "코멧"
-    },
-    "4": {
-      "orig": "Dash",
-      "ko": "대시"
-    },
-    "5": {
-      "orig": "Echo",
-      "ko": "에코"
-    },
-    "6": {
-      "orig": "Fox",
-      "ko": "폭스"
-    },
-    "7": {
-      "orig": "Ghost",
-      "ko": "고스트"
-    },
-    "8": {
-      "orig": "Hawk",
-      "ko": "호크"
-    },
-    "9": {
-      "orig": "Jet",
-      "ko": "제트"
-    },
-    "10": {
-      "orig": "Nova",
-      "ko": "노바"
-    },
-    "11": {
-      "orig": "Onyx",
-      "ko": "오닉스"
-    },
-    "12": {
-      "orig": "Rocket",
-      "ko": "로켓"
-    },
-    "13": {
-      "orig": "Sky",
-      "ko": "스카이"
-    },
-    "14": {
-      "orig": "Vex",
-      "ko": "벡스"
-    },
-    "15": {
-      "orig": "Wolf",
-      "ko": "울프"
-    },
-    "16": {
-      "orig": "Zane",
-      "ko": "제인"
-    }
-  },
   "game/core/local_player_slot.gdc": {
     "14": {
       "orig": "Guest",
@@ -10790,26 +8650,6 @@
     }
   },
   "game/core/team_kits.gdc": {
-    "65": {
-      "orig": "stripes",
-      "ko": "줄무늬"
-    },
-    "66": {
-      "orig": "front",
-      "ko": "전면"
-    },
-    "67": {
-      "orig": "back",
-      "ko": "후면"
-    },
-    "68": {
-      "orig": "collar",
-      "ko": "칼라"
-    },
-    "69": {
-      "orig": "bands",
-      "ko": "밴드"
-    },
     "70": {
       "orig": "stripes + bands",
       "ko": "줄무늬 + 밴드"
@@ -10817,14 +8657,6 @@
     "71": {
       "orig": "front + hems",
       "ko": "전면 + 밑단"
-    },
-    "72": {
-      "orig": "plain",
-      "ko": "무지"
-    },
-    "73": {
-      "orig": "accent",
-      "ko": "포인트"
     }
   },
   "game/fx/hitbox_view.gdc": {
@@ -11017,28 +8849,6 @@
       "ko": "팔뚝 (낮은 공)"
     }
   },
-  "game/net/room_tags.gdc": {
-    "4": {
-      "orig": "new player friendly",
-      "ko": "초보자 환영"
-    },
-    "8": {
-      "orig": "veterans",
-      "ko": "숙련자"
-    },
-    "10": {
-      "orig": "competitive",
-      "ko": "경쟁전"
-    },
-    "14": {
-      "orig": "positions",
-      "ko": "포지션 플레이"
-    },
-    "16": {
-      "orig": "realism",
-      "ko": "리얼리즘"
-    }
-  },
   "game/player/player.gdc": {
     "58": {
       "orig": "I got it!",
@@ -11095,28 +8905,6 @@
       "ko": "UI 숨기기  H"
     }
   },
-  "game/replay/watch_camera.gdc": {
-    "0": {
-      "orig": "dynamic",
-      "ko": "다이내믹"
-    },
-    "1": {
-      "orig": "broadcast",
-      "ko": "중계"
-    },
-    "2": {
-      "orig": "spectate",
-      "ko": "관전"
-    },
-    "3": {
-      "orig": "free",
-      "ko": "자유"
-    },
-    "29": {
-      "orig": "ball",
-      "ko": "공"
-    }
-  },
   "game/stage/dress_code.gdc": {
     "4": {
       "orig": "stage default",
@@ -11161,52 +8949,10 @@
       "ko": "잔디 코트"
     }
   },
-  "game/titles/title_catalog.gdc": {
-    "16": {
-      "orig": "lowercase",
-      "ko": "소문자"
-    },
-    "17": {
-      "orig": "UPPERCASE",
-      "ko": "대문자"
-    },
-    "18": {
-      "orig": "Camel Case",
-      "ko": "첫 글자 대문자"
-    }
-  },
   "game/ui/loading_cover.gdc": {
     "81": {
       "orig": "loading",
       "ko": "로딩 중"
-    }
-  },
-  "game/character/character_config.gdc": {
-    "78": {
-      "orig": "super short",
-      "ko": "아주 짧게"
-    },
-    "79": {
-      "orig": "Short",
-      "ko": "짧게"
-    },
-    "83": {
-      "orig": "tank top",
-      "ko": "탱크톱"
-    }
-  },
-  "game/character/studio/studio_layer.gdc": {
-    "64": {
-      "orig": "empty",
-      "ko": "비어 있음"
-    },
-    "65": {
-      "orig": "callout %s",
-      "ko": "말풍선 %s"
-    },
-    "66": {
-      "orig": "controls table",
-      "ko": "조작법 표"
     }
   },
   "game/core/profile_store.gdc": {
