@@ -287,7 +287,10 @@ def patch_res_text(raw: bytes, prop_name: str, new_text: str) -> bytes:
 
 
 def patch_scn_variants(raw: bytes, replacements: Dict[str, str]) -> bytes:
-    """Replace string variants by index (str(idx) -> new_text) in PackedScene _bundled.variants."""
+    """Replace string variants in PackedScene _bundled.variants.
+
+    Supports both index-keyed (str(idx) -> new_text) and orig-text-keyed (orig -> new_text).
+    """
     was_rscc = raw[:4] == b"RSCC"
     rsrc = bytearray(to_rsrc(raw))
     if was_rscc:
@@ -308,27 +311,40 @@ def patch_scn_variants(raw: bytes, replacements: Dict[str, str]) -> bytes:
     for i in range(cnt):
         elem_vtype = struct.unpack_from("<I", rsrc, pos)[0]
         key = str(i)
-        if key in replacements and elem_vtype == 5:
+        if elem_vtype == 5:
             spos = pos + 4
             old_ln = struct.unpack_from("<I", rsrc, spos)[0]
-            old_end = spos + 4 + old_ln
-            new_blob = _pack_ustring(replacements[key])
-            delta = len(new_blob) - (old_end - spos)
-            rsrc[spos:old_end] = new_blob
-            _shift_rsrc_offsets(rsrc, old_end, delta)
-            pos = spos + len(new_blob)
-        else:
-            pos = _skip_variant(rsrc, pos)
+            old_str = rsrc[spos + 4 : spos + 4 + old_ln].rstrip(b"\x00").decode("utf-8", errors="replace")
+            new_text = replacements.get(key) or replacements.get(old_str)
+            if new_text:
+                old_end = spos + 4 + old_ln
+                new_blob = _pack_ustring(new_text)
+                delta = len(new_blob) - (old_end - spos)
+                rsrc[spos:old_end] = new_blob
+                _shift_rsrc_offsets(rsrc, old_end, delta)
+                pos = spos + len(new_blob)
+                continue
+        pos = _skip_variant(rsrc, pos)
     return bytes(rsrc)
 
 
-def patch_gdc(raw: bytes, replacements: Dict[str, dict]) -> bytes:
-    """Replace string constants in GDSC bytecode.
+def patch_gdc(raw: bytes, replacements: Dict[str, object]) -> bytes:
+    """Replace string constants in GDSC bytecode by matching original string text.
 
-    replacements maps str(const_idx) -> {"orig": str, "ko": str}.
+    replacements can map either str(const_idx) -> {"orig": str, "ko": str}
+    or orig_str -> ko_str directly (version-resilient).
     """
     if raw[:4] != b"GDSC":
         raise ValueError("Not a GDSC file")
+    orig_to_ko: Dict[str, str] = {}
+    for v in replacements.values() if False else []:
+        pass
+    for k, v in replacements.items():
+        if isinstance(v, dict):
+            orig_to_ko[v["orig"]] = v["ko"]
+        elif isinstance(v, str):
+            orig_to_ko[k] = v
+
     ver, dec_sz = struct.unpack_from("<II", raw, 4)
     dec = (
         raw[12:]
@@ -348,16 +364,14 @@ def patch_gdc(raw: bytes, replacements: Dict[str, dict]) -> bytes:
         vtype = struct.unpack_from("<I", dec, pos)[0]
         bt = vtype & 0xFFFF
         fl = vtype >> 16
-        key = str(i)
         if bt in (4, 21):
             slen = struct.unpack_from("<I", dec, pos + 4)[0]
             s_bytes = dec[pos + 8 : pos + 8 + slen]
             padded_end = pos + 8 + ((slen + 3) & ~3)
-            if bt == 4 and key in replacements:
-                entry = replacements[key]
+            if bt == 4:
                 orig_s = s_bytes.decode("utf-8", errors="replace")
-                if orig_s == entry["orig"]:
-                    ko_bytes = entry["ko"].encode("utf-8")
+                if orig_s in orig_to_ko:
+                    ko_bytes = orig_to_ko[orig_s].encode("utf-8")
                     pad = (-len(ko_bytes)) % 4
                     out.extend(struct.pack("<II", vtype, len(ko_bytes)))
                     out.extend(ko_bytes + (b"\x00" * pad))
@@ -404,6 +418,39 @@ def patch_gdc(raw: bytes, replacements: Dict[str, dict]) -> bytes:
     new_dec = bytes(out)
     comp = zstandard.ZstdCompressor(level=6).compress(new_dec)
     return b"GDSC" + struct.pack("<II", ver, len(new_dec)) + comp
+
+
+def is_pck_patched(pck_path: str) -> bool:
+    """Return True if volleyball.pck already contains Korean-patched how_to_text.json."""
+    try:
+        with open(pck_path, "rb") as f:
+            header = f.read(112)
+            if header[:4] != b"GDPC":
+                return False
+            file_base = struct.unpack_from("<Q", header, 24)[0]
+            dir_off = struct.unpack_from("<Q", header, 32)[0]
+            f.seek(dir_off)
+            file_count = struct.unpack("<I", f.read(4))[0]
+            f.read(16)
+            enc_size = struct.unpack("<Q", f.read(8))[0]
+            iv = f.read(16)
+            dec_dir = aes_cfb_decrypt(PCK_KEY, iv, f.read())[:enc_size]
+            pos = 0
+            for _ in range(file_count):
+                plen = struct.unpack_from("<I", dec_dir, pos)[0]
+                pos += 4
+                path = dec_dir[pos : pos + plen].rstrip(b"\x00").decode("utf-8", errors="replace")
+                pos += plen
+                off, sz = struct.unpack_from("<QQ", dec_dir, pos)
+                pos += 36
+                if path == "game/ui/how_to_text.json":
+                    f.seek(file_base + off)
+                    plain = decrypt_fae(f.read(40 + ((sz + 15) // 16) * 16), PCK_KEY)
+                    txt = plain.decode("utf-8", errors="ignore")
+                    return "조작" in txt or "배구" in txt
+        return False
+    except Exception:
+        return False
 
 
 def rebuild_pck(

@@ -2646,5 +2646,61 @@
   "export-fe16c5806cbe344afcc73493a1506131-robot.res": {
     "prop": "text",
     "ko": "로봇"
+  },
+  "export-097ad6fc8e2f836bc1f53ae263e98249-ranked_all_star.res": {
+    "prop": "text",
+    "ko": "올스타"
+  },
+  "export-0dbc13018d817bb1efbd245e03d60b53-spiker_man.res": {
+    "prop": "text",
+    "ko": "스파이커 맨"
+  },
+  "export-3627a6d07246d4615cdd16f9283f02b7-setter_man.res": {
+    "prop": "text",
+    "ko": "세터 맨"
+  },
+  "export-5e2ce9cf741cc48a1a9bacbf0fb4e165-ranked_national.res": {
+    "prop": "text",
+    "ko": "국가대표"
+  },
+  "export-74519992dbdd3c9f3bab1fc339bb7e2e-ranked_novice.res": {
+    "prop": "text",
+    "ko": "노비스"
+  },
+  "export-7b0b2c5509649358ad02d93cd44b214b-ranked_semi_pro.res": {
+    "prop": "text",
+    "ko": "세미프로"
+  },
+  "export-872b4cb94f8a9a712f1d8e9b61e76fb2-ranked_amateur.res": {
+    "prop": "text",
+    "ko": "아마추어"
+  },
+  "export-8dc541d0578f3197564af5c5a03b64fb-potential_man.res": {
+    "prop": "text",
+    "ko": "포텐셜 맨"
+  },
+  "export-9e2db67b9c7f5bc642161331dbcae049-ranked_rookie.res": {
+    "prop": "text",
+    "ko": "루키"
+  },
+  "export-abb040b9a4232ae3c7ad56109373876a-blocker_man.res": {
+    "prop": "text",
+    "ko": "블로커 맨"
+  },
+  "export-aef88cee55f71edd1e014fc003c20dc9-ranked_pro.res": {
+    "prop": "text",
+    "ko": "프로"
+  },
+  "export-afa675945e06a505910312b98d3207f9-bunny.res": {
+    "prop": "text",
+    "ko": "토끼"
+  },
+  "export-c733da2001459b255b2a5de56f4e15fe-libero_man.res": {
+    "prop": "text",
+    "ko": "리베로 맨"
+  },
+  "export-ceead106c85737807d6af7e28f439990-puppy.res": {
+    "prop": "text",
+    "ko": "멍멍이"
   }
 }

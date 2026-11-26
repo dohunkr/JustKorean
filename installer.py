@@ -13,6 +13,7 @@ from tkinter import filedialog, messagebox, ttk
 from typing import Callable, Dict, Optional
 
 from patch_engine import (
+    is_pck_patched,
     patch_fontdata,
     patch_gdc,
     patch_res_text,
@@ -150,7 +151,7 @@ def install_patch(
     if not os.path.isfile(pck_path):
         raise FileNotFoundError(f"{PCK_NAME} 파일을 찾을 수 없습니다: {game_dir}")
 
-    if not os.path.isfile(bak_path):
+    if not os.path.isfile(bak_path) or not is_pck_patched(pck_path):
         if progress_cb:
             progress_cb(0, 100, "원본 volleyball.pck 백업 생성 중...")
         shutil.copy2(pck_path, bak_path)
