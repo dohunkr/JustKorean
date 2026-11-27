@@ -1,0 +1,181 @@
+{
+  "game/ui/menu.gdc": {
+    "play": "플레이",
+    "locker": "라커",
+    "shop": "상점",
+    "profile": "프로필",
+    "career": "커리어",
+    "awards": "업적",
+    "online": "온라인",
+    "local": "로컬",
+    "practice": "연습",
+    "system settings": "시스템 설정",
+    "credits": "크레딧",
+    "ranked match": "랭크전",
+    "quick match": "빠른 대전",
+    "server browser": "서버 브라우저",
+    "custom lobby": "사용자 지정 로비",
+    "join lan": "LAN 참가",
+    "back": "뒤로",
+    "tutorial": "튜토리얼",
+    "how to play": "게임 방법",
+    "freeplay": "자유 연습",
+    "next": "다음",
+    "profile settings": "프로필 설정",
+    "name": "이름",
+    "remove": "제거",
+    "join": "참가",
+    "in party": "파티 중",
+    "invited": "초대됨",
+    "invite": "초대",
+    "sets": "세트",
+    "points": "점수",
+    "stage": "스테이지",
+    "password": "비밀번호",
+    "friends": "친구",
+    "close": "닫기",
+    "shuffle": "팀 섞기",
+    "spectators": "관전자",
+    "connection": "연결 상태",
+    "balance": "실력 균형",
+    "unranked": "언랭크",
+    "pro": "프로",
+    "delete": "삭제",
+    "cancel": "취소",
+    "exit": "종료",
+    "drills": "훈련",
+    "finish": "마치기",
+    "retry": "다시 시도"
+  },
+  "game/character/locker.gdc": {
+    "locker": "라커",
+    "exit": "나가기",
+    "reset": "초기화",
+    "custom skin color": "사용자 지정 피부색",
+    "none": "없음",
+    "supporter": "서포터",
+    "number": "등번호",
+    "color": "색상",
+    "save": "저장",
+    "back": "뒤로",
+    "close": "닫기",
+    "face": "얼굴",
+    "body": "체형",
+    "voice": "목소리",
+    "hair": "헤어",
+    "accessories": "액세서리",
+    "uniforms": "유니폼",
+    "presets": "프리셋",
+    "studio": "스튜디오",
+    "layers": "레이어",
+    "edit": "편집",
+    "look": "외형",
+    "eyes": "눈",
+    "brows": "눈썹",
+    "nose": "코",
+    "mouth": "입",
+    "head": "머리",
+    "shirt": "상의",
+    "style": "스타일",
+    "shorts": "반바지",
+    "socks": "양말"
+  },
+  "game/character/look_import.gdc": {
+    "back": "뒤로"
+  },
+  "game/character/look_missing.gdc": {
+    "owned": "보유 중"
+  },
+  "game/character/player_card.gdc": {
+    "close": "닫기"
+  },
+  "game/net/online_terms.gdc": {
+    "reason": "사유",
+    "close": "닫기"
+  },
+  "game/shop/shop.gdc": {
+    "back": "뒤로",
+    "owned": "보유 중"
+  },
+  "game/ui/boot/boot_intro.gdc": {
+    "back": "뒤로"
+  },
+  "game/ui/career_page.gdc": {
+    "sets": "세트",
+    "close": "닫기"
+  },
+  "game/ui/cfg_panel.gdc": {
+    "controls": "조작 설정",
+    "settings": "설정"
+  },
+  "game/ui/control_hints.gdc": {
+    "block": "블로킹"
+  },
+  "game/ui/feedback_panel.gdc": {
+    "bug": "버그",
+    "type": "유형",
+    "send": "전송"
+  },
+  "game/ui/how_to_play.gdc": {
+    "index": "목차"
+  },
+  "game/ui/hud.gdc": {
+    "back to menu": "메뉴로 돌아가기",
+    "home": "홈",
+    "tie break": "타이브레이크",
+    "point": "득점",
+    "set": "세트",
+    "deuce": "듀스"
+  },
+  "game/ui/lobby/cpu_editor.gdc": {
+    "name": "이름",
+    "%d look%s": "외형 %d개"
+  },
+  "game/ui/lobby/lobby_panel.gdc": {
+    "shuffle": "팀 섞기",
+    "invite": "초대",
+    "spectators": "관전자"
+  },
+  "game/ui/lobby/roster_tile.gdc": {
+    "host": "호스트",
+    "captain": "주장",
+    "you": "나"
+  },
+  "game/ui/lobby/team_card.gdc": {
+    "full": "가득 참",
+    "locked": "잠김",
+    "ranked": "랭크",
+    "asked": "요청됨",
+    "empty": "비어 있음"
+  },
+  "game/ui/pause_menu.gdc": {
+    "pause": "일시정지"
+  },
+  "game/ui/seat_rebind.gdc": {
+    "reset": "초기화"
+  },
+  "game/ui/settings_panel.gdc": {
+    "master": "마스터",
+    "music": "음악",
+    "ambient": "환경음",
+    "crowd": "관중",
+    "audio": "오디오",
+    "video": "비디오",
+    "general": "일반",
+    "gameplay": "게임플레이",
+    "accessibility": "접근성",
+    "cameras": "카메라",
+    "crosshair": "조준선",
+    "automatic": "자동",
+    "chat": "채팅"
+  },
+  "game/ui/stat_row.gdc": {
+    "level": "레벨",
+    "host": "호스트"
+  },
+  "game/ui/title_editor.gdc": {
+    "title": "칭호",
+    "look": "스타일",
+    "effect": "효과"
+  }
+}

@@ -129,13 +129,16 @@ def build_patch_map(patch_data_dir: str) -> Dict[str, Callable[[bytes], bytes]]:
                 lambda raw, p=prop, k=ko: patch_res_text(raw, p, k)
             )
 
-    # 5. .gdc files
+    # 5. .gdc files (global + token-level UI patches)
     gdc_path = os.path.join(patch_data_dir, "translations_gdc.json")
-    if os.path.isfile(gdc_path):
-        gdc_data = json.load(open(gdc_path, "r", encoding="utf-8"))
-        for rel, rep in gdc_data.items():
-            if rep:
-                patch_map[rel] = lambda raw, r=rep: patch_gdc(raw, r)
+    gdc_tok_path = os.path.join(patch_data_dir, "translations_gdc_tokens.json")
+    gdc_data = json.load(open(gdc_path, "r", encoding="utf-8")) if os.path.isfile(gdc_path) else {}
+    gdc_tok_data = json.load(open(gdc_tok_path, "r", encoding="utf-8")) if os.path.isfile(gdc_tok_path) else {}
+    for rel in set(gdc_data.keys()) | set(gdc_tok_data.keys()):
+        rep = gdc_data.get(rel, {})
+        tok_rep = gdc_tok_data.get(rel)
+        if rep or tok_rep:
+            patch_map[rel] = lambda raw, r=rep, tr=tok_rep: patch_gdc(raw, r, tr)
 
     return patch_map
 

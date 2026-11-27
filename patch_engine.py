@@ -328,17 +328,22 @@ def patch_scn_variants(raw: bytes, replacements: Dict[str, str]) -> bytes:
     return bytes(rsrc)
 
 
-def patch_gdc(raw: bytes, replacements: Dict[str, object]) -> bytes:
-    """Replace string constants in GDSC bytecode by matching original string text.
+def patch_gdc(
+    raw: bytes,
+    replacements: Dict[str, object],
+    token_replacements: Optional[Dict[str, str]] = None,
+) -> bytes:
+    """Replace string constants in GDSC bytecode safely.
 
-    replacements can map either str(const_idx) -> {"orig": str, "ko": str}
-    or orig_str -> ko_str directly (version-resilient).
+    - replacements: global orig_str -> ko_str (for pure display strings).
+    - token_replacements: orig_str -> ko_str applied ONLY at UI display token sites
+      (.text =, .tooltip_text =, .placeholder_text =, .title =, _tab(), _menu_btn(),
+      _labeled(), _card_btn(icon, title, ...), etc.) by appending new constants to
+      the constant pool so internal dict/route/API keys remain untouched.
     """
     if raw[:4] != b"GDSC":
         raise ValueError("Not a GDSC file")
     orig_to_ko: Dict[str, str] = {}
-    for v in replacements.values() if False else []:
-        pass
     for k, v in replacements.items():
         if isinstance(v, dict):
             orig_to_ko[v["orig"]] = v["ko"]
@@ -355,11 +360,18 @@ def patch_gdc(raw: bytes, replacements: Dict[str, object]) -> bytes:
     pos = 0
     id_count, const_count, line_count, token_count = struct.unpack_from("<IIII", dec, pos)
     pos += 16
+    ids = []
     for _ in range(id_count):
         slen = struct.unpack_from("<I", dec, pos)[0]
+        ids.append(
+            bytes(b ^ 0xB6 for b in dec[pos + 4 : pos + 4 + slen * 4]).decode(
+                "utf-32-le", errors="replace"
+            )
+        )
         pos += 4 + slen * 4
     out.extend(dec[:pos])
 
+    consts_str: Dict[int, str] = {}
     for i in range(const_count):
         vtype = struct.unpack_from("<I", dec, pos)[0]
         bt = vtype & 0xFFFF
@@ -370,6 +382,7 @@ def patch_gdc(raw: bytes, replacements: Dict[str, object]) -> bytes:
             padded_end = pos + 8 + ((slen + 3) & ~3)
             if bt == 4:
                 orig_s = s_bytes.decode("utf-8", errors="replace")
+                consts_str[i] = orig_s
                 if orig_s in orig_to_ko:
                     ko_bytes = orig_to_ko[orig_s].encode("utf-8")
                     pad = (-len(ko_bytes)) % 4
@@ -414,7 +427,66 @@ def patch_gdc(raw: bytes, replacements: Dict[str, object]) -> bytes:
                 raise ValueError(f"Unsupported GDC constant type {bt} at idx {i}")
             out.extend(dec[start:pos])
 
-    out.extend(dec[pos:])
+    # Append new constants for token-level UI replacements and rewrite matching tokens
+    tail = bytearray(dec[pos:])
+    if token_replacements:
+        tok_start = len(tail) - token_count * 8
+        # Build token words & labels for context inspection
+        toks = []
+        for ti in range(token_count):
+            word, _line = struct.unpack_from("<II", tail, tok_start + ti * 8)
+            t = word & 0xFF
+            arg = word >> 8
+            if t == 0x82:
+                lbl = ids[arg] if arg < len(ids) else ""
+            elif t == 0x83:
+                lbl = consts_str.get(arg, "")
+            else:
+                lbl = f"T{t:02x}"
+            toks.append((t, arg, lbl))
+
+        added_consts: Dict[str, int] = {}
+        new_const_count = const_count
+        extra_const_bytes = bytearray()
+
+        def get_or_add_const(ko_text: str) -> int:
+            nonlocal new_const_count
+            if ko_text in added_consts:
+                return added_consts[ko_text]
+            idx = new_const_count
+            new_const_count += 1
+            added_consts[ko_text] = idx
+            kb = ko_text.encode("utf-8")
+            pad = (-len(kb)) % 4
+            extra_const_bytes.extend(struct.pack("<II", 4, len(kb)))
+            extra_const_bytes.extend(kb + (b"\x00" * pad))
+            return idx
+
+        for ti, (t, arg, _lbl) in enumerate(toks):
+            if t != 0x83 or arg not in consts_str:
+                continue
+            orig_s = consts_str[arg]
+            if orig_s not in token_replacements:
+                continue
+            p1 = toks[ti - 1][2] if ti > 0 else ""
+            p2 = toks[ti - 2][2] if ti > 1 else ""
+            p3 = toks[ti - 3][2] if ti > 2 else ""
+            p4 = toks[ti - 4][2] if ti > 3 else ""
+            is_ui_site = (
+                (p1 == "T9c" and p2 in ("text", "tooltip_text", "placeholder_text", "title", "dialog_text", "ok_button_text", "cancel_button_text"))
+                or (p1 == "Tcd" and p2 in ("_tab", "_menu_btn", "_labeled", "_btn", "set_text", "add_tab", "add_item"))
+                or (p1 == "Tcf" and p3 == "Tcd" and p4 == "_card_btn")
+            )
+            if is_ui_site:
+                new_idx = get_or_add_const(token_replacements[orig_s])
+                new_word = (new_idx << 8) | 0x83
+                struct.pack_into("<I", tail, tok_start + ti * 8, new_word)
+
+        if extra_const_bytes:
+            out.extend(extra_const_bytes)
+            struct.pack_into("<I", out, 4, new_const_count)
+
+    out.extend(tail)
     new_dec = bytes(out)
     comp = zstandard.ZstdCompressor(level=6).compress(new_dec)
     return b"GDSC" + struct.pack("<II", ver, len(new_dec)) + comp
